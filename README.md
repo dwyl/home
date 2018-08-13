@@ -402,6 +402,16 @@ which means the other housemates get to chose from a wide pool of potential.
 This has been a "win-win" strategy over the last 7 years and we intend to
 adapt it to **`home`**.
 
+This is a sample of _one_ of our AirBnB listings in London:
+
+![image](https://user-images.githubusercontent.com/194400/44030477-d6a1e598-9ef8-11e8-90f4-d0d3cbb7a1af.png)
+![image](https://user-images.githubusercontent.com/194400/44030597-243ebb8c-9ef9-11e8-8a61-8e36eca70242.png)
+![image](https://user-images.githubusercontent.com/194400/44030540-fd57f1b4-9ef8-11e8-9d06-7c1d5c654fb3.png)
+![image](https://user-images.githubusercontent.com/194400/44030560-0c4520ac-9ef9-11e8-816e-825c95c1b3d6.png)
+
+Our listing is "unlisted" because the appartment is long-term rented
+while we focus on setting up **`home`**.
+
 To be clear: we don't want to be "landlords", we want to build a community
 and be part of _solving_ the housing shortage, not _exacerbate_ it!
 
@@ -410,6 +420,8 @@ can **co-_own_** the company thus the amount they pay each month
 goes towards _ownership_ not "rent". We intend to _explore_ this option
 further our 2nd year of operation;
 once we have launched our 3rd or 4th **`home`**.
+
+
 
 
 
