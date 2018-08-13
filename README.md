@@ -46,8 +46,53 @@ and we want to help accelerate the ascent of other female founders.
 via: https://standrewsbusinessclub.co.uk/st-andrews-university-enterprise-week-2017-keynote-event/
 
 
+## Vertical
+
+We feel that the "vertical" category that most reflects our project
+is "***community***".
 
 
+
+There are 36 options for "Vertical" on the Startup School form see:
+https://github.com/nelsonic/nelsonic.github.io/issues/511#issuecomment-412265192
+
+**`home`** does not "_neatly_ fit" into anyone of them
+rather it encompasses several:
++ `<option value="7">Community</option>` because we are building a community.
++ `<option value="8">Consumer</option>` because our "product"
+is "consumer" focussed; our customers are "consumers".
++ `<option value="10">Developer Tools</option>` because we will be building
+several open source tools that will help other developers realise their ideas!
++ `<option value="11">Diversity</option>` because we are focussed on
+ladies in tech and other under-represented groups.
++ `<option value="14">Education</option>`
++ `<option value="20">Hardware</option>` we will be building all our
+door-access hardware from scratch. https://github.com/dwyl/door
+(_though this is not our "core product"_)
++ `<option value="21">Healthcare</option>` because we are promoting
+a sustainably healthy lifestyle.
++ `<option value="22">International Market</option>` because we
+intend to be _global_.
++ `<option value="23">Jobs</option>` we will both _create_ jobs
+(_where we employ people directly_)
+and help train people with skills they need to _get_ jobs in tech.
++ `<option value="26">Moonshots / Hard Tech</option>` we feel that building
+an App to help people engage with their community is solving a "Hard" problem.
+It's not a "moonshot" but it is difficult to get _right_.
++ `<option value="27">Nonprofit</option>` we will be _profitable_
+but not _focussed_ on profits. And Open Sourcing all our code/systems
+means that _anyone_ can "copy" our model which means we
+can multiply the (positive) impact.
++ `<option value="30">Security</option>` We will be building both virtual and
+physical security systems. We are not "pitching" ourselves
+as a "security company" however security _is_ at the "core" of everything we do!
++ `<option value="36">Travel</option>` last but not least
+we _definitely_ qualify as a "travel" company because people will
+come from all over the world to stay at **`home`**.
+Our aim is for our App to include travel and "what to do/visit" advice.
+It will transcend the physical locations (operated by us)
+and be used _ubiquitously_ for human interaction
+(_without data mining and Ads!_). Again, this is not the "focus" for MVP.
 
 
 
