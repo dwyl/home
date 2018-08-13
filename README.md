@@ -1,3 +1,12 @@
+<!--
+<meta>
+the purpose of this doc is to expand on our YC Startup School Application
+see: https://github.com/nelsonic/nelsonic.github.io/issues/511
+Each section begins with the question on the YC SS Form
+and gives additional context and supporting info.
+</meta>
+-->
+
 # Project/Company Name: `home`<sup>1</sup>
 
 ![image](https://user-images.githubusercontent.com/194400/44024208-944f38da-9ee4-11e8-9f89-6eacd8a03d31.png)
@@ -7,6 +16,17 @@ We have discussed crowd-sourcing the name from our community,
 but for now, this is easier and it kinda "works" for what we are doing.
 There is built-in "brand recognition"
 in the expression "Working from **`home`**".
+
+
+## Company URL?
+
+I intend to make this doc available as a "landing page" on
+https://dwyl.com/home
+with each section anchored so that we can link to it from the `<textarea>`
+sections of the YC SS Application form.
+For an example of this, see
+
+
 
 ## Description
 
@@ -20,9 +40,39 @@ We want to be on this stage in a a few years time
 and we want to help accelerate the ascent of other female founders.
 
 ![image](https://user-images.githubusercontent.com/194400/38866458-cc9ee126-4238-11e8-9760-f4ca0bab4cfb.png)
-@iteles speaking at St. Andrews Enterprise week 2018
-https://standrewsbusinessclub.co.uk/st-andrews-university-enterprise-week-2017-keynote-event/
+@iteles practicing her public speaking at St. Andrews Enterprise week: <br />
+
 ![image](https://user-images.githubusercontent.com/194400/44027124-42408c7a-9eed-11e8-8c20-129a21f9aa39.png)
+via: https://standrewsbusinessclub.co.uk/st-andrews-university-enterprise-week-2017-keynote-event/
+
+
+
+
+
+
+
+# tl;dr
+
+We like to think of **`home`** as a "***Pre-YC***"
+place to learn creative/coding skills,
+discover like-minded people and focus on solving big problems.
+Our aim is to help people have a solid foundation
+to launch into a career in tech
+either as an engineer or founder!
+We believe that having a female-founder-focus
+is _essential_ for achieving "balance" in the tech industry
+and is congruent with YC's mission.
+
+_Please_ give us a space on Startup School
+so that we can benefit from mentorship and
+be part of your _incredible_ network.
+
+_Thank you_!
+
+
+## Why?
+
+
 
 
 ## What?
@@ -44,7 +94,7 @@ to help us **_measure_ everything** in the **`home`** community.
 Areas we are hoping to explore include:
 + "**Customer Acquisition**" - finding the like-minded people who
 want to live, learn and work in a co-living environment.
-+ Measuring and Optimising for _Happiness_ (_see: "OMTM" below_)
++ Measuring and Optimising for _Happiness_ (_see: "**OMTM**" section below_)
 + **Promoting learning** and sharing of knowledge/skill without fear of
 intimidation through "_brogrammer_" behaviour.
 + **Security Systems** both physical and virtual for accessing the building.
@@ -58,32 +108,6 @@ As you can tell from this list, we have "lots of ideas". <br />
 We want/need _Help_/_Mentoring_ from a YC partner
 to know where to focus our attention.
 
-### One Metric That Matters ["OMTM"]: _Happiness_
-
-Our short-to medium-term metric is "_Happiness_".
-We want to make "_Happiness_" our primary KPI because
-
-
-we realise that this is a subjective measure
-
-
-
-This does not mean there won't be _disagreements_ and even _conflicts_.
-What it means is that _everyone_ involved knows what we are "_optimising for_",
-and can act accordingly.
-
-
-We have already begun to make some progress on this.
-see: https://github.com/dwyl/feedback
-It's our _anonymous_ MVP on: https://dwyl-feedback.herokuapp.com/feedback/new
-![feedback-form](https://user-images.githubusercontent.com/194400/44026238-4955d5ea-9eea-11e8-86b1-7e26ae69ea72.png)
-
-
-
-We like to think of it as a "Pre-YC" place to learn creative/coding skills,
-discover like-minded people and focus on solving big problems
-and help ladies launch into a career in tech
-either as an engineer or founder!
 
 
 ### Female Focussed?
@@ -143,9 +167,68 @@ are condescending/intimidating towards ladies and minorities,
 we will address this
 
 
-> "The test of whether people love what they do is whether they'd do it even if they weren't paid for it even if they had to work at another job to make a living." "How To Do What You Love" http://www.paulgraham.com/love.html Paul Graham, 2006
+
+### One Metric That Matters ["OMTM"]: _Happiness_
+
+> “_It really is true, the company will build
+whatever the CEO decides to measure._” ~ Sam Altman
+via: https://medium.com/how-to-start-a-startup/47-quotes-from-sam-altman-on-building-a-great-product-51aa656952ab
+
+Our short-to medium-term metric is "_Happiness_".
+We want to make "_Happiness_" our primary KPI because
+we know that by measuring and optimising for happiness _first_
+any other goals will be achievable.
+
+
+We realise that "_Happiness_" is a subjective measure
+however we intend to make it _quantifiable_
+in the same way that there is a "World Happiness Report":
+https://en.wikipedia.org/wiki/World_Happiness_Report
+we intend to do that for our company/project
+and make it available for others too!
+
+
+
+This does not mean there won't be _disagreements_ and even _conflicts_.
+What it means is that _everyone_ involved knows what we are "_optimising for_",
+and can act accordingly.
+
+
+We have already begun to make some progress on this.
+see: https://github.com/dwyl/feedback
+It's our _anonymous_ MVP on: https://dwyl-feedback.herokuapp.com/feedback/new
+![feedback-form](https://user-images.githubusercontent.com/194400/44026238-4955d5ea-9eea-11e8-86b1-7e26ae69ea72.png)
+
+
+A _variant_ on measuring Happiness is measuring the extent to which
+people are "_Doing What You Love_".
+We believe in this _strongly_ to the extent that our _current_ company
+is called "DWYL" ... see: https://github.com/dwyl/start-here
+
+
+The _reason_ we are not trying to measure "dwyl-ness"
+is because sometimes to do something you love,
+you have to _fund_ it doing a job you don't necessarily love.
+PG put it best:
+
+> "_The test of whether people love what they do is whether
+they'd do it even if they weren't paid for it even if they
+had to work at another job to make a living._"
+"How To Do What You Love" http://www.paulgraham.com/love.html Paul Graham, 2006
+
+Some of the people living/working at **`home`** will fall into the category
+of "work at another job",
+so measuring their overall happiness is a more accurate metric.
+
 
 ### Why "It Will _Never_ Work" (Risks and Mitigation)
+
+<!--
+I learned about adding a "Why You Should NOT Invest" section to a pitch
+from reading "Orginals" by Adam Grant.
+It puts people "off guard" if you *explicitly* identify your "weaknesses"
+and shows that you have considered the "risks" and how to mitigate them.
+-->
 
 There are _several_ risks of creating a co-living home/community
 any of which can "sink the ship", we need to be aware of and address them all.
@@ -201,6 +284,9 @@ is aided by and even _requires_ open-sourcing the code.
 This will encourage people to contribute to improving the App(s)
 which in turn promotes ownership and
 
+> If you can help us think of and address any other risks,
+we would love to hear from you!
+
 ### Revenue Plans
 
 In the short term we
@@ -224,11 +310,12 @@ We have experience of both listing and "consuming" on AirBnB
 
 #### Digital Nomad Girls (DNG)
 
-We are friends of Jenny at https://digitalnomadgirls.com
+We are friends of **Jenny** at https://digitalnomadgirls.com
 a network of female-only "Digital Nomads" (remote workers)
 who either have their own micro-business
 or work for someone else remotely. <br />
-Reach: Fb: 8.8K, Insta: 24.9k, Tw: 4.5k (August 2018).
+Reach: Fb: 8.8K, [Insta: 24.9k](https://www.instagram.com/digitalnomadgirls/),
+Tw: 4.5k (August 2018).
 
 We intend to offer places "at cost" to members of DNG
 because we know they will help fuel our organic/social traffic
@@ -263,20 +350,67 @@ because we feel that YC is the best "filter" for the type of people
 we want to attract to live, learn and work at **`home`**.
 
 
+## _Who?_
 
+
+
+![ines-and-nelson](https://user-images.githubusercontent.com/4185328/44024346-f07ed4c6-9ee4-11e8-9abe-7739cf1dbd88.jpg)
 
 
 ### Why Us?
-
 
 > "_Let's **solve our own problem** and see where it goes_".﻿
 ~ Jessica Livingston : How to Build the Future
 https://youtu.be/nFOC-cgIWaY?t=5m26s
 
+We have started two companies together a Clothing Company
+and an App Development Agency. Both bootstrapped. Both profitable.
+
+We are using the operating surplus from **`@dwyl`** to fund **`home`**.
+
+#### Experience in Training/Coaching Female Founders & Tech Workers?
+
+We have a decent amount of experience of training people from scratch
+(_with no previous experience_) to get jobs as developers
+or start their own companies.
+![founders-and-coders-homepage](https://user-images.githubusercontent.com/194400/44028857-2fa67b0a-9ef3-11e8-93c4-c735bd79f2f9.png)
 
 
-https://foundersandcoders.com/about/
+_Examples_ of companies founded/grown through Founders & Coders:
++ FatLama https://fatlama.com/ (YC S17) - online rental marketplace for equipment
+founded by
++ Scrimba https://scrimba.com online coding learning and pair-programming environment
++ Personably
+
+see: https://foundersandcoders.com/about/
 ![a-way-into-tech-industry-founders-coders](https://user-images.githubusercontent.com/194400/44007184-f71e0a2e-9e88-11e8-88e2-99261ddc5dc4.png)
+
+
+#### Experience in Real Estate?
+
+We have previously bought, renovated and rented out 3 homes and feel
+we have learned on "small scale". All our property investments have been
+cashflow positive.
+In our existing rental properties we only have "young professionals"
+who aren't "ready" to buy (either because they are establishing themselves
+  or unsure if they want to live in the particular city long-term)
+we consistently charge _below_ "market rate" and offer above average
+fixtures/fittings and amenities. Our _below_ "market clearing price"
+means we are _flooded_ with "applicants"
+each time someone decides to "move on",
+which means the other housemates get to chose from a wide pool of potential.
+This has been a "win-win" strategy over the last 7 years and we intend to
+adapt it to **`home`**.
+
+To be clear: we don't want to be "landlords", we want to build a community
+and be part of _solving_ the housing shortage, not _exacerbate_ it!
+
+Our medium to long-term goal is that people who co-live in the **`home`**
+can **co-_own_** the company thus the amount they pay each month
+goes towards _ownership_ not "rent". We intend to _explore_ this option
+further our 2nd year of operation;
+once we have launched our 3rd or 4th **`home`**.
+
 
 
 ### Modern Decor
@@ -321,6 +455,8 @@ http://paulgraham.com/hiring.html > A Public Service Message
 + Grokhome: https://www.grokhome.com
 + Hack’N’Sleep https://www.hacknsleep.com
 (_affiliated with 500 Startups & Hack Reactor_)
++ Nomad Pass: https://nomadpass.com a listing of several remote-friendly
+living/working places around the world.
 + Sun & Co: https://sun-and-co.com (_co-living only no "hacking" component_)
 
 From reading https://yclist.com / http://www.ycombinator.com/companies
