@@ -51,6 +51,14 @@ via: https://standrewsbusinessclub.co.uk/st-andrews-university-enterprise-week-2
 
 
 
+
+
+
+
+
+
+
+
 # tl;dr
 
 We like to think of **`home`** as a "***Pre-YC***"
@@ -72,7 +80,8 @@ _Thank you_!
 
 ## Why?
 
-
+![working-from-home](https://user-images.githubusercontent.com/194400/43996896-071d1e66-9dc5-11e8-93e2-9a4b3fa000c9.png)
+http://paulgraham.com/opensource.html > Workplaces
 
 
 ## What?
@@ -287,9 +296,11 @@ which in turn promotes ownership and
 > If you can help us think of and address any other risks,
 we would love to hear from you!
 
-### Revenue Plans
+### Getting Traction: Revenue & Customer Feedback
 
-In the short term we
+In the short term we want to _focus_ on building our App.
+In order to _test_ the App we need _users_.
+To _get_ these users we intend to use the following channels:
 
 
 
@@ -305,7 +316,8 @@ We will incorporate the feedback of people who find us through AirBnB
 into our App and ask people for reviews on Google, TripAdvisor and to post
 pictures on their "Social".
 
-We have experience of both listing and "consuming" on AirBnB
+We have experience of both listing and "consuming" on AirBnB.
+(_see: "Experience in Real Estate?" section below_)
 
 
 #### Digital Nomad Girls (DNG)
@@ -318,7 +330,8 @@ Reach: Fb: 8.8K, [Insta: 24.9k](https://www.instagram.com/digitalnomadgirls/),
 Tw: 4.5k (August 2018).
 
 We intend to offer places "at cost" to members of DNG
-because we know they will help fuel our organic/social traffic
+because they are _lovely_ people who share our vision
+and we know they will help fuel our organic/social traffic
 by mentioning (linking to) us on their travel blogs, Instagram and YouTube.
 
 
@@ -342,31 +355,50 @@ we feel that if we need to generate targeted demand,
 this is the route we will take.
 
 
-
 #### Y Combinator _Network_
 
-Our ultimate aim is to be part of the Y Combinator Network
+Our _ultimate_ aim is to be part of the Y Combinator Network
 because we feel that YC is the best "filter" for the type of people
 we want to attract to live, learn and work at **`home`**.
+
+Longer term we plan to build _many_ instances of **`home`** around the world,
+where prospective YC applicants can meet each other and
+[form, storm norm & perform](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development)
+in a controlled environment ***before*** they apply to YC.
+And _current_ members of YC (both Europe and US founders)
+can base their company and not have to _think_
+about laundry, nutrition or bills;
+
+We believe there is a _strong_ symbiosis between YC's Network and **`home`**.
+<!-- don't know if we need to add this, don't want to sound desperado ..
+and will _gladly_ accept equity investment in exchange for mentorship
+and access to the vast network.
+-->
 
 
 ## _Who?_
 
-
-
 ![ines-and-nelson](https://user-images.githubusercontent.com/4185328/44024346-f07ed4c6-9ee4-11e8-9abe-7739cf1dbd88.jpg)
+
+Inês and Nelson went to the same _primary_ school.
+They have been an "item" for 19 years (since age 14!),
+business partners for 13 years
+(2005 - 2007 and 2013 - present. )
+and _married_ for 1 year.
+![image](https://user-images.githubusercontent.com/194400/44033702-247f8ee6-9f03-11e8-8b0f-23f498c043eb.png)
+
 
 
 ### Why Us?
 
-> "_Let's **solve our own problem** and see where it goes_".﻿
+> "_Let's **solve our own problem** and see where it goes_".﻿ <br />
 ~ Jessica Livingston : How to Build the Future
 https://youtu.be/nFOC-cgIWaY?t=5m26s
 
 We have started two companies together a Clothing Company
 and an App Development Agency. Both bootstrapped. Both profitable.
 
-We are using the operating surplus from **`@dwyl`** to fund **`home`**.
+We are using the operating surplus from **`@dwyl`** to bootstrap **`home`**.
 
 #### Experience in Training/Coaching Female Founders & Tech Workers?
 
@@ -448,12 +480,10 @@ Both previous businesses have been profitable and had zero capital.
 
 http://paulgraham.com/hs.html (What You'll Wish You Had Known) > Now
 
-https://cloud.githubusercontent.com/assets/194400/12869888/02bf0de4-cd24-11e5-96a6-6ab0b9f11ecf.JPG
+[![bookshelf-large](https://user-images.githubusercontent.com/194400/44033976-e546c3b0-9f03-11e8-80fe-c0e03e65e5c1.JPG)](
+https://cloud.githubusercontent.com/assets/194400/12869888/02bf0de4-cd24-11e5-96a6-6ab0b9f11ecf.JPG)
 
 
-
-![working-from-home](https://user-images.githubusercontent.com/194400/43996896-071d1e66-9dc5-11e8-93e2-9a4b3fa000c9.png)
-http://paulgraham.com/opensource.html > Workplaces
 
 ![go-work-for-an-existing-company-for-a-few-years](https://user-images.githubusercontent.com/194400/43996934-d3a21540-9dc5-11e8-82af-45e63c219f64.png)
 http://paulgraham.com/hiring.html > A Public Service Message
@@ -534,15 +564,47 @@ Our plan is to have one or more electric car(s)
 ## UNDERSERVED COMMUNITIES AND SOCIAL SERVICES
 
 
+Once we have proved the initial model of **`home`**
+with a successful App and _expanded_ to 5 locations,
+we intend to hire a team member who will be responsible
+for reaching out to and mentoring people are _especially_ vulnerable:
+young adults from "broken homes", children of incarcerated, drug-dependent
+or _dead_ parents and women who have been victims of domestic abuse.
+
+
+We _already_ have a working relationship with Domestic Abuse charities
+http://www.safelives.org.uk in the UK and http://www.cococi.org/fr/about-us
+in Portugal.
+
+Our aim will be to give women and young adults who have been subjected
+to domestic violence a chance to live in a safe living environment
+where they can learn skills, find work and start their own success stories!
+
+
+
+
 # Other Areas Which Are Not Our _Primary_ Focus:
 
 ## A.I
+
+We intend to use computer vision for physical access controls (door entry).
+This will not be our "product" however we will "_assemble_"
+the pieces
+
+For this we will partner with our good friend (dwyl alum) **Nikhila Ravi**:
+see: https://www.linkedin.com/in/nikhilaravi / https://github.com/nikhilaravi
+who co-organises http://opened.ai
+![nikhila-ravi-opened-ai](https://user-images.githubusercontent.com/194400/44032660-bf68447e-9eff-11e8-8129-58ab50033905.png)
+
 
 
 
 ## ROBOTICS
 
-We intend to use
+We intend to use robots for as much domestic work as possible
+to both alleviate the burden of "chores" and
+Initially this will be confined to a robotic vaccuum cleaner,
+but
 
 
 
