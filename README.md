@@ -15,22 +15,22 @@ and gives additional context and supporting info.
 We have discussed crowd-sourcing the name from our community,
 but for now, this is easier and it kinda "works" for what we are doing.
 There is built-in "brand recognition"
-in the expression "Working from **`home`**".
+in the common expression "_Working from **`home`**_".
 
+<hr />
 
-## Company URL?
+## URL
+
+#### Company URL
 
 I intend to make this doc available as a "landing page" on
 https://dwyl.com/home
-with each section anchored so that we can link to it from the `<textarea>`
-sections of the YC SS Application form.
-For an example of this, see
 
-
+<hr />
 
 ## Description
 
-> Describe your company in a sentence or two. `<input maxlength="60">``
+> Describe your company in a sentence or two. `<input maxlength="60">`
 
 We are a Female Founder-Focussed Co-Living/Learning Home [57 characters]
 
@@ -45,15 +45,16 @@ and we want to help accelerate the ascent of other female founders.
 ![image](https://user-images.githubusercontent.com/194400/44027124-42408c7a-9eed-11e8-8c20-129a21f9aa39.png)
 via: https://standrewsbusinessclub.co.uk/st-andrews-university-enterprise-week-2017-keynote-event/
 
+<hr />
 
 ## Vertical
 
 We feel that the "vertical" category that most reflects our project
-is "***community***".
+is "***community***" closely followed by "***diversity***".
 
 
 
-There are 36 options for "Vertical" on the Startup School form see:
+There are **36 options** for "Vertical" on the Startup School form see:
 https://github.com/nelsonic/nelsonic.github.io/issues/511#issuecomment-412265192
 
 **`home`** does not "_neatly_ fit" into anyone of them
@@ -67,8 +68,8 @@ several open source tools that will help other developers realise their ideas!
 ladies in tech and other under-represented groups.
 + `<option value="14">Education</option>`
 + `<option value="20">Hardware</option>` we will be building all our
-door-access hardware from scratch. https://github.com/dwyl/door
-(_though this is not our "core product"_)
+door-access hardware from scratch using open source hardware and software.
+e.g: https://github.com/dwyl/door (_though this is not our "core product"_)
 + `<option value="21">Healthcare</option>` because we are promoting
 a sustainably healthy lifestyle.
 + `<option value="22">International Market</option>` because we
@@ -94,11 +95,129 @@ It will transcend the physical locations (operated by us)
 and be used _ubiquitously_ for human interaction
 (_without data mining and Ads!_). Again, this is not the "focus" for MVP.
 
+<hr />
+
+## Make
+
+### What is your company going to make? `<textarea maxlength="200">`
+
+**`home`** is a female founder focussed co-living/learning house
+where people live, learn & work on "something people want".
+By-product: Mobile App for community, door-access, lights & resource booking.
+[197 chars]
+
+> Getting this down to 200 characters is _hard_...!!
+
+Had to cut:
+
+We intend to use Wifi/BLE beacons to give ***location-contextual UI***
+to the users so they get relevant info through the **`home`**
+e.g: light switches, curtains, teleconference room bookings
+and kitchen/bathroom availability.
+People will share recipes (_public or private_)
+and meal plans (_house-specific_) inviting others to partake in meals!
+
+<hr />
+
+## Why?
+
+### Why did you pick this to work on? `<textarea maxlength="250">`
+
+**`home`** is what we wish we had when we started in the tech industry.
+A place to meet, live and learn with peers
+and a mentoring/support network throughout our career.
+We are passionate about fostering the next generation of tech
+workers & founders.
+
+<hr />
+
+## Commitment: Full-time
+
+#### Are you currently part-time or full-time on this startup?
+
+Options available:
+```html
+<select class="select required" name="company[commitment]" id="company_commitment">
+<option value=""></option>
+--
+  | <option value="full_time">Full Time (40+ hours a week)</option>
+  | <option value="part_time">Part Time (20+ hours a week)</option>
+  | <option value="other_commitment">Other</option></select>
+```
+
+If there was an option for "_double-full-time_" i.e. **80+** hours/week,
+we would pick that. <br />
+For the foreseeable future, **`home`** is our _life_!
+
+
+## _Progress_: Idea
+
+### Which of the following best describes your progress?
+
+```html
+<select class="select required" name="company[stage]" id="company_stage">
+<option value=""></option>
+--
+  | <option value="nothing">Nothing Built</option>
+  | <option value="idea">Idea/sketches</option>
+  | <option value="mocks">Mocks/Renderings</option>
+  | <option value="prototype">Prototype/pre-launch</option>
+  | <option value="private_beta">Private Beta</option>
+  | <option value="public_beta">Public Beta</option>
+  | <option value="preorders">Taking Preorders</option>
+  | <option value="launched">Launched</option></select>
+```
+
+Given that our project involves a physical building
+which is still "_under construction_",
+we intend to use the Startup School time to start building the Mobile App (PWA)
+which will be used by the people _staying_ in **`home`**.
+
+We expect the building works to be done by the end of September
+and the first "MVP" members to join us in October 2018.
+
+The option that most accurately reflects the progress of our App is "Idea".
+There isn't really an option in the list for "building site".
+But we have a team of professional construction workers and tradesmen
+taking care of the physical building so we feel that part is "on track".
 
 
 
+<hr />
+
+## How Far Along?
+
+### How far along are you? `<textarea maxlength="250">`
+
+The first **`home`** building is 65% construction-complete.
+(Architect designs & progress photos on website)
+We have built several components of our Mobile App (PWA)
+but do not yet have an MVP we can test with users;
+we plan to make it during Startup School. [249 chars]
 
 
+<hr />
+
+## Incorporated: No
+
+### Have you incorporated your company?* [yes/no]
+
+For the purposes of the "Co-living" project,
+we do not have a dedicated company for **`home`**.
+Until now we have been funding it through operating cashflow/surplus
+from our existing company (@dwyl) as well as personal equity.
+
+We are open to advice whether we should form a new company
+(_we are leaning towards a new company..._)
+we have a "four-letter-dotcom" domain: [dwyl.com](https://dwyl.com)
+and the corresponding "social accounts" e.g: https://twitter.com/dwyl
+which we feel would be a "waste" to _abandon_.
+
+If our advisors think we can "pivot" (repurpose) the `@dwyl` brand
+we'd be happy to do that.
+
+There is some "overlap", given that **`home`** is helping
+people discover and _do_ what they love.
 
 
 
