@@ -19,12 +19,15 @@ in the common expression "_Working from **`home`**_".
 
 <hr />
 
-## URL
+## URL: https://dwyl.com/home
 
 #### Company URL
 
+Note: this is a _suggestion_.
 I intend to make this doc available as a "landing page" on
 https://dwyl.com/home
+If you have a better idea, please advise!
+I don't have a "strong preference" was just being pragmatic.
 
 <hr />
 
@@ -34,6 +37,17 @@ https://dwyl.com/home
 
 We are a Female Founder-Focussed Co-Living/Learning Home [57 characters]
 
+We have worked in the technology industry in several roles
+from everything from non-profit and 2-10 person micro co
+to 100k person mega-corp and high-growth startup: 100 >> 10k growth. <br />
+We have worked in, advised and trained people for _several_ startups.
+We feel we have a _grasp_ of what it takes to run a successful technology startup.
+(_though we expect to gain significantly more wisdom on the subject through
+  participating in Startup School and possibly YC's "main" program_)
+We have lived the "digital nomad" (remote working) lifestyle and
+know what the biggest challenges are.
+
+
 ![female-founder-conference-qa](https://user-images.githubusercontent.com/194400/44026506-3030c5c4-9eeb-11e8-9890-ef01a95fe450.png)
 
 We want to be on this stage in a a few years time
@@ -42,8 +56,10 @@ and we want to help accelerate the ascent of other female founders.
 ![image](https://user-images.githubusercontent.com/194400/38866458-cc9ee126-4238-11e8-9760-f4ca0bab4cfb.png)
 @iteles practicing her public speaking at St. Andrews Enterprise week: <br />
 
-![image](https://user-images.githubusercontent.com/194400/44027124-42408c7a-9eed-11e8-8c20-129a21f9aa39.png)
-via: https://standrewsbusinessclub.co.uk/st-andrews-university-enterprise-week-2017-keynote-event/
+![image](https://user-images.githubusercontent.com/194400/44027124-42408c7a-9eed-11e8-8c20-129a21f9aa39.png) <br />
+via: https://standrewsbusinessclub.co.uk/st-andrews-university-enterprise-week-2017-keynote-event
+
+
 
 <hr />
 
@@ -60,33 +76,51 @@ https://github.com/nelsonic/nelsonic.github.io/issues/511#issuecomment-412265192
 **`home`** does not "_neatly_ fit" into anyone of them
 rather it encompasses several:
 + `<option value="7">Community</option>` because we are building a community.
+
 + `<option value="8">Consumer</option>` because our "product"
 is "consumer" focussed; our customers are "consumers".
+
 + `<option value="10">Developer Tools</option>` because we will be building
 several open source tools that will help other developers realise their ideas!
+
 + `<option value="11">Diversity</option>` because we are focussed on
 ladies in tech and other under-represented groups.
-+ `<option value="14">Education</option>`
+
++ `<option value="14">Education</option>` we are not building an "EdTech"
+company, however we are giving people _access_ to peer-lead tech learning
+which, from experience, can be _far_ more effective
+than traditional schools/university for learning tech skills.
+
+<!--
 + `<option value="20">Hardware</option>` we will be building all our
 door-access hardware from scratch using open source hardware and software.
 e.g: https://github.com/dwyl/door (_though this is not our "core product"_)
+-->
+
 + `<option value="21">Healthcare</option>` because we are promoting
-a sustainably healthy lifestyle.
+a sustainably healthy lifestyle and equipping people with strategies
+to _get_ healthy for people who have poor habits.
+
 + `<option value="22">International Market</option>` because we
 intend to be _global_.
+
 + `<option value="23">Jobs</option>` we will both _create_ jobs
 (_where we employ people directly_)
 and help train people with skills they need to _get_ jobs in tech.
+
 + `<option value="26">Moonshots / Hard Tech</option>` we feel that building
 an App to help people engage with their community is solving a "Hard" problem.
 It's not a "moonshot" but it is difficult to get _right_.
+
 + `<option value="27">Nonprofit</option>` we will be _profitable_
 but not _focussed_ on profits. And Open Sourcing all our code/systems
 means that _anyone_ can "copy" our model which means we
 can multiply the (positive) impact.
+
 + `<option value="30">Security</option>` We will be building both virtual and
 physical security systems. We are not "pitching" ourselves
 as a "security company" however security _is_ at the "core" of everything we do!
+
 + `<option value="36">Travel</option>` last but not least
 we _definitely_ qualify as a "travel" company because people will
 come from all over the world to stay at **`home`**.
@@ -103,7 +137,7 @@ and be used _ubiquitously_ for human interaction
 
 **`home`** is a female founder focussed co-living/learning house
 where people live, learn & work on "something people want".
-By-product: Mobile App for community, door-access, lights & resource booking.
+By-product: Mobile App for community, door-access, lights & resource sharing.
 [197 chars]
 
 > Getting this down to 200 characters is _hard_...!!
@@ -133,16 +167,16 @@ workers & founders.
 
 ## Commitment: Full-time
 
-#### Are you currently part-time or full-time on this startup?
+#### Are you currently part-time or full-time on this startup?
 
 Options available:
 ```html
 <select class="select required" name="company[commitment]" id="company_commitment">
 <option value=""></option>
 --
-  | <option value="full_time">Full Time (40+ hours a week)</option>
-  | <option value="part_time">Part Time (20+ hours a week)</option>
-  | <option value="other_commitment">Other</option></select>
+  | <option value="full_time">Full Time (40+ hours a week)</option>
+  | <option value="part_time">Part Time (20+ hours a week)</option>
+  | <option value="other_commitment">Other</option></select>
 ```
 
 If there was an option for "_double-full-time_" i.e. **80+** hours/week,
@@ -150,22 +184,22 @@ we would pick that. <br />
 For the foreseeable future, **`home`** is our _life_!
 
 
-## _Progress_: Idea
+## _Progress_: Idea
 
-### Which of the following best describes your progress?
+### Which of the following best describes your progress?
 
 ```html
 <select class="select required" name="company[stage]" id="company_stage">
 <option value=""></option>
 --
-  | <option value="nothing">Nothing Built</option>
-  | <option value="idea">Idea/sketches</option>
-  | <option value="mocks">Mocks/Renderings</option>
-  | <option value="prototype">Prototype/pre-launch</option>
-  | <option value="private_beta">Private Beta</option>
-  | <option value="public_beta">Public Beta</option>
-  | <option value="preorders">Taking Preorders</option>
-  | <option value="launched">Launched</option></select>
+  | <option value="nothing">Nothing Built</option>
+  | <option value="idea">Idea/sketches</option>
+  | <option value="mocks">Mocks/Renderings</option>
+  | <option value="prototype">Prototype/pre-launch</option>
+  | <option value="private_beta">Private Beta</option>
+  | <option value="public_beta">Public Beta</option>
+  | <option value="preorders">Taking Preorders</option>
+  | <option value="launched">Launched</option></select>
 ```
 
 Given that our project involves a physical building
@@ -228,9 +262,17 @@ people discover and _do_ what they love.
 We like to think of **`home`** as a "***Pre-YC***"
 place to learn creative/coding skills,
 discover like-minded people and focus on solving big problems.
+
+**`home`** is _not_ a "coding bootcamp" like "FullStack Academy" (YC S12)
+and it's not an AirBnB (YC W09) it's more akin to a Recurse Center
+(_self-directed learning_)
+meets cost-effective "high-end hostel".
+with _privacy_ and plenty of space to think, exercise and work.
+
 Our aim is to help people have a solid foundation
 to launch into a career in tech
 either as an engineer or founder!
+
 We believe that having a female-founder-focus
 is _essential_ for achieving "balance" in the tech industry
 and is congruent with YC's mission.
@@ -244,7 +286,7 @@ _Thank you_!
 
 ## Why?
 
-![working-from-home](https://user-images.githubusercontent.com/194400/43996896-071d1e66-9dc5-11e8-93e2-9a4b3fa000c9.png)
+![working-from-home](https://user-images.githubusercontent.com/194400/43996896-071d1e66-9dc5-11e8-93e2-9a4b3fa000c9.png) <br />
 http://paulgraham.com/opensource.html > Workplaces
 
 
@@ -394,6 +436,8 @@ of "work at another job",
 so measuring their overall happiness is a more accurate metric.
 
 
+<br />
+
 ### Why "It Will _Never_ Work" (Risks and Mitigation)
 
 <!--
@@ -456,6 +500,18 @@ a **100% Open Source** Community Culture
 is aided by and even _requires_ open-sourcing the code.
 This will encourage people to contribute to improving the App(s)
 which in turn promotes ownership and
+
++ It's **_not_ for everyone**.
+We have been travelling and worked remotely
+and we know how big the demand for tech-focussed co-living is; it's real.
+Just look at 
+But we readily acknowledge that this is _not_ for everyone.
+Read the comments on this video: https://www.youtube.com/watch?v=6nmuy4zktBI
+(_Note: we are **NOT** building a **hyper-expensive** zero-privacy
+  sardine-can "pod sharing" at $50-60/night ...
+  we are building a **spacious**, **quiet** and **clean**
+"affordable luxury shared living" where we **chose** to share so we can meet
+interesting people, learn from peers and do meaningful work_)
 
 > If you can help us think of and address any other risks,
 we would love to hear from you!
@@ -540,7 +596,7 @@ and access to the vast network.
 -->
 
 
-## _Who?_
+## _Who?_
 
 ![ines-and-nelson](https://user-images.githubusercontent.com/4185328/44024346-f07ed4c6-9ee4-11e8-9abe-7739cf1dbd88.jpg)
 
@@ -582,7 +638,7 @@ see: https://foundersandcoders.com/about/
 ![a-way-into-tech-industry-founders-coders](https://user-images.githubusercontent.com/194400/44007184-f71e0a2e-9e88-11e8-88e2-99261ddc5dc4.png)
 
 
-#### Experience in Real Estate?
+#### Experience in Real Estate?
 
 We have previously bought, renovated and rented out 3 homes and feel
 we have learned on "small scale". All our property investments have been
@@ -621,7 +677,7 @@ once we have launched our 3rd or 4th **`home`**.
 
 
 
-### Modern Decor
+### Modern Decor
 
 ![image](https://user-images.githubusercontent.com/194400/44026710-df19a5d8-9eeb-11e8-83dd-90bf8a95a5a6.png)
 via: "5 Tips for Choosing a Coliving Space" https://www.thehustlejuice.com/lifestyle/2017/9/12/5-tips-for-choosing-a-coliving-space
@@ -634,11 +690,11 @@ This is our _third_ business together.
 Both previous businesses have been profitable and had zero capital.
 
 
-### Why Portugal and Braga _Specifically_?
+### Why Portugal and Braga _Specifically_?
 
 
 
-### Library of Creativity/Technology/Business Focussed Books?
+### Library of Creativity/Technology/Business Focussed Books?
 
 ![good-books](https://user-images.githubusercontent.com/194400/44006998-8e47427a-9e85-11e8-986a-6d411e3a4e73.png)
 
@@ -687,7 +743,7 @@ Let us highlight the categories which are applicable **`home`**:
 
 
 
-## BRICK AND MORTAR 2.0
+## BRICK AND MORTAR 2.0
 
 We are re-purposing an _abandoned_ single-family large (_by European standards_)
 house and transforming it into something new.
@@ -749,7 +805,7 @@ where they can learn skills, find work and start their own success stories!
 
 # Other Areas Which Are Not Our _Primary_ Focus:
 
-## A.I
+## A.I
 
 We intend to use computer vision for physical access controls (door entry).
 This will not be our "product" however we will "_assemble_"
@@ -782,13 +838,13 @@ https://blog.ycombinator.com/moving-forward-on-basic-income/
 
 
 
-### Further/Background Reading/Watching
+### Further/Background Reading/Watching
 
 + Remote work is “the new normal”. (2018)
 https://www.fastcompany.com/40537399/remote-work-is-the-new-normal
 + https://remote.co/10-stats-about-remote-work/
 + Remote Work 2018: https://open.buffer.com/state-remote-work-2018/
-+ What's a Hacker House? | Grist: https://youtu.be/Z87meKvOV_0
++ What's a Hacker House? | Grist: https://youtu.be/Z87meKvOV_0 <br />
 (_profiles http://www.grokhome.com IO House and cor36_)
 + List of Hackbases: https://wiki.hackerspaces.org/Hackbases
 + What is "Co-living"? https://www.businessinsider.com/what-is-co-living-2017-2
