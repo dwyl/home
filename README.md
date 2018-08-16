@@ -264,7 +264,8 @@ place to learn creative/coding skills,
 discover like-minded people and focus on solving big problems.
 
 **`home`** is _not_ a "coding bootcamp" like "FullStack Academy" (YC S12)
-and it's not an AirBnB (YC W09) it's more akin to a Recurse Center
+and it's not an AirBnB (YC W09) it's
+more akin to a Recurse Center (YC S10) https://www.recurse.com/
 (_self-directed learning_)
 meets cost-effective "high-end hostel".
 with _privacy_ and plenty of space to think, exercise and work.
@@ -277,12 +278,28 @@ We believe that having a female-founder-focus
 is _essential_ for achieving "balance" in the tech industry
 and is congruent with YC's mission.
 
+We are planning to have a "hack space" or "Design & Technology Lab"
+which is a 50m<sup>2</sup> filled with prototyping tools/machines
+including a Laser cutter, CNC machine, 3D printers and wide range of
+tools for making furniture, electronics projects and other "hardware hacking".
+
 _Please_ give us a space on Startup School
 so that we can benefit from mentorship and
 be part of your _incredible_ network.
 
+
 _Thank you_!
 
+
+<hr />
+
+# WARNING: Below this point is "Work-in-Progress" for "internal purposes". 🚧
+
+We have made it **`public`** in the interest of "transparency",
+but _please_ don't read it if you are
+in _any_ way "critical" of embryonic ideas that are not "polished" in a "deck".
+
+<hr />
 
 ## Why?
 
@@ -479,7 +496,6 @@ once we have ironed out any "basic bugs" using our team and existing network.
 
 + Physical access security leading to loss of property.
 
-
 + Personal injury (_or death_) from using the facilities.
 
 + Descent into _chaos_ (_messiness and lack of hygiene_)
@@ -493,6 +509,8 @@ We don't "control" what people consume when they are _away_ from home,
 we just have a rule that they don't bring/consume it within.
 This is to avoid _any_ association with being a "party house"
 and to prevent a _leading_ cause of personal injury and _death_: intoxication.
+  + No Sex. This is enforced at [podshare.co](http://www.podshare.co) and
+  avoids a whole _heap_ of issues we cannot _afford_ to face. `#NoMeansNo` ...
 
 + **Open Sourcing All Code**, won't that _invite competition_?!
 We feel that the benefits of having
@@ -504,7 +522,7 @@ which in turn promotes ownership and
 + It's **_not_ for everyone**.
 We have been travelling and worked remotely
 and we know how big the demand for tech-focussed co-living is; it's real.
-Just look at 
+Just look at
 But we readily acknowledge that this is _not_ for everyone.
 Read the comments on this video: https://www.youtube.com/watch?v=6nmuy4zktBI
 (_Note: we are **NOT** building a **hyper-expensive** zero-privacy
