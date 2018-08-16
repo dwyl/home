@@ -19,9 +19,8 @@ in the common expression "_Working from **`home`**_".
 
 <hr />
 
-## URL: https://dwyl.com/home
 
-#### Company URL
+### Company URL: https://dwyl.com/home
 
 Note: this is a _suggestion_.
 I intend to make this doc available as a "landing page" on
@@ -39,7 +38,9 @@ We are a Female Founder-Focussed Co-Living/Learning Home [57 characters]
 
 We have worked in the technology industry in several roles
 from everything from non-profit and 2-10 person micro co
-to 100k person mega-corp and high-growth startup: 100 >> 10k growth. <br />
+to 100k person mega-corp
+and high-growth startup: 100 >> 10k (people) growth. <br />
+
 We have worked in, advised and trained people for _several_ startups.
 We feel we have a _grasp_ of what it takes to run a successful technology startup.
 (_though we expect to gain significantly more wisdom on the subject through

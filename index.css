@@ -2,12 +2,12 @@
 /* from https://github.com/oxalorg/sakura */
 html {
   font-size: 62.5%;
-  font-family: serif;
+  font-family: sans-serif;
 }
 body {
   font-size: 1.8rem;
   line-height: 1.618;
-  max-width: 38em;
+  max-width: 42em;
   margin: auto;
   color: #4a4a4a;
   background-color: #f9f9f9;
