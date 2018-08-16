@@ -7,3 +7,5 @@ erl_crash.dump
 *.ez
 *.beam
 /config/*.secret.exs
+node_modules
+package-lock.json
