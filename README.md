@@ -255,8 +255,6 @@ people discover and _do_ what they love.
 
 
 
-
-
 # tl;dr
 
 We like to think of **`home`** as a "***Pre-YC***"
@@ -841,9 +839,9 @@ who co-organises http://opened.ai
 
 We intend to use robots for as much domestic work as possible
 to both alleviate the burden of "chores" and
-Initially this will be confined to a robotic vaccuum cleaner,
-but
-
+Initially this will be confined to a robotic vacuum cleaner,
+but with a Hardware Hacking Lab in the basement, we expect
+at least one of our members to get creative with this.
 
 
 
