@@ -576,7 +576,7 @@ and worst-case scenarios.
 
 This list is ordered in terms of their probability and potential impact:
 
-+ Data miss-management leading to breach, GDPR fines and negative PR.
++ **Data miss-management** leading to breach, GDPR fines and negative PR.
 We intend to apply all the "best practices"
 we have learned from building/auditing apps in the Finance and Travel sectors
 where personal data protection is
@@ -638,15 +638,15 @@ We don't "control" what people consume when they are _away_ from home,
 we just have a rule that they don't bring/consume it within.
 This is to avoid _any_ association with being a "party house"
 and to prevent a _leading_ cause of personal injury and _death_: intoxication.
-  + No Sex. This is enforced at
-  [podshare.co](https://youtu.be/2heLd3z6Gz4?t=3m2s)
-  and avoids a whole _heap_ of issues we cannot _afford_ to face.
-  `#NoMeansNo` ... <br />
+    + No Sex. This is enforced at
+    [podshare.co](https://youtu.be/2heLd3z6Gz4?t=3m2s)
+    and avoids a whole _heap_ of issues we cannot _afford_ to face.
+    `#NoMeansNo` ... <br />
 
 + It's **_not_ for everyone**.
 We have been travelling and worked remotely
 and we know how big the demand for tech-focussed co-living is; it's real.
-Just look at
+Just look at NomadList and Coliving.com (_expanded upon below_)
 But we readily acknowledge that this is _not_ for everyone.
 Read the comments on this video: https://www.youtube.com/watch?v=6nmuy4zktBI
 (_Note: we are **NOT** building a **hyper-expensive** zero-privacy
@@ -774,7 +774,8 @@ _Examples_ of companies founded/grown through Founders & Coders:
 + FatLama https://fatlama.com/ (YC S17) - online rental marketplace for equipment
 founded by
 + Scrimba https://scrimba.com online coding learning and pair-programming environment
-+ Personably
++ Personably https://personably.co
+("rejected" by YC, funded by Rocket Internet)
 
 see: https://foundersandcoders.com/about/
 ![a-way-into-tech-industry-founders-coders](https://user-images.githubusercontent.com/194400/44007184-f71e0a2e-9e88-11e8-88e2-99261ddc5dc4.png)
@@ -782,19 +783,43 @@ see: https://foundersandcoders.com/about/
 
 #### Experience in Real Estate?
 
-We have previously bought, renovated and rented out 3 homes and feel
+We have previously bought, renovated and rented (out) 3 homes and feel
 we have learned on "small scale". All our property investments have been
 cashflow positive.
-In our existing rental properties we only have "young professionals"
-who aren't "ready" to buy (either because they are establishing themselves
-  or unsure if they want to live in the particular city long-term)
-we consistently charge _below_ "market rate" and offer above average
-fixtures/fittings and amenities. Our _below_ "market clearing price"
+Our existing properties are rented by/to "young professionals"
+who are not yet "ready" to buy (either because they are establishing themselves
+  or unsure if they want to live in the particular city long-term).
+Charging people _below_ "market rate" including all bills ("_zero hassle_")
+means they have a chance to _save_ for a deposit for their own place
+(_should they **chose** to go down the route of buying_).
+
+Our _below_ "market clearing price"
 means we are _flooded_ with "applicants"
 each time someone decides to "move on",
 which means the other housemates get to chose from a wide pool of potential.
 This has been a "win-win" strategy over the last 7 years and we intend to
-adapt it to **`home`**.
+adapt it to **`home`**: prices will be kept "low" (_affordability is essential_)
+and _existing_ housemates will decide who can join
+based on an online application.
+
+##### Affordable Housing?
+
+We **strongly believe** in **affordable housing** for ***everyone***
+as an **essential** "foundation" for
+all forms of human well-being and achievement.
+
+We know (from personal experience) that not everyone is **ready**
+to **buy** their own house/apartment
+either because they have
+not been **able** to save for a deposit
+or have not found something (_reasonably priced_) to buy.
+Some people _chose_ to rent instead of buy
+because it's **cheaper** in the short-run.
+See: "Renting vs Buying" on Khan Academy:
+https://www.khanacademy.org/economics-finance-domain/core-finance/housing/renting-v-buying/
+
+
+
 
 This is a sample of _one_ of our AirBnB listings in London:
 
@@ -818,13 +843,19 @@ once we have launched our 3rd or 4th **`home`**.
 
 
 
-
 ### Modern Decor
+
 
 ![image](https://user-images.githubusercontent.com/194400/44026710-df19a5d8-9eeb-11e8-83dd-90bf8a95a5a6.png)
 via: "5 Tips for Choosing a Coliving Space" https://www.thehustlejuice.com/lifestyle/2017/9/12/5-tips-for-choosing-a-coliving-space
 
+We have been using **MakeSpace** as our guide when designing all spaces.
 
+![image](https://user-images.githubusercontent.com/194400/44265246-afae7f00-a21d-11e8-84ad-2154c8f5d5ff.png)
+https://www.amazon.com/Make-Space-Stage-Creative-Collaboration/dp/1118143728
+
+We feel we have an "unfair advantage" over "regular" real estate developers
+or interior designers who have not done collaborative tech or remote work.
 
 #### Previous Experience?
 
@@ -833,6 +864,26 @@ Both previous businesses have been profitable and had zero capital.
 
 
 ### Why Portugal and Braga _Specifically_?
+
+Portugal is _highly_ popular with remote workers
+(_often called "Digial Nomads"_) and startup founders alike.
+There is a _burgeoning_ "startup scene" in both Lisbon and Porto.
+
+Nomad List is a **_crowdsourced_ database** of cities in the world
+to help you choose where to go next https://nomadlist.com
+
+
+![nomad-list-homepage-lisbon-third](https://user-images.githubusercontent.com/194400/44060939-44b1e5e2-9f4e-11e8-8677-e9fe4a86d7c9.png)
+At the time of writing, Lisbon is `#3` in the World.
+
+
+https://nomadlist.com/braga
+![nomadlist-braga-august-2018](https://user-images.githubusercontent.com/194400/44060945-47af7ee4-9f4e-11e8-89e2-464ba5640459.png)
+
+
+
+Further reading on the "Tech ecosystem" in Portugal:
+https://medium.com/paua-insights/mapping-out-the-tech-ecosystem-in-portugal-who-is-who-862a85fce28e
 
 
 
