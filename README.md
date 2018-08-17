@@ -11,22 +11,26 @@ and gives additional context and supporting info.
 
 ![image](https://user-images.githubusercontent.com/194400/44024208-944f38da-9ee4-11e8-9f89-6eacd8a03d31.png)
 
-<sup>1</sup> **`home`** is our "working title"; we open to suggestions!
-We have discussed crowd-sourcing the name from our community,
+<sup>1</sup> **`home`** is our "_working title_"; we're open to suggestions!
+We've discussed _crowd-sourcing_ the name from our community,
 but for now, this is easier and it kinda "works" for what we are doing.
 There is built-in "brand recognition"
 in the common expression "_Working from **`home`**_".
+And there's an "emoji" and free "font awesome icon" so we don't need to think
+about "branding" and can instead focus on building the _community_.
 
 <hr />
 
 
 ### Company URL: https://dwyl.com/home
 
+<!--
 Note: this is a _suggestion_.
 I intend to make this doc available as a "landing page" on
 https://dwyl.com/home
 If you have a better idea, please advise!
 I don't have a "strong preference" was just being pragmatic.
+-->
 
 <hr />
 
@@ -36,29 +40,40 @@ I don't have a "strong preference" was just being pragmatic.
 
 We are a Female Founder-Focussed Co-Living/Learning Home [57 characters]
 
-We have worked in the technology industry in several roles
-from everything from non-profit and 2-10 person micro co
-to 100k person mega-corp
+We have worked in the technology industry
+in several roles for the past 10 years,
+everything from non-profit and 2-10 person micro co.
+to 400k person "mega-corp"
 and high-growth startup: 100 >> 10k (people) growth. <br />
 
-We have worked in, advised and trained people for _several_ startups.
+We have built MVPs, advised and trained people for _several_ startups. <br />
 We feel we have a _grasp_ of what it takes to run a successful technology startup.
 (_though we expect to gain significantly more wisdom on the subject through
-  participating in Startup School and possibly YC's "main" program_)
+  participating in Startup School and possibly YC's "main" program_).
 We have lived the "digital nomad" (remote working) lifestyle and
 know what the biggest challenges are.
 
+### Female Founder Focus ?
+
+Being a female founder, we know it is
+_often_ more difficult to get ideas off the ground.
+We have felt the pain of female founders coming to us (@dwyl) to build their MVP
+because male-dominated "dev agencies"
+did not take them or their ideas seriously.
 
 ![female-founder-conference-qa](https://user-images.githubusercontent.com/194400/44026506-3030c5c4-9eeb-11e8-9890-ef01a95fe450.png)
 
-We want to be on this stage in a a few years time
-and we want to help accelerate the ascent of other female founders.
+We _applaud_ the tremendous work done by Jessica Livingston
+and other YC partners to organise the Female Founders Conference and
+_aspire_ to be _invited_ on stage in a few years time.
+We want to help _accelerate_ the ascent of other female founders
+by giving them a space to _start_ their journey (_before they apply to YC!_)
 
 ![image](https://user-images.githubusercontent.com/194400/38866458-cc9ee126-4238-11e8-9760-f4ca0bab4cfb.png)
-@iteles practicing her public speaking at St. Andrews Enterprise week: <br />
+@iteles via: https://twitter.com/iteles/status/928221678139822080 <br />
 
 ![image](https://user-images.githubusercontent.com/194400/44027124-42408c7a-9eed-11e8-8c20-129a21f9aa39.png) <br />
-via: https://standrewsbusinessclub.co.uk/st-andrews-university-enterprise-week-2017-keynote-event
+https://standrewsbusinessclub.co.uk/st-andrews-university-enterprise-week-2017-keynote-event
 
 
 
@@ -71,8 +86,11 @@ is "***community***" closely followed by "***diversity***".
 
 
 
-There are **36 options** for "Vertical" on the Startup School form see:
+There are **36 options** for "Vertical" on the Startup School application form.
+<!--
+see:
 https://github.com/nelsonic/nelsonic.github.io/issues/511#issuecomment-412265192
+-->
 
 **`home`** does not "_neatly_ fit" into anyone of them
 rather it encompasses several:
@@ -105,7 +123,7 @@ to _get_ healthy for people who have poor habits.
 + `<option value="22">International Market</option>` because we
 intend to be _global_.
 
-+ `<option value="23">Jobs</option>` we will both _create_ jobs
++ `<option value="23">Jobs</option>` we will _create_ jobs
 (_where we employ people directly_)
 and help train people with skills they need to _get_ jobs in tech.
 
@@ -164,6 +182,7 @@ and a mentoring/support network throughout our career.
 We are passionate about fostering the next generation of tech
 workers & founders.
 
+
 <hr />
 
 ## Commitment: Full-time
@@ -203,20 +222,27 @@ For the foreseeable future, **`home`** is our _life_!
   | <option value="launched">Launched</option></select>
 ```
 
-Given that our project involves a physical building
+The **`<option>`** that most accurately reflects
+the progress of our App is "**Idea**".
+
+Given that our project involves a **_physical_ building**
 which is still "_under construction_",
-we intend to use the Startup School time to start building the Mobile App (PWA)
+and there isn't an **`<option>`** in the list for "***building site***",
+the best description at this stage is "idea".
+
+We intend to use the Startup School time to start building the Mobile App (PWA)
 which will be used by the people _staying_ in **`home`**.
 
 We expect the building works to be done by the end of September
 and the first "MVP" members to join us in October 2018.
-
-The option that most accurately reflects the progress of our App is "Idea".
-There isn't really an option in the list for "building site".
-But we have a team of professional construction workers and tradesmen
-taking care of the physical building so we feel that part is "on track".
+We are able to "Alpha UX Test" the app with friends & co-workers before we open
+the _physical_ **`home`**.
 
 
+We have a team of professional construction workers and tradesmen
+taking care of the physical building so we feel that part is "***on track***".
+
+<!-- insert video montage of construction work here ... -->
 
 <hr />
 
@@ -302,9 +328,37 @@ in _any_ way "critical" of embryonic ideas that are not "polished" in a "deck".
 
 ## Why?
 
+People are often more productive/effective when working from home:
+
 ![working-from-home](https://user-images.githubusercontent.com/194400/43996896-071d1e66-9dc5-11e8-93e2-9a4b3fa000c9.png) <br />
 http://paulgraham.com/opensource.html > Workplaces
 
+However we are well aware that working from a "normal home"
+can be _challenging_:
+
+[![struggle-working-remotely](https://user-images.githubusercontent.com/194400/44254407-a5c75480-a1fa-11e8-997d-2e5a18cef355.png)](https://open.buffer.com/state-remote-work-2018)<br />
+https://open.buffer.com/state-remote-work-2018
+
+We intend to build a _community_ where people can live, learn and work
+with other like-minded people focussed on making things people want and _need_.
+
+We will have a "_bias_" towards people who want to (_learn how to_) start
+working on their _own_ ideas; i.e. "founders".
+
+
+
+### Remote Working is ~~the Future~~ _Now_!
+
+We have been _strong_ proponents of Remote Working in our own company:
+
+[![Naaz-remote-working](https://user-images.githubusercontent.com/194400/44250119-149cb180-a1eb-11e8-9b51-35bd08b56e50.png)](https://twitter.com/naazahmed11/status/964527953156694016)
+https://twitter.com/naazahmed11/status/964527953156694016
+
+People get the work done _just_ as effectively and their quality of life
+improves dramatically if they aren't "chained" to a desk in a big city from "9-to-5".
+
+
+See: https://github.com/dwyl/remote-working
 
 ## What?
 
@@ -323,17 +377,17 @@ During Startup School we intend to build the **App**
 to help us **_measure_ everything** in the **`home`** community.
 
 Areas we are hoping to explore include:
-+ "**Customer Acquisition**" - finding the like-minded people who
++ "**Customer acquisition**" - finding the like-minded people who
 want to live, learn and work in a co-living environment.
 + Measuring and Optimising for _Happiness_ (_see: "**OMTM**" section below_)
 + **Promoting learning** and sharing of knowledge/skill without fear of
 intimidation through "_brogrammer_" behaviour.
-+ **Security Systems** both physical and virtual for accessing the building.
-+ **Sleep, Nutrition & Exercise tracking**
++ **Security systems** both physical and virtual for accessing the building.
++ **Sleep, nutrition & exercise tracking**
 to promote a healthy "_personal foundation_"
 We have experience building apps in this space for others
 e.g: https://github.com/healthlocker/healthlocker
-+ **Share Responsibility** for resources and avoid "tragedy of the commons".
++ **Share responsibility** for resources and avoid "tragedy of the commons".
 
 As you can tell from this list, we have "lots of ideas". <br />
 We want/need _Help_/_Mentoring_ from a YC partner
@@ -357,7 +411,6 @@ are low relative to the entire population._"
 
 We want to be part of the solution to this:
 https://techcrunch.com/2017/03/20/y-combinator-diversity-2017
-
 
 
 This is a problem we have _personally_ felt while working in Tech.
@@ -396,6 +449,9 @@ in several companies,
 we have seen/felt first-hand how a **_small minority_ of _men_**
 are condescending/intimidating towards ladies and minorities,
 we will address this
+
+
+
 
 
 
@@ -451,6 +507,54 @@ Some of the people living/working at **`home`** will fall into the category
 of "work at another job",
 so measuring their overall happiness is a more accurate metric.
 
+### Exercise
+
+> There are "three things they [founders] should be focussing on:
+**writing code, talking to users and exercising**". ~ Jessica Livingston
+ Startup School 2012 https://youtu.be/KQJ6zsNCA-4?t=16m51s
+
+Within 5 minutes walk from **`home`** there is a great river-side running path
+free football and basketball court and outdoor gym.
+7 minutes walk there are superb tennis courts, public swimming pools
+and a yoga/pilates studio with both beginner and advanced classes.
+
+We feel that having exercise activities "nearby" is _good_
+but in order to _actively_ promote exercise (_eliminate excuses_),
+we need to do more.
+
+We have a plan to offer _several_ exercise activities _within_ the **`home`**
+property/garden which will _minimise_ (_or eliminate_) "friction"
+to participation.
+
+#### Slackline
+
+[![slackline](https://user-images.githubusercontent.com/194400/44259674-217ccd80-a20a-11e8-90e9-93f03080a214.png)](https://twitter.com/iteles/status/1020315417238294528)
+https://twitter.com/iteles/status/1020315417238294528
+
+#### 25m Swimming Lane
+
+This is what the pool looked like yesterday (_very much "work-in-progress"_):
+
+![braga-home-pool-panorama](https://user-images.githubusercontent.com/194400/44259932-db743980-a20a-11e8-9e88-e55cf5475dca.JPG)
+
+#### Outdoor Gym
+
+We have reserved 10 x 4m of garden space and $4000 for an outdoor gym area.
+
+![movestrongfit](https://user-images.githubusercontent.com/194400/44260859-b3d2a080-a20d-11e8-8109-d983b8bcf449.jpg)
+![outdoor-gym](https://user-images.githubusercontent.com/194400/44260861-b3d2a080-a20d-11e8-8abe-8ef97fffe376.jpg)
+
+http://www.movestrongfit.com
+
+
+#### Mindfulness & Meditation
+
+In addition to _outdoor_ mindfulness and meditation areas:
+![dwyl-summer-mindfulness](https://user-images.githubusercontent.com/194400/44260202-9dc3e080-a20b-11e8-99bc-34b636924ace.png)
+<br />
+we plan to have an indoor area dedicated to encouraging the practice.
+
+
 
 <br />
 
@@ -493,13 +597,39 @@ Additionally we will setup a "Security Bug Bounty"
 via https://www.hackerone.com
 once we have ironed out any "basic bugs" using our team and existing network.
 
-+ Physical access security leading to loss of property.
++ **Physical access security** fail leading to loss of property.
+Everyone will be _trained_ in importance of physical security
+both for their _own_ safety and so that we can "have nice things".
+We intend to have cameras recording key entry-exit points
+and all external doors will require App (_or key-card_) access.
 
-+ Personal injury (_or death_) from using the facilities.
 
-+ Descent into _chaos_ (_messiness and lack of hygiene_)
-  e.g: LikeALittle's Hacker House: https://youtu.be/MAihXfHa7K8
-  https://news.ycombinator.com/item?id=4346049 Circle Inc? (YC W11?)
+
+
++ **Personal injury** (_or death_) from using the facilities.
+People will go through an in-depth induction when they arrive
+and we will conduct regular risk assessments for health & safety.
+If the worst happens, we have €10M public liability insurance,
+and Portugal has a _great_ (_public/free_) healthcare system
+which can be used by "visitors"!
+
++ **Open Sourcing All Code**, won't that _invite competition_?!
+We feel that the benefits of having
+a **100% Open Source** community culture
+is aided by and even _requires_ open-sourcing the code.
+This will encourage people to contribute to improving the App(s)
+which in turn promotes a sense of ownership.
+We want to _actively encourage_ other entrepreneurs to "copy" the **`home`**
+building and share their improvements because we feel this will
+"make the world a better place for everyone".
+
++ Descent into ***chaos*** (_messiness and lack of hygiene_)
+e.g: LikeALittle's (LaL.com) Hacker House: https://youtu.be/MAihXfHa7K8
+https://news.ycombinator.com/item?id=4346049 Circle Inc? (YC W11?)
+One of the _major_ of our App will be to _prevent_ messiness
+and promote accountability. We intend to _explore_ "gamification"
+so people get some sort of reward for "desirable behaviour"
+that does not have an intrinsic motivation.
 
 
 + "Alcohol/Drugs-fueled Sex Scandal" ...
@@ -508,15 +638,10 @@ We don't "control" what people consume when they are _away_ from home,
 we just have a rule that they don't bring/consume it within.
 This is to avoid _any_ association with being a "party house"
 and to prevent a _leading_ cause of personal injury and _death_: intoxication.
-  + No Sex. This is enforced at [podshare.co](http://www.podshare.co) and
-  avoids a whole _heap_ of issues we cannot _afford_ to face. `#NoMeansNo` ...
-
-+ **Open Sourcing All Code**, won't that _invite competition_?!
-We feel that the benefits of having
-a **100% Open Source** Community Culture
-is aided by and even _requires_ open-sourcing the code.
-This will encourage people to contribute to improving the App(s)
-which in turn promotes ownership and
+  + No Sex. This is enforced at
+  [podshare.co](https://youtu.be/2heLd3z6Gz4?t=3m2s)
+  and avoids a whole _heap_ of issues we cannot _afford_ to face.
+  `#NoMeansNo` ... <br />
 
 + It's **_not_ for everyone**.
 We have been travelling and worked remotely
