@@ -330,5 +330,18 @@ be part of your _incredible_ network.
 
 _Thank you_!
 
-
 <hr />
+
+This is what "_rejection_" looks like: 😞
+![image](https://user-images.githubusercontent.com/4185328/44421149-0d292f80-a580-11e8-93f6-b9d276257135.png)
+
+
+And this is what it looks like when someone realises
+that "_the software_" made a "mistake":
+![image](https://user-images.githubusercontent.com/4185328/44421218-334ecf80-a580-11e8-8f9a-5304a9ff8e57.png)
+![image](https://user-images.githubusercontent.com/4185328/44421241-406bbe80-a580-11e8-9bf4-96656fdb1628.png)
+
+# `#accepted`
+
+We don't know if this was a "Fluke" or if the YC partners
+_actually_ liked our application ... but we'll take it!

@@ -1,8 +1,10 @@
 # WARNING: Below this point is "Work-in-Progress" for "internal purposes". 🚧
 
 We have made this **`public`** because we feel it keeps us _accountable_
-to each other, but **_please_ don't read it** if you are
-in _any_ way "critical" of embryonic ideas that are not "polished" in a "deck".
+to each other, <br />
+**_please_ don't read it** if you are
+in _any_ way "critical" of embryonic ideas
+that are not "polished" in a "pitch deck".
 
 <hr />
 
