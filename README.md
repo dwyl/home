@@ -347,9 +347,7 @@ that "_the software_" made a "mistake":
 ![image](https://user-images.githubusercontent.com/4185328/44421218-334ecf80-a580-11e8-8f9a-5304a9ff8e57.png)
 ![image](https://user-images.githubusercontent.com/4185328/44421241-406bbe80-a580-11e8-9bf4-96656fdb1628.png)
 
-# `#accepted`
-
-![happiness](https://i.giphy.com/jIXcTEmU5RCpO.gif)
+# [`#accepted`](https://i.giphy.com/jIXcTEmU5RCpO.gif)
 
 We don't know if this was a "fluke" (_we slipped through the net_)
 or if the YC partners _really_ loved our application ... <br />
