@@ -26,8 +26,10 @@ and gives additional context and supporting info.
 </div>
 <br />
 
-<sup>1</sup> **`home`** is our "_working title_"; we're open to suggestions!
-We've discussed _crowd-sourcing_ the name from our community,
+<sup>1</sup> **`home`** is our
+["_working title_"](https://en.wikipedia.org/wiki/Working_title);
+we're open to _suggestions_!
+We have discussed _crowd-sourcing_ the name from our community,
 but for now, this is easier and it kinda "works" for what we are doing.
 There is built-in "brand recognition"
 in the common expression "_Working from **`home`**_".
@@ -51,7 +53,7 @@ I don't have a "strong preference" was just being pragmatic.
 
 ## Description
 
-##### Describe your company in a sentence or two. `<input maxlength="60">`
+#### Describe your company in a sentence or two. `<input maxlength="60">`
 
 We are a Female Founder-Focussed Co-Living/Learning Home [57 characters]
 
@@ -63,7 +65,7 @@ and high-growth startup: 100 >> 10k (people) growth. <br />
 
 We have built MVPs for, advised and trained people in _several_ startups. <br />
 We feel we have a _grasp_ of what it takes to run a successful technology startup.
-(_though we expect to gain significantly more wisdom on the subject through
+(_though we expect to gain significantly more wisdom/experience through
   participating in Startup School and possibly YC's "main" program_).
 We have lived the "digital nomad" (remote working) lifestyle and
 know what the biggest challenges are.
@@ -84,10 +86,10 @@ _aspire_ to be _invited_ on stage in a few years time.
 We want to help _accelerate_ the ascent of other female founders
 by giving them a space to _start_ their journey (_before they apply to YC!_)
 
-![image](https://user-images.githubusercontent.com/194400/38866458-cc9ee126-4238-11e8-9760-f4ca0bab4cfb.png)
+![ines-keynote](https://user-images.githubusercontent.com/194400/38866458-cc9ee126-4238-11e8-9760-f4ca0bab4cfb.png "to be part of the future, first understand it")
 @iteles via: https://twitter.com/iteles/status/928221678139822080 <br />
 
-![image](https://user-images.githubusercontent.com/194400/44027124-42408c7a-9eed-11e8-8c20-129a21f9aa39.png) <br />
+![ines-standrewsbusinessclub-profile](https://user-images.githubusercontent.com/194400/44027124-42408c7a-9eed-11e8-8c20-129a21f9aa39.png "") <br />
 https://standrewsbusinessclub.co.uk/st-andrews-university-enterprise-week-2017-keynote-event
 
 
@@ -332,10 +334,12 @@ _Thank you_!
 
 <hr />
 
+# `#rejected`
 
-
-This is what "_rejection_" looks like: 😞
+This is what "_rejection_" looks like:
 ![image](https://user-images.githubusercontent.com/4185328/44421149-0d292f80-a580-11e8-93f6-b9d276257135.png)
+
+![sadness](https://media.giphy.com/media/10tIjpzIu8fe0/giphy.gif "sadness gif")
 
 
 And this is what it looks like when someone realises
@@ -345,15 +349,25 @@ that "_the software_" made a "mistake":
 
 # `#accepted`
 
+![happiness](https://media.giphy.com/media/jIXcTEmU5RCpO/giphy.gif "happiness")
+
 We don't know if this was a "fluke" (_we slipped through the net_)
-or if the YC partners _actually_ loved our application ... but we'll take it!
+or if the YC partners _really_ loved our application ... <br />
+but we'll take it!
+Now we "_just_" need to make the _most_ of their time-investment in us!
 
 
-> _The beauty of storing this document in Version Control (Git) is that
-**anyone** can see the "state" ("snapshot") of our application at the point
-that the YC decision-makers saw it. i.e. you can "judge" for yourself if
-there was "substance" to our proposal._
+> _The beauty of storing this document in Version Control (Git)
+is that **anyone** can see the "state" ("snapshot") <br />
+of our application at the point
+that the YC decision-makers saw it. <br />
+i.e. you can "judge" for yourself if
+there was "**substance**" to our proposal._ <br />
 see: https://github.com/dwyl/home/tree/b792d4e66414d67b87ec05c62c43e213aff9afb0
-
+<br />
+> _We **agree** that the snapshot is **far from** "**finished**",
+but we felt it had "**enough content**"  for an "**elevator pitch**"
+and "**enough supporting evidence**" to show a YC Partner
+that their time-investment in mentoring us would not be "wasted"._
 
 <hr />

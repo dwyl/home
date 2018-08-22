@@ -21,6 +21,22 @@ can be _challenging_:
 [![struggle-working-remotely](https://user-images.githubusercontent.com/194400/44254407-a5c75480-a1fa-11e8-997d-2e5a18cef355.png)](https://open.buffer.com/state-remote-work-2018)<br />
 https://open.buffer.com/state-remote-work-2018
 
+
+***What `if`*** people could live and _work_ in a **`home`**
+that is _designed from scratch_ for:
+1. community-centered living with
+(_with private "alone time" spaces_)
+2. Dedicated areas for _both_ in-person and remote collaboration
+_and_ individual focus work
+3. Minimal distraction; no TV or other _mindless_ distractions.
+4. Surround yourself with like-minded intrinsically motivated people.
+5. Latest WiFi technology, highly reliable (dual/redundant
+  [bonded](https://en.wikipedia.org/wiki/Channel_bonding)) 1Gb Fiber internet connections.
+(_full-stack [Ubiquiti](https://youtu.be/0RbKb38rIvE)
+enterprise grade switch/access points_)
+6. Optimal _restorative_ sleep, healthy eating and exercise.
+
+
 We intend to build a _community_ where people can live, learn and work
 with other like-minded people focussed on making things people want and _need_.
 
@@ -222,7 +238,7 @@ This is what the pool looked like yesterday (_very much "work-in-progress"_):
 
 #### Outdoor Gym
 
-We have reserved 10 x 4m of garden space and $4000 for an outdoor gym area.
+We have reserved 10 x 4m of garden space and $4000 for an outdoor gym area. e.g:
 
 ![movestrongfit](https://user-images.githubusercontent.com/194400/44260859-b3d2a080-a20d-11e8-8109-d983b8bcf449.jpg)
 ![outdoor-gym](https://user-images.githubusercontent.com/194400/44260861-b3d2a080-a20d-11e8-8abe-8ef97fffe376.jpg)
@@ -250,8 +266,9 @@ It puts people "off guard" if you *explicitly* identify your "weaknesses"
 and shows that you have considered the "risks" and how to mitigate them.
 -->
 
-There are _several_ risks of creating a co-living home/community
-any of which can "sink the ship", we need to be aware of and address them all.
+There are _several_ risks of creating a founder-focussed
+co-living home/community any of which can "sink the ship",
+we need to be aware of and address them all.
 
 From our background in "Enterprise Risk Management",
 we are trained to think in terms of hyperbolic headlines
@@ -266,7 +283,8 @@ where personal data protection is
 Data will be encrypted
 We wrote an example/tutorial on this.
 See: https://github.com/dwyl/phoenix-ecto-encryption-example
-In addition to both field-level encryption and strong access control,
+In addition to both field-level encryption, regular key rotation
+and strong access control,
 we intend to perform regular third-party (controlled) penetration tests,
 both on-site and remotely to test our security.
 Having a house that actively recruits hackers has both pros and cons,
@@ -280,9 +298,10 @@ Additionally we will setup a "Security Bug Bounty"
 via https://www.hackerone.com
 once we have ironed out any "basic bugs" using our team and existing network.
 
-+ **Physical access security** fail leading to loss of property.
-Everyone will be _trained_ in importance of physical security
-both for their _own_ safety and so that we can "have nice things".
++ **Physical access security** fail could lead to loss of property.
+_Everyone_ will be _trained_ in importance of
+and simple "good habits" of _physical_ security
+both for their _own_ safety and so that we can all "_have nice things_".
 We intend to have cameras recording key entry-exit points
 and all external doors will require App (_or key-card_) access.
 
