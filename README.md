@@ -349,7 +349,7 @@ that "_the software_" made a "mistake":
 
 # `#accepted`
 
-![happiness](https://media.giphy.com/media/jIXcTEmU5RCpO/giphy.gif "happiness")
+![happiness](https://i.giphy.com/jIXcTEmU5RCpO.gif)
 
 We don't know if this was a "fluke" (_we slipped through the net_)
 or if the YC partners _really_ loved our application ... <br />
