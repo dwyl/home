@@ -332,6 +332,8 @@ _Thank you_!
 
 <hr />
 
+
+
 This is what "_rejection_" looks like: 😞
 ![image](https://user-images.githubusercontent.com/4185328/44421149-0d292f80-a580-11e8-93f6-b9d276257135.png)
 
@@ -343,5 +345,15 @@ that "_the software_" made a "mistake":
 
 # `#accepted`
 
-We don't know if this was a "Fluke" or if the YC partners
-_actually_ liked our application ... but we'll take it!
+We don't know if this was a "fluke" (_we slipped through the net_)
+or if the YC partners _actually_ loved our application ... but we'll take it!
+
+
+> _The beauty of storing this document in Version Control (Git) is that
+**anyone** can see the "state" ("snapshot") of our application at the point
+that the YC decision-makers saw it. i.e. you can "judge" for yourself if
+there was "substance" to our proposal._
+see: https://github.com/dwyl/home/tree/b792d4e66414d67b87ec05c62c43e213aff9afb0
+
+
+<hr />
