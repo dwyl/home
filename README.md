@@ -355,14 +355,15 @@ but we'll take it!
 Now we "_just_" need to make the _most_ of their time-investment in us!
 
 
-> _The beauty of storing this document in Version Control (Git)
+> _The **beauty of** storing this document in **version control** (Git)
 is that **anyone** can see the "state" ("snapshot") <br />
-of our application at the point
+of our Startup School application at the point
 that the YC decision-makers saw it. <br />
 i.e. you can "judge" for yourself if
 there was "**substance**" to our proposal._ <br />
 see: https://github.com/dwyl/home/tree/b792d4e66414d67b87ec05c62c43e213aff9afb0
 <br />
+
 > _We **agree** that the snapshot is **far from** "**finished**",
 but we felt it had "**enough content**"  for an "**elevator pitch**"
 and "**enough supporting evidence**" to show a YC Partner
