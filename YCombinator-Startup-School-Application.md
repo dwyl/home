@@ -17,10 +17,44 @@ Each section begins with the question on the YC SS Form
 and gives additional context and supporting info.
 </meta>
 -->
-<div align="center">
+
+## _Reasons_ Why We Applied to Startup School
+
+If you don't know about YCombinator,
+it's worth reading: https://www.ycombinator.com/why <br /> and http://foundersatwork.posthaven.com/the-social-radar-what-i-did-at-y-combinator
+
+
+![startup-school-what-you-get](https://user-images.githubusercontent.com/194400/44620968-44f4e780-a89e-11e8-9ac0-018273763075.png)
+
+Our "top three" list of reasons for applying:
+
+### 1. Mentorship
+
+We feel that having an "_external_" ***mentor***
+who will help us stay ***focussed*** and ***accountable***
+for making ***meaningful progress*** on our idea(s).
+
+### 2. Structured Learning
+
+Startup School is an _incredible_ curriculum of startup-focussed learning.
+While we have already read _much_ of the "recommended reading",
+we have not done so "_systematically_",
+we feel that following a clear "learning path"
+will be a a _far_ more _effective_ approach.
+
+
+### 3. Network
+
+Gaining access to the YC / Startup School (social/entrepreneurial) network
+_could_ be worth an _incalculable_ amount of value to us
+as YC is a "filter" for the most interesting, ambitious and creative people;
+_exactly_ the type of people we want living/learning/working **`@home`**.
+
+<hr />
 
 # Project/Company Name: `home`<small><sup>1</sup></small>
 
+<div align="center">
 
   <img src="https://user-images.githubusercontent.com/194400/44024208-944f38da-9ee4-11e8-9f89-6eacd8a03d31.png">
 </div>

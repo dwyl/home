@@ -1,4 +1,4 @@
-# WARNING: Below this point is "Work-in-Progress" for "internal purposes". 🚧
+# WARNING: This Repo is "Work-in-Progress" for "Internal Purposes". 🚧
 
 We have made this **`public`** because we feel it keeps us _accountable_
 to each other, <br />
@@ -10,12 +10,12 @@ that are not "polished" in a "pitch deck".
 
 ## Why?
 
-People are often more productive/effective when working from home:
+People are often more productive/effective when working from [their] home:
 
 ![working-from-home](https://user-images.githubusercontent.com/194400/43996896-071d1e66-9dc5-11e8-93e2-9a4b3fa000c9.png) <br />
 http://paulgraham.com/opensource.html > Workplaces
 
-However we are well aware that working from a "normal home"
+_However_ we are well aware that working from a "normal home"
 can be _challenging_:
 
 [![struggle-working-remotely](https://user-images.githubusercontent.com/194400/44254407-a5c75480-a1fa-11e8-997d-2e5a18cef355.png)](https://open.buffer.com/state-remote-work-2018)<br />
@@ -24,8 +24,8 @@ https://open.buffer.com/state-remote-work-2018
 
 ***What `if`*** people could live and _work_ in a **`home`**
 that is _designed from scratch_ for:
-1. community-centered living with
-(_with private "alone time" spaces_)
+1. Community-centered living
+(_with private "alone time" spaces and quiet/respectful housemates_)
 2. Dedicated areas for _both_ in-person and remote collaboration
 _and_ individual focus work
 3. Minimal distraction; no TV or other _mindless_ distractions.
@@ -41,7 +41,16 @@ We intend to build a _community_ where people can live, learn and work
 with other like-minded people focussed on making things people want and _need_.
 
 We will have a "_bias_" towards people who want to (_learn how to_) start
-working on their _own_ ideas; i.e. "founders".
+working on their _own_ ideas; i.e. "founders".<sup>1</sup>
+
+
+![go-work-for-an-existing-company-for-a-few-years](https://user-images.githubusercontent.com/194400/43996934-d3a21540-9dc5-11e8-82af-45e63c219f64.png)
+http://paulgraham.com/hiring.html > A Public Service Message
+
+<sup>1</sup>we will not _exclude_ anyone because they
+don't _want_ to start a company themselves; that would silly,
+however we _will_ have an application question asking people _why_
+they prefer not to.
 
 
 
@@ -585,7 +594,6 @@ because decision by committee is _glacially_ slow and often _diluted_.
 
 
 
-
 ### Modern Decor
 
 
@@ -603,7 +611,8 @@ or interior designers who have not done collaborative tech or remote work.
 #### Previous Experience?
 
 This is our _third_ business together.
-Both previous businesses have been profitable and had zero capital.
+Both previous businesses have been profitable and required zero capital
+(_100% self/revenue funded_).
 
 
 ### Why Portugal and Braga _Specifically_?
@@ -617,18 +626,52 @@ to help you choose where to go next https://nomadlist.com
 
 
 ![nomad-list-homepage-lisbon-third](https://user-images.githubusercontent.com/194400/44060939-44b1e5e2-9f4e-11e8-8677-e9fe4a86d7c9.png)
-At the time of writing, Lisbon is `#3` in the World.
 
+At the time of writing, Lisbon is `#3` in the World on NomadList
+and Braga is _already_ at number `#42`<sup>1</sup>:
 
-https://nomadlist.com/braga
-![nomadlist-braga-august-2018](https://user-images.githubusercontent.com/194400/44060945-47af7ee4-9f4e-11e8-89e2-464ba5640459.png)
+![nomadlist-braga-is-42-in-world](https://user-images.githubusercontent.com/194400/44293808-be7d4c00-a286-11e8-9347-6ad70dac76e6.png)
 
+Review of the NomadList page for Braga https://nomadlist.com/braga
+indicates that there are a _number_ of areas with room for improvement: <br />
 
+![nomadlist-braga-august-2018](https://user-images.githubusercontent.com/194400/27585641-011bfd26-5b35-11e7-8298-164888d036a2.png)
+
+We intend to _address_ ***all*** of the aspects under our control
+and help raise awareness of the rest.
+
+_Specifically_ we are focussing on "Places to work from"
+which is currently the _lowest_ scoring nomad criteria.
+
+With _these_ price estimates:
+https://nomadlist.com/braga-portugal/cost-of-living
+![image](https://user-images.githubusercontent.com/194400/31015517-df42445e-a520-11e7-85b3-3992e8d694aa.png)
+We can _easily_ be one of the _best value_
+co-living/working places in all of Europe!
+
+> Also, it does not "hurt" that Braga is
+["higher ground"](https://youtu.be/4wZ3ZG_Wams) ...
+The elevation of the city is 200m (above sea level),
+which in case you're wondering is a _really good_ thing (_thinking longer-term_)
+considering the fact that the sea level is rising ...
+see: https://github.com/dwyl/phase-two/issues/16
+
+<small>
+<sup>1</sup> NomadList ranking fluctuates based on the number of recent reviews
+from the community. Several Portuguese cities
+(Lisbon, Porto, Braga, Aveiro, Funchal & Coimbra) are consistently in the top 50
+because the weather is _consistently great_,
+food+ accommodation is _relatively_ "cheap",
+internet speed is fast, English is widely spoken
+(_English is a **require** 2<sup>nd</sup> language in **all schools**
+  from age 10_ see: https://en.wikipedia.org/wiki/Education_in_Portugal )
+and "locals" are super friendly/welcoming.
+We have a _comprehensive plan_ to make Braga _consistently_ `#1` in the World
+on NomadList.
+</small>
 
 Further reading on the "Tech ecosystem" in Portugal:
 https://medium.com/paua-insights/mapping-out-the-tech-ecosystem-in-portugal-who-is-who-862a85fce28e
-
-
 
 ### Library of Creativity/Technology/Business Focussed Books?
 
@@ -639,10 +682,6 @@ http://paulgraham.com/hs.html (What You'll Wish You Had Known) > Now
 [![bookshelf-large](https://user-images.githubusercontent.com/194400/44033976-e546c3b0-9f03-11e8-80fe-c0e03e65e5c1.JPG)](
 https://cloud.githubusercontent.com/assets/194400/12869888/02bf0de4-cd24-11e5-96a6-6ab0b9f11ecf.JPG)
 
-
-
-![go-work-for-an-existing-company-for-a-few-years](https://user-images.githubusercontent.com/194400/43996934-d3a21540-9dc5-11e8-82af-45e63c219f64.png)
-http://paulgraham.com/hiring.html > A Public Service Message
 
 
 
@@ -687,14 +726,28 @@ house and transforming it into something new.
 We are making all of our plans, decisions and outcomes `public`
 online https://github.com/dwyl/phase-two/tree/master/braga
 so that other people can learn from our mistakes/success
-and
+and if anyone feels they can _improve_ they can "fork" the entire project
+and go for it!
 
 
 
 ## EDUCATION
 
+The most popular TED talk of all time
+according to the official list
+https://www.ted.com/playlists/171/the_most_popular_talks_of_all
+is Ken Robinson's "Do schools kill creativity?"
+Sir Ken Robinson makes an entertaining and profoundly moving case
+for creating an education system that nurtures
+(rather than undermines) creativity.
+
+![image](https://user-images.githubusercontent.com/194400/44625443-cd5ca200-a909-11e8-92a3-d50464c07be3.png)
+https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity?referrer=playlist-the_most_popular_talks_of_all#t-9598
+
 
 ## DIVERSITY
+
+
 
 
 ## FUTURE OF WORK
@@ -792,3 +845,4 @@ https://venturebeat.com/2017/12/24/co-living-heats-up-in-the-u-s-communal-housin
 https://www.dezeen.com/2017/11/14/one-shared-house-2030-ikea-space10-lab-anton-irene-co-living-website-platform/
 + History of Co-living:
 https://issuu.com/lisainteriors/docs/design_studio_research
++ https://www.theguardian.com/world/2018/aug/15/happy-together-lonely-baby-boomers-turn-to-co-housing
