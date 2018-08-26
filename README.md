@@ -740,14 +740,14 @@ is Ken Robinson's "Do schools kill creativity?"
 Sir Ken Robinson makes an entertaining and profoundly moving case
 for creating an education system that nurtures
 (rather than undermines) creativity.
-
+https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity
 ![image](https://user-images.githubusercontent.com/194400/44625443-cd5ca200-a909-11e8-92a3-d50464c07be3.png)
-https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity?referrer=playlist-the_most_popular_talks_of_all#t-9598
 
+Clearly this talk resonates with a _lot_ of people as do his various books.
+
+<!--
 
 ## DIVERSITY
-
-
 
 
 ## FUTURE OF WORK
@@ -755,7 +755,11 @@ https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity?referrer=pla
 
 ## LONGEVITY AND ANTI-AGING
 
+
 ## SUPPORTING CREATORS
+
+
+-->
 
 
 ## TRANSPORTATION & HOUSING
@@ -766,7 +770,8 @@ on-demand transport is the future.
 
 While we are not directly addressing `TRANSPORTATION`,
 we will make a car available to all members at each house we build.
-Our plan is to have one or more electric car(s)
+Our plan is to have one or more electric car(s) available to residents
+and when Waymo
 
 
 
