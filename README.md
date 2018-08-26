@@ -1,4 +1,4 @@
-# WARNING: This Repo is "Work-in-Progress" for "Internal Purposes". 🚧
+# WARNING: This Repo is "Work-in-Progress" _far_ 🚧
 
 We have made this **`public`** because we feel it keeps us _accountable_
 to each other, <br />
@@ -10,7 +10,7 @@ that are not "polished" in a "pitch deck".
 
 ## Why?
 
-People are often more productive/effective when working from [their] home:
+People are often more productive/effective when working from [their own] home:
 
 ![working-from-home](https://user-images.githubusercontent.com/194400/43996896-071d1e66-9dc5-11e8-93e2-9a4b3fa000c9.png) <br />
 http://paulgraham.com/opensource.html > Workplaces
@@ -24,25 +24,34 @@ https://open.buffer.com/state-remote-work-2018
 
 ***What `if`*** people could live and _work_ in a **`home`**
 that is _designed from scratch_ for:
-1. Community-centered living
+1. Optimal _restorative_ sleep, healthy eating and exercise.
+these are the _foundation_ for all other pursuits.
+
+2. Community-centered living. Surround yourself with _like-minded_
+intrinsically motivated people.
 (_with private "alone time" spaces and quiet/respectful housemates_)
-2. Dedicated areas for _both_ in-person and remote collaboration
-_and_ individual focus work
-3. Minimal distraction; no TV or other _mindless_ distractions.
-4. Surround yourself with like-minded intrinsically motivated people.
+
+3. Dedicated areas for _both_ in-person and remote collaboration
+_and_ individual focus/creative work.
+
+4. Minimal distraction; no TV or other _mindless_ distractions.
+
 5. Latest WiFi technology, highly reliable (dual/redundant
-  [bonded](https://en.wikipedia.org/wiki/Channel_bonding)) 1Gb Fiber internet connections.
+  [bonded](https://en.wikipedia.org/wiki/Channel_bonding))
+  **1Gb Fiber internet connections**.
 (_full-stack [Ubiquiti](https://youtu.be/0RbKb38rIvE)
 enterprise grade switch/access points_)
-6. Optimal _restorative_ sleep, healthy eating and exercise.
 
 
 We intend to build a _community_ where people can live, learn and work
 with other like-minded people focussed on making things people want and _need_.
 
-We will have a "_bias_" towards people who want to (_learn how to_) start
-working on their _own_ ideas; i.e. "founders".<sup>1</sup>
+We will have a "_bias_" towards people who want to (_learn how to_) start/work
+on their _own_ ideas; i.e. "_founders_".<sup>1</sup>
 
+People who are not inclined (_or ready_) to start their _own_ project(s)
+will still be encouraged/welcome as often working for another project
+is the _best_ way to learn in a "controlled environment".
 
 ![go-work-for-an-existing-company-for-a-few-years](https://user-images.githubusercontent.com/194400/43996934-d3a21540-9dc5-11e8-82af-45e63c219f64.png)
 http://paulgraham.com/hiring.html > A Public Service Message
@@ -50,7 +59,7 @@ http://paulgraham.com/hiring.html > A Public Service Message
 <sup>1</sup>we will not _exclude_ anyone because they
 don't _want_ to start a company themselves; that would silly,
 however we _will_ have an application question asking people _why_
-they prefer not to.
+they prefer not to just for clarity.
 
 
 
@@ -69,7 +78,7 @@ See: https://github.com/dwyl/remote-working
 
 ## What?
 
-The saying goes: **`home`** is "where the heart is". <br />
+The saying goes: **`home`** is "**where the heart is**". <br />
 We intend to _extend_ this definition to include:
 
 + **`home`** is where you feel _welcome_, _loved_ and **_happy_**.
@@ -151,36 +160,47 @@ https://blog.ycombinator.com/diversity-and-startups
 Female founders and tech workers often feel "_unwelcome_"
 in a male-dominated world, we are going address this _head on_.
 
+![be-the-change](https://user-images.githubusercontent.com/194400/44633141-1dc61500-a987-11e8-96f6-542e67c934b1.jpg)
+
 From our experience in the Tech Industry,
-both running Founders & Coders and Working as Developers/Engineers
-in several companies,
+both running Founders & Coders, Ladies of Code
+and Working as Developers/Engineers in several companies,
 we have seen/felt first-hand how a **_small minority_ of _men_**
 are condescending/intimidating towards ladies and minorities,
-we will address this
+we will address this by _being_ the change we want to see.
 
+Rather than trying to _reason_ with unreasonable people,
+be nice to them, and then be _better_ than them in _every_ measure.
+_Eventually_ they will _get_ it.
 
-
+What this means in _practical terms_ is that we need to:
++ help young ladies _discover/build_ STEM-based problem solving skills
++ nurture a community of supportive peers/leaders full of people
+who coach/mentor/guide each other if/when they get/feel discouraged
++ collectively build "big" ideas that have significant social impact.
 
 
 
 ### One Metric That Matters ["OMTM"]: _Happiness_
 
-> “_It really is true, the company will build
-whatever the CEO decides to measure._” ~ Sam Altman
+> “_It really is true, the company will **build**
+whatever the CEO decides to **measure**._” ~ Sam Altman <br />
 via: https://medium.com/how-to-start-a-startup/47-quotes-from-sam-altman-on-building-a-great-product-51aa656952ab
 
 Our short-to medium-term metric is "_Happiness_".
-We want to make "_Happiness_" our primary KPI because
+We want to make "_Happiness_" our primary "KPI" because
 we know that by measuring and optimising for happiness _first_
-any other goals will be achievable.
+any other goals will be achievable (_often **automatically**_)!
 
 
-We realise that "_Happiness_" is a subjective measure
+We realise that "_Happiness_" can be a _subjective_ measure
 however we intend to make it _quantifiable_
 in the same way that there is a "World Happiness Report":
 https://en.wikipedia.org/wiki/World_Happiness_Report
 we intend to do that for our company/project
 and make it available for others too!
+
+
 
 
 
