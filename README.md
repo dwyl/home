@@ -1,6 +1,6 @@
-# WARNING: This Repo is "Work-in-Progress" _far_ 🚧
+# WARNING: This is "Work-in-Progress" _far_ from "Done"! 🚧
 
-We have made this **`public`** because we feel it keeps us _accountable_
+We have made this repo **`public`** because we feel it keeps us _accountable_
 to each other, <br />
 **_please_ don't read it** if you are
 in _any_ way "critical" of embryonic ideas
@@ -8,7 +8,9 @@ that are not "polished" in a "pitch deck".
 
 <hr />
 
-## Why?
+## _Why_?
+
+
 
 People are often more productive/effective when working from [their own] home:
 
@@ -62,19 +64,50 @@ however we _will_ have an application question asking people _why_
 they prefer not to just for clarity.
 
 
+### Solve a Problem You _Yourself_ Have
 
-### Remote Working is ~~the Future~~ _Now_!
+> "_solve a problem that you yourself have then you will at least know
+that it's something that at least one person really wants.
+And when you are part of the target market you will have insights
+about it that you wouldn't otherwise._" <br />
+~ Jessica Livingston https://youtu.be/a2B4cVFIVpg?t=2m56s
 
-We have been _strong_ proponents of Remote Working in our own company:
+We have been _strong_ proponents of Remote Working
+since the _beginning_ of **@dwyl**:
 
 [![Naaz-remote-working](https://user-images.githubusercontent.com/194400/44250119-149cb180-a1eb-11e8-9b51-35bd08b56e50.png)](https://twitter.com/naazahmed11/status/964527953156694016)
 https://twitter.com/naazahmed11/status/964527953156694016
 
 People get the work done _just_ as effectively and their quality of life
-improves dramatically if they aren't "chained" to a desk in a big city from "9-to-5".
-
-
+improves dramatically if they aren't "chained"
+to a desk in a big city from "9-to-5".
 See: https://github.com/dwyl/remote-working
+
+_However_ from _experience_ it's often difficult to find a _good_ place
+to both live and work remotely. Most places are only "ok",
+they are not _designed_ for getting creative/coding work done.
+
+We have felt the _pain_ of:
++ Terrible WiFi / bandwidth which means _essential_ team video calls
+are unusable. Remote working requires stable and consistent internet
+as a "_hygiene factor_"
++ Bad seating or lack of desks means working for long periods
+results in neck/back pain. We intend to have ergonomic sofa, standing and
+coding/video editing desks.
++ Poor nutrition, sleep and exercise habits.
+Being somewhere for a short time often results in bad habits.
+We intend to do _everything_ we can to help foster the _best_ habits
+which will in turn maximise personal effectiveness/productivity.
++ _many_ other "**_small_ things**" which make a **_huge_ difference**.
+
+
+
+
+
+
+
+
+
 
 ## What?
 
@@ -173,6 +206,12 @@ Rather than trying to _reason_ with unreasonable people,
 be nice to them, and then be _better_ than them in _every_ measure.
 _Eventually_ they will _get_ it.
 
+> "_**role models** are what we **need most** if we want
+to **encourage more women** to **start** their own companies_" <br />
+~ Jessica Livingston - What's Different about "Unicorns"
+https://www.youtube.com/watch?v=Ygr3rx4hSsc&t=122s
+http://foundersatwork.posthaven.com/whats-different-about-unicorns
+
 What this means in _practical terms_ is that we need to:
 + help young ladies _discover/build_ STEM-based problem solving skills
 + nurture a community of supportive peers/leaders full of people
@@ -226,6 +265,8 @@ is because sometimes to do something you love,
 you have to _fund_ it doing a job you don't necessarily love.
 PG put it best:
 
+![paul-graham-test-of-doing-what-you-love](https://user-images.githubusercontent.com/194400/44633667-895fb080-a98e-11e8-833d-e4142a8e1ee2.png)
+
 > "_The test of whether people love what they do is whether
 they'd do it even if they weren't paid for it even if they
 had to work at another job to make a living._"
@@ -241,8 +282,8 @@ so measuring their overall happiness is a more accurate metric.
 **writing code, talking to users and exercising**". ~ Jessica Livingston
  Startup School 2012 https://youtu.be/KQJ6zsNCA-4?t=16m51s
 
-Within 5 minutes walk from **`home`** there is a great river-side running path
-free football and basketball court and outdoor gym.
+Within 5 minutes walk from **`home`** there is a great river-side running path,
+a football and basketball court and outdoor gym.
 7 minutes walk there are superb tennis courts, public swimming pools
 and a yoga/pilates studio with both beginner and advanced classes.
 
@@ -261,9 +302,53 @@ https://twitter.com/iteles/status/1020315417238294528
 
 #### 25m Swimming Lane
 
+Even though there is a **`public`** swimming pool
+**7 mins walk** from the house,
+after we UX-tested it a few times
+we determined that it "falls short"
+in 3 key areas:
+1. _Way_ too much ***chlorine***.
+(_our skin stank of the stuff even after a long shower!_)
+2. Strange opening hours (only opens at 9am)
+and is closed for 2 months per year.
+3. **Over-crowded** at "good" times
+(first thing in morning, lunch and "after school").
+
+##### Reasoning for Building our Own Pool. (WARNING: Contains Math/Logic!)
+
+When we go swimming it is _always_ for "_fitness_" (_not to "splash about"_),
+we usually swim for around **20 minutes** (1km)
+and then get out/shower and go home.
+Showering takes 5 mins,
+therefore the "essential time" for the activity is 25 mins.
+If it takes 7 mins to walk to the pool, 2 minute to pay (€3.50)
+and change from clothes to swimwear
+and another 3 mins to get dressed (after swim+shower)
+and 7 mins to walk home,
+we are spending 19 minutes _getting_ to/from/ready for the exercise
+and only 20 minutes _doing_ the exercise.
+This feels like a chronic waste of time even if the walk is "nice",
+it gets "old" when you do it twice _every_ day.
+we would _much_ rather spend the "commute and prep" time
+on more effective exercise e.g: core strength training.
+
+We want to make exercise an integral part of people's daily routine,
+and to achieve this we want to _minimise_ the "friction".
+
+The pool we are building will be heated (_using solar panels_),
+treated using sea salt and UV light
+(_the most environmentally/skin friendly way to disinfect pool water_
+  see: https://www.spectralightuv.com/salt-water-pools )
+and _less than **30 seconds walk**_ from your desk!
+
 This is what the pool looked like yesterday (_very much "work-in-progress"_):
 
 ![braga-home-pool-panorama](https://user-images.githubusercontent.com/194400/44259932-db743980-a20a-11e8-9e88-e55cf5475dca.JPG)
+
+For an idea of what it will look like once complete, see: https://www.pinterest.com/pin/315392780150038400/
+
+
+
 
 #### Outdoor Gym
 
