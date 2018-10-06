@@ -1,10 +1,10 @@
-# WARNING: This is "Work-in-Progress" _far_ from "Done"! 🚧
+# WARNING: This is "Work-in-Progress"; _far_ from "Done"! 🚧
 
 We have made this repo **`public`** because we feel it keeps us _accountable_
-to each other, <br />
-**_please_ don't read it** if you are
+to each other, and keeps others "in the loop". <br />
+**_Please_ don't read it** if you are
 in _any_ way "critical" of embryonic ideas
-that are not "polished" in a "pitch deck".
+that are not "polished" in a "PowerPoint Pitch Deck".
 
 <hr />
 
@@ -29,8 +29,8 @@ that is _designed from scratch_ for:
 1. Optimal _restorative_ sleep, healthy eating and exercise.
 these are the _foundation_ for all other pursuits.
 
-2. Community-centered living. Surround yourself with _like-minded_
-intrinsically motivated people.
+2. Community-centered living; surround yourself with _like-minded_
+intrinsically motivated people. <br />
 (_with private "alone time" spaces and quiet/respectful housemates_)
 
 3. Dedicated areas for _both_ in-person and remote collaboration
@@ -55,7 +55,7 @@ People who are not inclined (_or ready_) to start their _own_ project(s)
 will still be encouraged/welcome as often working for another project
 is the _best_ way to learn in a "controlled environment".
 
-![go-work-for-an-existing-company-for-a-few-years](https://user-images.githubusercontent.com/194400/43996934-d3a21540-9dc5-11e8-82af-45e63c219f64.png)
+![go-work-for-an-existing-company-for-a-few-years](https://user-images.githubusercontent.com/194400/43996934-d3a21540-9dc5-11e8-82af-45e63c219f64.png) <br />
 http://paulgraham.com/hiring.html > A Public Service Message
 
 <sup>1</sup>we will not _exclude_ anyone because they
@@ -66,11 +66,12 @@ they prefer not to just for clarity.
 
 ### Solve a Problem You _Yourself_ Have
 
-> "_solve a problem that you yourself have then you will at least know
-that it's something that at least one person really wants.
-And when you are part of the target market you will have insights
-about it that you wouldn't otherwise._" <br />
-~ Jessica Livingston https://youtu.be/a2B4cVFIVpg?t=2m56s
+> "_**Solve** a **problem** that you **yourself have**
+then you will at least know
+that it's something that **at least one person really wants**.
+And when you are **part** of the **target market** you will have **insights**
+about it that you wouldn't otherwise._"
+~ **Jessica Livingston** https://youtu.be/a2B4cVFIVpg?t=2m56s
 
 We have been _strong_ proponents of Remote Working
 since the _beginning_ of **@dwyl**:
@@ -199,7 +200,7 @@ From our experience in the Tech Industry,
 both running Founders & Coders, Ladies of Code
 and Working as Developers/Engineers in several companies,
 we have seen/felt first-hand how a **_small minority_ of _men_**
-are condescending/intimidating towards ladies and minorities,
+are condescending/intimidating towards ladies/minorities,
 we will address this by _being_ the change we want to see.
 
 Rather than trying to _reason_ with unreasonable people,
@@ -275,6 +276,11 @@ had to work at another job to make a living._"
 Some of the people living/working at **`home`** will fall into the category
 of "work at another job",
 so measuring their overall happiness is a more accurate metric.
+
+> “Love is that condition in which the happiness of another
+person is essential to your own.”
+―~ Robert A. Heinlein, Stranger in a Strange Land
+via: https://www.goodreads.com/quotes/tag/happiness
 
 ### Exercise
 
