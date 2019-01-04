@@ -1,10 +1,12 @@
 # Why?
 
-> As usual, if you are critical of "incomplete" ideas, please don't read this.
+> ⚠️  This document is "Work in Progress". 🚧<<br/>
+> As usual, if you are critical of "incomplete" ideas,
+> ***please don't read this***.
 
 Our reasoning for _why_ we want to build a ***`@home`***
 where people in the @dwyl community can live, learn, get/stay well
-and work on something meaningful is simple: we want this for ourselves.
+and work on something meaningful is simple: we want this for _ourselves_.
 
 When we graduated from High School / University,
 there was no place we could go/live
@@ -12,7 +14,6 @@ that was focussed on health/wellness
 and where we could learn the skills
 we needed for the 21<sup>st</sup> century
 surrounded by _like-minded motivated_ people.
-
 If ***`@home`*** had _existed_
 when we left our parents houses
 and/or when we graduated from University,
@@ -22,45 +23,134 @@ We are _building_ what we _wish_ already existed!
 
 
 
-
-
 ## Why _Renovate_ an "Old" House?
 
-Several people have mentioned that the total cost to renovate
-an abandoned older house is very near to the cost of building from _scratch_.
+Several people
+(_including our main building contractor and foreman_)
+have mentioned
+that the total cost
+to renovate an _abandoned_ older house
+is very near to the cost
+of building from _scratch_.
+This is because with an older house the:
++ **plumbing** has likely _cracked_
+due to both use and disuse.
+  + pipes are probably made of materials
+  that include lead and are
++ **electrical circuit** will _definitely_ need re-wiring
+firstly because wires/cables in older houses
+usually degrade over time
+and secondly because they were not properly grounded
+when they were originally installed
+so the circuits were not safe.
++ **all windows** need to be _replaced_
+both for thermal and noise insulation.
++ **Walls** need to be repaired after
+the new electrical conduit and cables are installed.
 
-This is a fact we are _painfully_ aware of
-but one we _embrace wholeheartedly_;
-renovating an _existing_ abandoned house is the _right_ thing to do.
+The fact that renovation is _expensive_
+is one we are _painfully_ aware of
+but it is also one we _embrace wholeheartedly_;
+renovating an _existing_ abandoned/unused house
+is the _right_ thing to do
+both for _us_
+for the _environment_
+and the _country_.
 
-# 20% Of Houses in Portugal are Abandoned
+## 20% Of Houses in Portugal are Abandoned
 
-In Portugal there are an estimated **735,000 vacant/abandoned houses**.
+In Portugal, there are an estimated **735,000 vacant/abandoned houses**. <br />
 Rui Almeida has some _incredible_ photos
 of abandoned mansions: https://www.flickr.com/photos/ruialmeida
 
+e.g: https://www.flickr.com/photos/ruialmeida/46333296912/
+![rui-almeida-abandoned-house](https://user-images.githubusercontent.com/194400/50672256-efa8af80-0fce-11e9-904e-8f9a55c2ea9e.png)
+
+This Mail article is a good summary of the problem: <br />
+https://www.dailymail.co.uk/news/article-4028126/Portugal-mansions-sit-abandoned-photos-reveal-dilapidated-remains-half-lived.html
+
 ![portugal-vacant-properties](https://user-images.githubusercontent.com/194400/50629807-123aba00-0f36-11e9-9a75-03a33aeb7aa1.png)
 
-This is a good summary of the problem:
-https://www.dailymail.co.uk/news/article-4028126/Portugal-mansions-sit-abandoned-photos-reveal-dilapidated-remains-half-lived.html
-Not that you should/not read the Daily Mail ... 🙄
+Not that you (_or anyone_) should/not read the Daily Mail ... 🙄 <br />
 But the fact that "_mainstream media_" has covered the issue,
 should indicate that it's a _real_ problem.
 
 ![10-million-people](https://user-images.githubusercontent.com/194400/50630939-75c6e680-0f3a-11e9-8165-545e6fe3f5e4.png)
 
 Portugal has **10 Million** people and 3.6 Million households,
-an average household size of 2.5 people. 735k/3.6M = **20.4%** ...
+an average household size of 2.5 people. 735k/3.6M = **20.4%** ... 😮
 Approximately **one _fifth_** of the total housing stock
 of the country is _abandoned_!
 
 This is a _real_ problem because not only are the abandoned houses an eyesore
 on the landscape, they take up valuable space in prime locations!
-We feel that we need to be part of the _solution_ to the abandoned buildings.
-We need to renovate/restore the buildings
+We feel that we need
+to be part of the _solution_
+to the abandoned buildings problem.
+We need to show _leadership_
+in renovating/restoring buildings
 and bring them back into the "housing stock"
 so that people who currently cannot afford
-to live in Portugal's cities - because AirBnB has pushed up the prices
+to live in Portugal's cities
+can have a space to call their own.
+
+## AirBnB is a Greedy Landlord's _Dream_
+
+In Portugal's major cities -
+including Lisbon, Porto, Faro, Coimbra and Braga -
+Landlords are using AirBnB
+to rent entire apartments to tourists.
+
+### 76% of Listings on AirBnB are _Entire_ Homes
+
+According to AirBnB's official "overview" for 2016,
+**76%** of listings on the platform are for **_entire_ homes** or apartments.
+
+![76-percent-entire-home](https://user-images.githubusercontent.com/194400/50674226-19b49e80-0fdc-11e9-8601-afd932eec1bc.png)
+
+This is **`public`** information
+published by AirBnB themselves.
+AirBnB is _systematically accelerating_
+the _unaffordability_
+of homes
+to _local_ residents.
+It is _clear_ that the platform
+is _not_ being used by people
+renting out a "spare bed" in their home.
+People who _live_ in an apartment
+do not rent out the _entire_ apartment
+for 84 nights per year
+because otherwise they don't have anywhere to _sleep_!
+The _vast majority_ of listings
+are owned/operated by _professional_ landlords
+or "property investors".
+
+
+AirBnB's _official_ stats
+indicate that a "typical host"
+earns an _average_ of €7,000/year for 84 nights:
+[2016_EIS_Lisbon-Portugal_EN.pdf](https://www.airbnbcitizen.com/wp-content/uploads/sites/62/2017/05/2016_EIS_Lisbon-Portugal_EN.pdf)
+![image](https://user-images.githubusercontent.com/194400/50673108-bb83bd80-0fd3-11e9-9a40-01b71bb554ed.png)
+
+€7000 / 84 = **€83 / night**
+or
+€7000 / 12 = **€583 / month**
+This may appear to be
+"good value for money"
+to a tourist or "digital nomad",
+but it's _completely_ out of reach
+for a _local_.
+
+A typical 2 bedroom apartment in Lisbon
+used to be available to _locals_
+for **€300/month**.
+If the Landlord can get **€583/month**
+without much more work.
+
+The **66%** guest **growth rate** the report _highlights_
+should
+
+Prices have been pushed up _way_
 beyond what locals can pay
 see:
 https://www.euronews.com/2017/09/19/lisbon-s-tourism-magnet-is-kicking-out-local-residents -
@@ -73,14 +163,34 @@ evicting  local people out of their flats/houses
 in order to jack up prices on AirBnB.
 Working families are being made _homeless_
 so that landlords can make more _profits_.
-This is _wrong_ and should be stopped.
+This is _wrong_ and should be regulated by authorities
+to avoid locals being completely priced out.
 
 
 
+> To be **100% clear** we are not hypocritically
+> "throwing stones" at landlords.
+> We **own** homes where we do not live.
+> The homes we own are not "empty";
+> they are rented by people
+> who either do not _want_ to buy
+(_because they have not finalised where they want to live long-term_)
+or have not saved enough for a deposit.
+> We _deliberately_ set the rent
+of the houses we own _below_ the "market rate"
+and do _not_ increase rents the way greedy landlords do.
+We are _not_ trying to accumulate a "property empire"
+to extract as much economic rent from working families.
+The only "property" we own were once our principal private residences.
+i.e. we bought a "run down" house, renovated it,
+_lived_ in the house for 2+ years
+and after we moved on,
+instead of selling we decided to make the house/apartment
+available to others who need a place to live.
+We have not acquired property as investment exclusively for a return.
 
 
-
-# Further Reading
+# Background & Further Reading
 
 + "Why Are So Many Young Adults Living With Their Parents?":
 https://www.psychologytoday.com/us/blog/living-single/201605/why-are-so-many-young-adults-living-their-parents
@@ -91,15 +201,23 @@ https://www.arcgis.com/home/item.html?id=47203c4c0c5840baaf68cb4fa0d6e22f
 
 <br />
 
-# tl;dr
+# tl;dr / Work-in-Progress
 
-> **Please NOTE**: following section is NOT intended as a "criticism"
-of any _individual_ person.
+> **Please NOTE**: following section
+is NOT intended
+as a "criticism" or "disrespect"
+of any particular _individual_ person.
 It is purely an _observation_ that I want to _capture_.
 I want to _highlight_ the fact that some people don't _understand_
 what we are trying to build **`@home`** and that is a _good_ thing!
-Some people don't _want_ to think about the future
-or empathise with others who are less fortunate than them, that's totally "OK".
+It's a _sign_ that: <br />
+> a) _We_ are not doing a good enough job of sharing our _vision_. <br />
+> b) The person/people simply does/do not _want_ to think about the future
+or empathise with others who are less fortunate than them. <br />
+If people don't _want_ to understand
+what we are trying to achieve
+or don't _want_ to think about their own environmental impact
+or the selfishness of their lives, that's totally "OK".
 Each person has the right to live their life as they see fit.
 I/we _chose_ to live our lives in a way that _benefits everyone_.
 
@@ -226,7 +344,7 @@ because the company that owns it cares about one thing only: profit.
 
 Their lack of empathy is due to the fact
 that they have _never_ done
-_any_ creative work in their lives.
+_any_ creative problem solving work in their lives.
 People who do not _want_ to empathise with others,
 will _only_ see the world through their own lens.
 They _chose_ not to _understand_
