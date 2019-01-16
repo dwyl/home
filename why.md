@@ -211,7 +211,7 @@ It is purely an _observation_ that I want to _capture_.
 I want to _highlight_ the fact that some people don't _understand_
 what we are trying to build **`@home`** and that is a _good_ thing!
 It's a _sign_ that: <br />
-> a) _We_ are not doing a good enough job of sharing our _vision_. <br />
+> a) *We* are not doing a good enough job of sharing our _vision_. <br />
 > b) The person/people simply does/do not _want_ to think about the future
 or empathise with others who are less fortunate than them. <br />
 If people don't _want_ to understand
