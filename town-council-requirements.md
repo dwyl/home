@@ -31,3 +31,21 @@ and to the **Braga** town council at the time of writing (2018/2019)_.
 Whereas it may be illustrative of the kind of processes to expect at other
 Portuguese town councils, this should not be taken as a given and you must
 seek out additional information for yourself (even in Braga).
+
+
+## General Points
++ Each time you hand anything in, you will need to fill in a `requerimento`,
+i.e a standard form that tells the council what it is you're handing in
++ Keep hold of _all_ the documents you hand in and keep them handy in an
+organised folder, they _will_ come in handy, even if only to look up information
+and process numbers quickly (but most likely because there will be some
+obscure question that you can't answer but that the clerks at the town council
+can answer in seconds with your document history)
++ At the time of writing, you can find all of these `requerimento` forms in the
+'Apoio ao Cidadão' section of the council's website:
+ https://www.cm-braga.pt/pt/0502/municipio/camara-municipal/apoio-ao-cidadao/requerimentos
+
+![braga-council-website-requerimentos-urbanismo](https://user-images.githubusercontent.com/4185328/55278597-50adfe00-5306-11e9-8ce3-b85dbe351612.png)
+
+Finally, be aware that every time you hand in documentation, you will be expected
+to pay a fee for doing so.
