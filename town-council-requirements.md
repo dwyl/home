@@ -49,3 +49,48 @@ can answer in seconds with your document history)
 
 Finally, be aware that every time you hand in documentation, you will be expected
 to pay a fee for doing so.
+
+## Especialidades
+If you do hand in your architectural plans for approval first, you'll get a
+letter from the council with a list of :wrench: :nut_and_bolt: projects you need
+to hand in (they are not specific to your property) and a deadline by which to do so.  
+If you're handing everything in at once (or haven't received the letter yet), you
+can check what you're expected to include in the form that you hand in with the
+projects. For Braga, it's this one:
+[![requerimento-especialidades](https://user-images.githubusercontent.com/4185328/55279305-6673f100-530f-11e9-94bf-264c45af8bc8.png)](https://www.cm-braga.pt/pt/0502/municipio/camara-municipal/apoio-ao-cidadao/requerimentos/item/item-1-7861/download)
+
+Getting the documents together was extremely time consuming not only because
+it's essentially a process of herding cats, but because the Braga town council
+has some very specific rules technical rules around the documents,
+from format to naming conventions (more on these [below](#the-gotchas)).
+
+***All documents (including the signed and scanned `requerimento` form)
+must be handed in on a CD*** as well as a hard copy of the signed `requerimento`.
+
+Before you are able to hand _any_ of your documents in, the documents on your
+CD are run through a program to check they meet the technical requirements
+(see below). If a single one of the documents on your CD fails the
+technical check, they are all rejected and _there is no record of you having
+attempted to hand these in_.
+
+**If you have been given a deadline by the council
+to hand these in, start preparing them _well_ in advance** as it's unusual that
+they all get accepted on the first attempt. This also means that even if you
+don't have all your documentation ready yet, if you have any doubts about whether
+the projects you do have being correct, you can take them to the council and get
+them to check through them (this was very useful for us).
+
+With each of the `especialidades` you can go one of two ways:
++ Present the full project with all of the required support documents (the document
+  mentioned below which gives you the codes for each document in each area
+  - plumbing, gas, electrical, fire safety, etc - will be a good guide for expectations)
++ Present a **request for an exemption** for handing in the project
+  + This does not require a "requerimento" and is a PDF document that you will
+  need an engineer or architect to write for you and include in your CD
+  (even if just to say "This isn't required because no changes are being made")
+  + You will still need a couple of other support documents from said engineer to
+  prove they are qualified professionals (like insurance and their membership of
+  the 'Ordem de engenheiros'), but these are standard and they will know which
+  ones they are
+  + Each one of these will still set you back around €100-150 as they are essentially
+  signing on to be accountable for the lack of a project (and it's easy :moneybag:)
