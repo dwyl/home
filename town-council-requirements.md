@@ -36,6 +36,7 @@ seek out additional information for yourself (even in Braga).
 
 
 ## General Points
+
 + Each time you hand anything in, you will need to fill in a `requerimento`,
 i.e a standard form that tells the council what it is you're handing in
 + Keep hold of _all_ the documents you hand in and keep them handy in an
@@ -53,18 +54,19 @@ Finally, be aware that every time you hand in documentation, you will be expecte
 to pay a fee for doing so.
 
 ## Especialidades
+
 If you do hand in your architectural plans for approval first, you'll get a
-letter from the council with a list of :wrench: :nut_and_bolt: projects you need
+letter from the council with a list of projects you need
 to hand in (they are not specific to your property) and a deadline by which to do so.   
 You can find our list here: https://github.com/dwyl/home/issues/36 
 
 Getting the documents together was extremely time consuming not only because
 it's essentially a process of herding cats, but because the Braga town council
-has some very specific rules technical rules around the documents,
+has some very specific technical rules around the documents,
 from format to naming conventions (more on these [below](#the-gotchas)).
 
 ***All documents (including the signed and scanned `requerimento` form)
-must be handed in on a CD*** as well as a hard copy of the signed `requerimento`.
+must be handed in on a CD-ROM*** as well as a hard copy of the signed `requerimento`.
 
 Before you are able to hand _any_ of your documents in, the documents on your
 CD are run through a program to check they meet the technical requirements
@@ -89,12 +91,13 @@ With each of the `especialidades` you can go one of two ways:
   (even if just to say "This isn't required because no changes are being made")
   + You will still need a couple of other support documents from said engineer to
   prove they are qualified professionals (like insurance and their membership of
-  the 'Ordem de engenheiros'), but these are standard and they will know which
-  ones they are
+  the 'Ordem de engenheiros' = 'chartered engineers'), 
+  but these are standard and they will know which ones they are
   + Each one of these will still set you back around €100-150 as they are essentially
-  signing on to be accountable for the lack of a project (and it's easy :moneybag:)
+  signing on to be accountable/responsible for the lack of a project (and it's easy 💰)
 
 ### The Gotchas
+
 Check the council's website for technical details and limitations on these.  
 This is the current link for Braga: https://www.cm-braga.pt/pt/0101/municipio/camara-municipal/apoio-ao-cidadao/operacoes-urbanisticas
 More specifically, the `normas técnicas`: https://www.cm-braga.pt/archive/doc/Normas_Tecnicas_para_Entrega_de_Pedidos_de_Operacoes_Urbanisticas_em_Formato_Digital.pdf
@@ -120,47 +123,48 @@ each speciality in link above)
     the council's documentation, there should be a generic code you can use (`OPDF` in Braga's case)
 + Document names cannot be more than **20 characters** and contain **no hyphens**
 or special characters.
-+ Everything on the CD has to be at the root level, you cannot have any folders
-to split things out (I kept everything in folders until it was 100% ready and
-  moved docs to the root when I was sure)
++ Everything on the CD has to be at the root level, 
+no folders to split things out 
+(I kept everything in folders until it was 100% ready and
+  moved docs to the root when I was sure).
 
 
 You're better off calling the documents only by their codes to avoid problems.
 Here is a sampling of the 45 documents we handed in:
-![image](https://user-images.githubusercontent.com/4185328/55279567-bf448900-5311-11e9-86eb-a48d799e1eda.png)
 
-**Note also that a scanned copy of your we signed `requerimento` form must be
-included and be in the PDF/A format** (although it does not have to be digitally
-  signed).
+![sample-documents-screenshot](https://user-images.githubusercontent.com/4185328/55279567-bf448900-5311-11e9-86eb-a48d799e1eda.png)
+
+**Note also that a scanned copy of your _signed_ `requerimento` form 
+must be included and be in the PDF/A format** 
+(given that it's the paper is signed, it does not have to be digitally signed).
 
 ### Checking Every Document
-> With all of this going on, you'd be forgiven if you forgot to actually open up
-the documents and check that the details were correct - DON'T!
+
+> With all of this going on, you'd be forgiven for forgetting to actually open up
+the documents and check that the details are correct - _DON'T Forget_!
 
 It's extremely important and we caught errors in around 50% of the documents
 (mostly tiny typos or incorrect names/ID numbers) that could potentially cause
 things to be held up for months at the council.
 
-If you don't have AutoCAD (because :money_with_wings:), I found that
-[AutoDesk Viewer](https://viewer.autodesk.com) was a great free tool that
-allowed me to open and check through the `.dwf` plants.
+If you don't have AutoCAD (because 💸),
+[AutoDesk Viewer](https://viewer.autodesk.com) is a great free tool that
+lets you open and check through the `.dwf` plants.
 
 Once that's all good - and especially if you don't want to spend the next few weeks
 trapsing back and forth to the town council with what you hope are correct documents -
-you're going to want to personally check the technical requirements.
+you're going to want to _personally_ check all the technical requirements.
 
-I used the [this PDF validator](https://www.pdf-online.com/osa/validate.aspx)
-to check that documents were in the correct format, but be _very aware_ that by
+An online PDF validator https://www.pdf-online.com/osa/validate.aspx is useful 
+to check that documents are in the correct format, but be _very aware_ that by
 uploading documents to these kinds of 'free tools' websites you are essentially
 handing over all the information contained
 within them and they may as well be in the public realm.  
-**Do not use these for
-documents with personal information**.
+**Do not use these for documents with personal information**.
 
 
+### Document Submission
 
-
-### When you go to hand everything in
 Even when all of our documents were finally correct and we went to hand everything
 in, there was still a small issue with our `requerimento` form (to do with how
 we advise them that certain exemptions had been requested as part of the process)
@@ -179,9 +183,11 @@ look like they have been scanned (search for 'scanner app' and try a couple of f
 (remember that all documents on your CD need to be in this format so you'll need
 to convert your 'scanned' document to PDF/A)
 + If you have a laptop with you:
-  + [Portable CD writer](https://amzn.to/2JRpxvG) - this is just an example, you can pick them up pretty inexpensively in many places
+  + Portable CD writer: https://amzn.to/2JRpxvG - this is just an example, 
+  you can pick them up pretty inexpensively in many places
   + Extra blank CDs for re-burning the document CDs right there
-  (multiples; their software was taking too long to load the first CD I gave them and they were about to turn me away when I just handed them a fresh one I'd burned in the meantime)
+  (multiples; their software was taking too long to load the first CD 
+  I gave them and they were about to turn me away when I just handed them a fresh one I'd burned in the meantime)
 
 All of this will also make you look like a technical badass because no one else
-there will be considering time efficiency to this level :dancer: :joy:
+there will be considering time efficiency to this level 💃😂
