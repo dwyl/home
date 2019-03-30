@@ -15,7 +15,8 @@ make sure you have architects who are able to manage this process for you.
 
 Once this has been approved, you will need to hand in the projects for all of
 your 'specialties'  🔧 🔩🚿🚽 
-([`especialidades`](https://translate.google.com/#sl=pt&tl=en&text=especialidades) in Portuguese)
+([`especialidades`](https://translate.google.com/#view=home&op=translate&sl=pt&tl=en&text=especialidades) 
+ in Portuguese)
 such as plumbing, electrical,  etc. for approval.
 
 These _can_ be handed in at the same time as your architectural project but if
