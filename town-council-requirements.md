@@ -14,8 +14,9 @@ The first step is to get architectural approval for your changes - you should
 make sure you have architects who are able to manage this process for you.
 
 Once this has been approved, you will need to hand in the projects for all of
-your 'specialties' :wrench: :nut_and_bolt: (`especialidades` in Portuguese)
-such as plumbing, electrical, etc. for approval.
+your 'specialties'  🔧 🔩🚿🚽 
+([`especialidades`](https://translate.google.com/#sl=pt&tl=en&text=especialidades) in Portuguese)
+such as plumbing, electrical,  etc. for approval.
 
 These _can_ be handed in at the same time as your architectural project but if
 you have the luxury of time, you are better off getting architectural approval
