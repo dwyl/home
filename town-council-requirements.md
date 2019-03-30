@@ -54,10 +54,6 @@ to pay a fee for doing so.
 If you do hand in your architectural plans for approval first, you'll get a
 letter from the council with a list of :wrench: :nut_and_bolt: projects you need
 to hand in (they are not specific to your property) and a deadline by which to do so.  
-If you're handing everything in at once (or haven't received the letter yet), you
-can check what you're expected to include in the form that you hand in with the
-projects. For Braga, it's this one:
-[![requerimento-especialidades](https://user-images.githubusercontent.com/4185328/55279305-6673f100-530f-11e9-94bf-264c45af8bc8.png)](https://www.cm-braga.pt/pt/0502/municipio/camara-municipal/apoio-ao-cidadao/requerimentos/item/item-1-7861/download)
 
 Getting the documents together was extremely time consuming not only because
 it's essentially a process of herding cats, but because the Braga town council
@@ -94,3 +90,95 @@ With each of the `especialidades` you can go one of two ways:
   ones they are
   + Each one of these will still set you back around €100-150 as they are essentially
   signing on to be accountable for the lack of a project (and it's easy :moneybag:)
+
+### The Gotchas
+Check the council's website for technical details and limitations on these.  
+This is the current link for Braga: https://www.cm-braga.pt/pt/0101/municipio/camara-municipal/apoio-ao-cidadao/operacoes-urbanisticas
+More specifically, the `normas técnicas`: https://www.cm-braga.pt/archive/doc/Normas_Tecnicas_para_Entrega_de_Pedidos_de_Operacoes_Urbanisticas_em_Formato_Digital.pdf
+
+These were the things that caused us to have to go back to the engineers the most
+often to correct:
++ Documents much be in one of two formats:
+  + PDF**/A** for text documents (including ones that come from you like proof of property ownership)
+  + `.dwf` for drawings and plans
++ Each document must be digitally signed by the responsible architect/engineer
+_with their personal Portuguese identity card_ (I don't know how you'd do this with
+international architects)
+  + In Braga, there is one particularity here: this must be a **qualified digital
+  signature**, which is just an option chosen at the time the signature is added
+  (details for how to do this are in the link above but this caused the _most_
+    issues for us)
++ Plans need to be created with a specific unit of measure ("unidade de metro"),
+but this shouldn't be an issue for any engineer who has worked with councils previously
++ Each file must be given a very specific alphabetical code (list of codes for
+each speciality in link above)
+  + Note that for your `requerimento` you will need a specific code (`REQ` in our
+    case) and if there is a document you're handing in that is not contained in
+    the council's documentation, there should be a generic code you can use (`OPDF` in Braga's case)
++ Document names cannot be more than **20 characters** and contain **no hyphens**
+or special characters.
++ Everything on the CD has to be at the root level, you cannot have any folders
+to split things out (I kept everything in folders until it was 100% ready and
+  moved docs to the root when I was sure)
+
+
+You're better off calling the documents only by their codes to avoid problems.
+Here is a sampling of the 45 documents we handed in:
+![image](https://user-images.githubusercontent.com/4185328/55279567-bf448900-5311-11e9-86eb-a48d799e1eda.png)
+
+**Note also that a scanned copy of your we signed `requerimento` form must be
+included and be in the PDF/A format** (although it does not have to be digitally
+  signed).
+
+### Checking Every Document
+> With all of this going on, you'd be forgiven if you forgot to actually open up
+the documents and check that the details were correct - DON'T!
+
+It's extremely important and we caught errors in around 50% of the documents
+(mostly tiny typos or incorrect names/ID numbers) that could potentially cause
+things to be held up for months at the council.
+
+If you don't have AutoCAD (because :money_with_wings:), I found that
+[AutoDesk Viewer](https://viewer.autodesk.com) was a great free tool that
+allowed me to open and check through the `.dwf` plants.
+
+Once that's all good - and especially if you don't want to spend the next few weeks
+trapsing back and forth to the town council with what you hope are correct documents -
+you're going to want to personally check the technical requirements.
+
+I used the [this PDF validator](https://www.pdf-online.com/osa/validate.aspx)
+to check that documents were in the correct format, but be _very aware_ that by
+uploading documents to these kinds of 'free tools' websites you are essentially
+handing over all the information contained
+within them and they may as well be in the public realm.  
+**Do not use these for
+documents with personal information**.
+
+
+
+
+### When you go to hand everything in
+Even when all of our documents were finally correct and we went to hand everything
+in, there was still a small issue with our `requerimento` form (to do with how
+we advise them that certain exemptions had been requested as part of the process)
+and I had to make a quick unexpected update to this.
+
+I recommend **having a few 'tools' on hand when you go to the council offices**
+so that you can make any changes 'on the fly' as
+opposed to having to go home to make changes, burn a CD and come back again
+(particularly if you're on a deadline):
++ If you have one, your laptop where you have compiled the documents
+ (this is also useful to allow you to check documents they ask you about as well)
++ Extra printed out copies of the blank `requerimento` form in case you've made a mistake here
++ An app on your phone that allows you to take photos of documents and makes them
+look like they have been scanned (search for 'scanner app' and try a couple of free ones before you go)
++ PDF to PDF/A converter like https://www.pdftron.com/pdf-tools/pdfa-converter/
+(remember that all documents on your CD need to be in this format so you'll need
+to convert your 'scanned' document to PDF/A)
++ If you have a laptop with you:
+  + [Portable CD writer](https://amzn.to/2JRpxvG) - this is just an example, you can pick them up pretty inexpensively in many places
+  + Extra blank CDs for re-burning the document CDs right there
+  (multiples; their software was taking too long to load the first CD I gave them and they were about to turn me away when I just handed them a fresh one I'd burned in the meantime)
+
+All of this will also make you look like a technical badass because no one else
+there will be considering time efficiency to this level :dancer: :joy:
