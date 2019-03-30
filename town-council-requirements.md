@@ -53,7 +53,8 @@ to pay a fee for doing so.
 ## Especialidades
 If you do hand in your architectural plans for approval first, you'll get a
 letter from the council with a list of :wrench: :nut_and_bolt: projects you need
-to hand in (they are not specific to your property) and a deadline by which to do so.  
+to hand in (they are not specific to your property) and a deadline by which to do so.   
+You can find our list here: https://github.com/dwyl/home/issues/36 
 
 Getting the documents together was extremely time consuming not only because
 it's essentially a process of herding cats, but because the Braga town council
