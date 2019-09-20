@@ -25,7 +25,7 @@ Our sign will be cut on the CNC (_obvs_) and mounted with LEDs so it "pops":
 ![CNC-sign-with-LED-background](https://user-images.githubusercontent.com/194400/64484188-93092e80-d206-11e9-9338-5cefe396b1dd.png)
 
 
-## Middle floor corridor:
+## Middle floor corridor:
 
 3. Mail sorting and "pigeon hole" rack
 to organise mail and packages for longer-term guests.
@@ -94,7 +94,7 @@ https://github.com/dwyl/home/issues/82
 23. Laundry organisation/storage (_for clean clothes_)
 24. Overhead drying rack with pulley
 
-## Dining Room
+## Dining Room
 
 25. Dining table (x4) - this will require a decent amount of thought
 to create a _system_ that allows us to use each table independently
@@ -105,7 +105,7 @@ but also configure them into a single table for our community meals.
 29. Device charging bank. (_our dining room will be a "no screens" environment_) People will leave their phones charging while they are eating.
 
 
-## Co-working / Learning Room
+## Co-working / Learning Room
 
 30. Sit-stand desk (x20) https://github.com/nelsonic/standing-desk
 I expect that once I've invested the time researching and designing (1 week)
@@ -120,26 +120,27 @@ I'm definitely up for the challenge, and think it's a worth my time,
 but I don't consider it a priority
 because there are reasonably priced chairs
 we can use in the mean time.
+32. Plant Wall
 
 
 # Basement
 
 ## Reduced Mobility room
 
-32. Murphy bed (_using linear actuators_)
+33. Murphy bed (_using linear actuators_)
 2. Wardrobe
 3. Additional wall-mounted fold down single bed for child/guest/carer.
 
 
 ## Recording Studio (_Formerly "Media Room"_)
 
-35. Overhead recording desk for top-down shots.
+36. Overhead recording desk for top-down shots.
 2. Video editing desk.
 3. Mini sofa (_tight fit but essential_)
 
 ## Leisure Room
 
-38. 4 x 2-seater sofas with integrated storage
+39. 4 x 2-seater sofas with integrated storage
 2. 4 x L-shaped sofas in corners of room
 3. Plant wall covering the whole west wall.
 The projector screen will descend from the ceiling
@@ -153,12 +154,12 @@ All sofas will be on castors so repositionable for movie night.
 
 ## Bedrooms
 
-41. 16 bunk beds with integrated lighting and storage.
+42. 16 bunk beds with integrated lighting and storage.
 see: https://github.com/nelsonic/bunk-bed
 
-## Houseparent Tiny House
+## Houseparent Tiny House
 
-42. Bed https://github.com/nelsonic/braga-houseparent-tiny-home
+43. Bed https://github.com/nelsonic/braga-houseparent-tiny-home
 2. Step ladder to loft
 3. Sofa
 4. Wardrobe
@@ -168,6 +169,6 @@ see: https://github.com/nelsonic/bunk-bed
 
 # Top Floor
 
-47. 3 x double bed frames with integrated storage
-43. 3 x Built-in wardrobes
-45. Landing L-shaped sofa
+48. 3 x double bed frames with integrated storage
+2. 3 x Built-in wardrobes
+3. Landing L-shaped sofa
