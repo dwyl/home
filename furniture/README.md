@@ -139,7 +139,7 @@ we can use in the mean time.
 
 ## Leisure Room
 
-42. 4 x 2-seater sofas with integrated storage
+38. 4 x 2-seater sofas with integrated storage
 2. 4 x L-shaped sofas in corners of room
 3. Plant wall covering the whole west wall.
 The projector screen will descend from the ceiling
@@ -153,7 +153,7 @@ All sofas will be on castors so repositionable for movie night.
 
 ## Bedrooms
 
-42. 16 bunk beds with integrated lighting and storage.
+41. 16 bunk beds with integrated lighting and storage.
 see: https://github.com/nelsonic/bunk-bed
 
 ## Houseparent Tiny House
@@ -168,6 +168,6 @@ see: https://github.com/nelsonic/bunk-bed
 
 # Top Floor
 
-42. 3 x double bed frames with integrated storage
+47. 3 x double bed frames with integrated storage
 43. 3 x Built-in wardrobes
 45. Landing L-shaped sofa
