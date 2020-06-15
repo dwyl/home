@@ -3,6 +3,67 @@
 There are at _least_ 100 individual pieces of furniture
 that need to be built (_or in some cases bought_) for the house.
 
+# Why?
+
+We have a strong preference for _making_ the furniture ourselves,
+because:
+
+**A**. **Control**: Custom-making gives us full control
+over the appearance, dimensions,
+quality and _features_ of each item.
+This is especially relevant in the kitchen, bedrooms and co-working rooms
+where we want to maximise the space available and create innovative designs!
+
+**B**. **Creativity**: By designing all the pieces in-house
+we ensure that we can _improve_ and _iterate_ on any existing designs.
+We can _inspired_ by design catalogs, books and web,
+but we don't have to _settle_ for a design that was made to maximise profits
+for a
+[Billionaire](https://en.wikipedia.org/wiki/Ingvar_Kamprad#Fascist_involvement).
+Instead we can actually make things we _want_ to exist
+like dining tables with integrated plants,
+desks with integrated fast wireless charging and logical cable management
+or bunk beds with built-in intelligent storage and noise-blocking curtains.
+Once we have invested the time producing the CAD models,
+we can _re-create_ the items from scratch
+using our Laser Cutter _faster_ than the round-trip to IKEA!
+Additionally we intend to Open Source all our designs
+so that _anyone_ can customise and reproduce them _anywhere_
+for considerably _less_ cash than the equivalent IKEA item! 😮
+
+
+**C**. **Cost**: can be _minimised_ because we
+have invested in a high-precision industrial Laser Cutter
+that can consistently make *thousands* of items of furniture.
+Once the CAD design is made,
+the _cost_ of the additional piece
+is just the _marginal_ cost of the materials!
+In our case the high quality locally sourced sustainable Ply Wood.
+Not the fall-apart after a couple of years crap MDF
+or veneered particle board you get from lowest-cost mega retailers.
+
+> For reference, we requested price quotes
+for the kitchen from 3 suppliers
+and the cheapest one was just over **€15k**
+(_our design has 3 separate kitchen areas
+  and custom kitchens are never cheap_).
+However we felt that the quotes were _ridiculously_ overpriced
+as the appliances cost less than €2k
+and my design only uses 8 sheets of (8x4') plywood,
+so the total cost will be less than €2.5k all-in!
+Obviously it will require **100h+** of my time to design, assemble and finish
+the kitchen. At my standard hourly rate would make the kitchen
+cost a comparable amount to the quoted prices.
+But given that I _really want_ to build some _unique_ features
+(_that I've never seen before_),
+I feel that the _outcome_ will be worth it!
+
+
+
+
+# What?
+
+This doc is the high level list of items we need to create for the house.
 
 If we "walk through" the house starting at the main entrance,
 we can list all the items that need to be made (_or bought_):
@@ -12,8 +73,12 @@ we can list all the items that need to be made (_or bought_):
 ## Entrance:
 1. Entrance shoe rack - so people avoid wearing outside dirt into the house.
 There will be at _least_ 32 individual spaces.
-Each "cubby" will be numbered cante
-and automatically fold away neatly to avoid clutter.
+Each "cubby" will be numbered
+and automatically close to avoid clutter.
+This is the closest thing I can find online:
+![image](https://user-images.githubusercontent.com/194400/84670439-0cfcdf80-af1e-11ea-9da9-3075b4af8c57.png)
+Ours will be _much_ better!
+
 2. Entrance living wall (inside) and "***welcome home***" **sign**.
 
 Our "Welcome Home" sign will be similar to this:
@@ -42,8 +107,15 @@ where people can share their love and creativity.
 
 ## Library:
 
-6. Library shelving covers the north wall.
-(_not adding more library shelving until we **need** it._)
+6. Library shelving will cover the north wall.
+We have more than enough books to cover the 5.31m<sup>2</sup> (2.769 x 1.918) <br />
+
+Our Library wall will be similar to one we had in London:
+![library-wall](https://user-images.githubusercontent.com/194400/44033976-e546c3b0-9f03-11e8-80fe-c0e03e65e5c1.JPG)
+As soon as we need more shelf space
+(_e.g. because people visiting the house donate booksimg
+  that are on our wishlist_) we have plenty more walls we can use!
+
 7. "Secret" library door (_which won't be a secret after the video is published ... but will still look amazing!_)
 8. Ergonomic Fold-up Desk so Library can be used as a meeting room
 see: https://github.com/nelsonic/nelsonic.github.io/issues/332#issuecomment-374660800
