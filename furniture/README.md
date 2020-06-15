@@ -3,7 +3,7 @@
 There are at _least_ 100 individual pieces of furniture
 that need to be built (_or in some cases bought_) for the house.
 
-# Why?
+# Why?
 
 We have a strong preference for _making_ the furniture ourselves,
 because:
@@ -61,7 +61,7 @@ I feel that the _outcome_ will be worth it!
 
 
 
-# What?
+# What?
 
 This doc is the high level list of items we need to create for the house.
 

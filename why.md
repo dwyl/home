@@ -1,6 +1,6 @@
 # Why?
 
-> ⚠️  This document is "Work in Progress". 🚧<<br/>
+> ⚠️  This document is "Work in Progress". 🚧<br/>
 > As usual, if you are critical of "incomplete" ideas,
 > ***please don't read this***.
 
