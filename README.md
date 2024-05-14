@@ -38,16 +38,25 @@ this is the list:
    [bunk-bed#20](https://github.com/dwyl/bunk-bed/issues/20)
 3. Define Systems: 
    [home#113](https://github.com/dwyl/home/issues/113)
+   This involves the creation of _written_ instructions,
+   checklists and in some cases videos.
+   But it all starts with _writing_ down what needs to be done.
 4. Build Online Application Form: 
    [fields-demo#2](https://github.com/dwyl/fields-demo/issues/2)
+   There are _many_ reasons for creating our own application form
+   the most obvious ones are: privacy/security, 
+   better UX, analytics and partial capture (improved conversion).
 5. Invite first _friendly_ guests to give us feedback.
-6. Iterate on systems, beds & application+feedback forms.
-7. Open to paying customers with the _systems_ in place. 
+   We are _already_ moving forward with this, they will help us build furniture/bunks.
+6. Iterate on systems, beds & application + feedback forms.
+7. Open to _paying_ guests **ASAP** with the _systems_ in place. 
 
 
 If you are not working on one of these tasks,
-you aren't helping. 
-Working on anything else is a 
+you aren't advancing the mission,
+what's worse you are being counter-productive!
+Working on _anything_ `else` 
+that doesn't get us to _paying_ guests is a 
 [distraction](https://github.com/nelsonic/nelsonic.github.io/issues/341#issuecomment-418987232)
 _preventing_ us from achieving our collective goal.
 If you're wasting time on 
@@ -65,6 +74,8 @@ But nothing _meaningful_ is achieved
 by sugar-coating the truth.
 
 # Don't Wast Your Life.
+
+
 
 <br />
 <hr />
