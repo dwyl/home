@@ -1,18 +1,85 @@
-# WARNING: This is "Work-in-Progress"; _far_ from "Done"! 🚧
+# WARNING: This is "Work-in-Progress"; _Definitely_ Not "Done"! 🚧
 
-We have made this repo **`public`** because we feel it keeps us _accountable_
-to each other, and keeps others "in the loop". <br />
+We have made this repo **`public`** 
+because we feel it keeps us _accountable_
+to ourselves / each other
+and keeps everyone in-the-loop. <br />
 **_Please_ don't read it** if you are
-in _any_ way "critical" of embryonic ideas
-that are not "polished" in a "PowerPoint Pitch Deck".
+in _any_ way critical of embryonic ideas
+that are not polished in a PowerPoint Pitch Deck.
+
+<hr />
+
+# 2024 Update
+
+A _lot_ has changed since we first wrote this document.
+The global pandemic and lock-down brought our progress to a complete halt.
+We were unable to continue with construction
+and then our foreman moved on to a different project
+leaving us with an unfinished exterior building (i.e. building site!)
+
+Our first child was born in 2020 👶
+and we were focussed on being parents while working full-time remote jobs
+and now our second child (2022)
+has consumed all our remaining time. 🎉
+
+We still have a _lot_ to do 
+before we can open the house to guests
+this is the list:
+
+# 7 Point Plan
+
+1. Finish the Sun Room + Garden: 
+   [home#14](https://github.com/dwyl/home/issues/14)
+   This is by _far_ our highest priority task. 
+   Without it we cannot open our doors for _any_ activity.
+2. Design + Build Bunk Beds: 
+   [bunk-bed#20](https://github.com/dwyl/bunk-bed/issues/20)
+3. Define Systems: 
+   [home#113](https://github.com/dwyl/home/issues/113)
+4. Build Online Application Form: 
+   [fields-demo#2](https://github.com/dwyl/fields-demo/issues/2)
+5. Invite first _friendly_ guests to give us feedback.
+6. Iterate on systems, beds & application+feedback forms.
+7. Open to paying customers with the _systems_ in place. 
+
+
+If you are not working on one of these tasks,
+you aren't helping. 
+Working on anything else is a 
+[distraction](https://github.com/nelsonic/nelsonic.github.io/issues/341#issuecomment-418987232)
+_preventing_ us from achieving our collective goal.
+If you're wasting time on 
+[social media](https://github.com/dwyl/home/issues/29),
+you are _passively_ working _against_ our 
+[mission](https://github.com/dwyl/start-here/blob/main/mission.md)!
+If you need to unwind from the day,
+read a book, write in your journal, play an instrument, game or exercise!
+Mindlessly/passively consuming other people's "content"
+is _wasting_ your life 
+not _making_ anything yourself.
+
+We _know_ this sounds "harsh".
+But nothing _meaningful_ is achieved 
+by sugar-coating the truth.
+
+# Don't Wast Your Life.
+
+<br />
+<hr />
+<br />
+
+
+<hr />
+
+# OLD VERSION 
 
 <hr />
 
 ## _Why_?
 
-
-
-People are often more productive/effective when working from [their own] home:
+People are often more productive/effective 
+when working from [their own] home:
 
 ![working-from-home](https://user-images.githubusercontent.com/194400/43996896-071d1e66-9dc5-11e8-93e2-9a4b3fa000c9.png) <br />
 http://paulgraham.com/opensource.html > Workplaces
