@@ -1,4 +1,4 @@
-# WARNING: This is "Work-in-Progress"; _Definitely_ Not "Done"! 🚧
+# ⚠️ WARNING: This is "Work-in-Progress"; <br />_Definitely_ Not "Done"! 🚧
 
 We have made this repo **`public`** 
 because we feel it keeps us _accountable_
@@ -19,7 +19,8 @@ and then our foreman moved on to a different project
 leaving us with an unfinished exterior building (i.e. building site!)
 
 Our first child was born in 2020 👶
-and we were focussed on being parents while working full-time remote jobs
+and we were focussed on being parents 
+while working full-time remote jobs
 and now our second child (2022)
 has consumed all our remaining time. 🎉
 
@@ -69,10 +70,158 @@ by sugar-coating the truth.
 <hr />
 <br />
 
+# Braga Plan
+
+This update to the plan aims to answer as many questions as possible.
+We need complete clarity on our goals and the plan to get us there.
+If you still have questions, 
+[_please_ open issues](https://github.com/dwyl/home/issues)
+to discuss. 
+If there are no questions I’m going to presume agreement and proceed accordingly.
+We’ve already wasted _far_ too much time with “I don’t know what’s going on”.
+If you don’t understand, ask questions. If you don’t ask questions it’s because you don’t want to.
+
+
+# Why? 
+
+We have written _several_ iterations of the [business] plan over the years.
+But somehow the key people “don’t know what we are doing”.
+Which means _nothing_ gets done [by them] towards the goal/plan.
+That needs to stop immediately. 
+We _all_ need to be working to the same goal/plan, 
+and moving as fast as we can to get there, before we 
+[run-out of cash!](https://github.com/dwyl/home/issues/244).
+There is no excuse for procrastination due to lack of clarity.
+
+## Context to the Updates 👶
+
+In 2018 when ~~we~~ I prepared the _first_ version of the goal/plan for the house,
+we were at a _very_ different stage in our lives; young(ish) and fancy-free!
+Fast forward ***6 years*** - yes the time is _flying_ 
+and we have _two_ children!! 😮
+And all the delightful pressure/stress that comes with bundles of joy. 😂
+
+We therefore have _several additional_ “***stakeholders***” and requirements for the house.
+
+
+## Childcare
+
+Childcare is a challenge all parents face. In our case we live ~400km from our parents/in-laws, so regular grandparent care is not feasible for us the way it is for many other families. Ditto for aunts and uncles. So we are pretty much “on our own”. This is both good, because it forces us to resolve the challenge creatively on our own, and obviously bad because our children spend far too little time with their extended family. 😢
+
+I refer to childcare as a “challenge” for the simple reason that if we want to continue working on anything for our company/business, that involves the adults spending decent chunks of uninterrupted focus time at a computer. Computer focus time is not compatible with toddlers that are curious, constantly moving and _loud_.
+
+## “Traditional” Childcare
+
+I use the quotes around the word “traditional” to emphasise that this is a _very_ recent societal construct of “modern” (post-industrial revolution) society. Much like the “traditions” of Santa Clause, Halloween, or Valentine’s Day, they all serve a very specific _commercial_ purpose beyond their original cultural significance. 
+
+Taking one’s children to an institution that is professionally run by people outside of one’s family and leaving the children with them for  08:30 - 17:00 each day so that _both_ parents can go to work, is a _very_ recent  - and arguably societally undesirable - phenomena. However because it has existed as a social norm for the past couple of generations, most people don’t question it. 
+The same way _most_ people don’t question burning non-renewable fossil fuels for basic transport, heating or food production. ⛽️🔥😢
+
+Just like we need to 
+[#StopBurningStuff](https://m.youtube.com/hashtag/stopburningstuff) 
+We need to get away from the “modern” outsourcing of parenting that leads to suboptimal outcomes.
+
+The _last_ thing we want is to offload our children to “traditional” childcare
+in the form of a pre-school. 
+As noted by Sir Ken Robinson in the most viewed TED Talk of _all_ time (by a wide margin!)
+_most_ schools “kill creativity”: 
+[ted.com/talks/sir_ken_robinson_do_schools_kill_creativity](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity)
+or 
+[youtu.be/iG9CE55wbtY](https://youtu.be/iG9CE55wbtY)
+I know that I felt this at the various schools I attended as a child. 
+And I also know that the “fix” is remarkably simple: 
+1. Teachers should be well educated and compensated - like they are Finland.  
+2. They should have access to good resources so they never skip an activity for lack of money. Not the absurdly low budgets we often see even in fee-paying schools. 
+3. Learning  cannot be run “for profit”, rather  the bottom line is: are children _thriving_? Schools should be run sustainably and _never_ “Private Equity” financed. 
+
+
+
+## Can We Run _Two_ Ideas in the *Same* House? 
+## Spoiler: _Yes_! _Especially_ if they are Complimentary/Symbiotic!
+
+It’s just a question of framing the concept so everyone understands.
+We aren’t building a “school” or a “hostel” there are plenty of those already. Boring! 🥱
+We’re building a life-long learning community that inspires curiosity & creativity in people of _all_ ages. 
+It starts as young as possible with [Montessori](https://en.m.wikipedia.org/wiki/Montessori_education)/[Waldorf](https://en.m.wikipedia.org/wiki/Waldorf_education) principles of self-directed/lead group-based learning in infants.
+
+
+
+
+# Montessori Playgroup (“Centro de Actividades”) 
+
+We have **space** for **21 children** in a **60m**<sup>2</sup> room + **70m**<sup>2</sup> Garden Space.  If we operate under the following assumptions:
+
+1. All fixed overhead costs of the shared living space can be shared with the playgroup. Including mortgage, electricity, building/grounds maintenance, full-time cleaner and admin.
+2. The underground garden space is for exclusive use of the playgroup during the day 08:00 - 18:00. Other activities (e.g. Yoga, Pilates & Meditation🧘‍♂️) are possible 18:00 - 21:00 and weekends.
+3. Ground level South garden is used by playgroup during the day too.
+4. Basement bathroom is used by playgroup during the day. Anyone using the pool+sauna+spa during the day must _reserve_ a spot using our App. That way everyone knows what who is using which facilities. 
+5. Leisure + Music room is reserved for 2h each morning during weekdays. Ditto for Workshop. 
+6. Basement (“MR Room” -> “Nap Room”) will have 3 (Full-size) Bunk Beds tailored to children taking naps. It will be called the “Nap Room” and children can use it at any time during the week. The 3 full-size bunks (6 beds) will be made available on “busy weekends” (Friday, Saturday & Sunday Night). Guests must checkout by 11:00 Monday Morning.  The Room is cleaned/reset 11:00 - 12:00 ready for weekday nap times. 
+7. The basement office will continue to be the office. It needs to be **_hyper_ organised** to run both businesses. “Authorised Persons Only” sign on the door. 
+
+Potential Revenue of PlayGroup: 
+14 children each paying €350/month = €4,900
+
+This revenue is far from enough to sustain the whole building as previously noted in our  [playgroup calculations spreadsheet](https://github.com/bmhco/private/issues/136). But it means we can afford to pay for two competent + trained people to look after the children and have a good teacher:student ratio. 
+
+With a ratio of 8 children per adult we could bring the price down to €320/month and still get 16 x €320
+= €5120/month 
+
+This is a much more attractive (market clearing) price and still totally doable in terms of the available space. 💭
+
+
+
+# Accommodation
+
+**1: Family-friendly short-stay shared accommodation** in the top 2 floors of the house. This includes the 4 large bedrooms and “middle” floor which has the kitchen, dining room and current play room. This is space for **24 beds**. (4 rooms x 3 bunks x beds per bunk) 
+
+Charging €15/night/bunk (market clearing in our city!) and having occupancy of 70% we get: 
+24 x €15 x 365 days x 70% / 12 months 
+= €7665/month
+
+Note: There will be peak months where occupancy reaches 95% and low season where it’s only 20-30% it balances out. We will also encourage long-term stays with 30% discounts which equates to 70% occupancy. 
+
+
+If the “overheads” for the businesses are shared and thus each only has to cover _half_, then both businesses instantly become (more) profitable/sustainable. Then it’s a question of figuring out the plan to make both coexist and ensure that parents are comfortable having their kids going to play group “next door” to a - carefully curated community - living space.
+
+I think it’s very much a question of *framing*, making it clear that all members of the community are thoroughly background-checked and having a very clear timetable for who has access to what & when. See timetable below.
+
+If we *specifically* market the residence as “family focussed” it’s a niche that *definitely* is not being addressed. 
+
+## What does “family friendly” mean?
+
+1. **All visitors must _apply_ to visit/stay** and submit their identity document ahead of time. This ensures that we _know_ exactly who is visiting.  We will inform prospective members that our app uses a background check service to confirm people’s identity - similar to how a bank does “KYC” - and if for _any_ reason their identity/background cannot be verified we let them know with as much detail as we get.
+
+> **Note**: Identity submission is the `law` in `PT`, all hotels, hostels and guesthouses (etc.) are required to collect identification for guests and inform the local police of who is staying where. 
+Ideally we operate on a **referral** basis so someone has to be recommended by an _existing_ member (past guest) like Soho House in London. This makes the org a *lot* more sustainable because we don’t have to waste time with advertising/marketing. If the person making the referral has to “vouch” for the new member and receives a small commission when the referred person makes their _first_ payment it heavily incentivises good people/behaviour. In our Ts&Cs we will write that we “reserve the right to reject an application that passes identity/background checks for a different reason. We will provide the reason. We hope _not_ to _need_ to do this. 
+
+2. Focussed on Learning and personal development not entertainment and distraction. What does *that* mean? 🤷‍♂️ simple: it means that infinity pool distraction Apps/Sites that have a proven negative effect on people’s mental health and suck as much of our time as possible (such as Facebook, Instagram, SnapChat, TikTok, etc.) are banned at the network level. Whereas we have subscriptions to learning platforms like Brilliant.org available for all to learn STEM instead of doom scrolling their lives away.
+
+3. Strictly No alcohol, tobacco (or vape, etc) or drugs/substances (regardless of their decriminalised status) on premises. No exceptions. The rule of thumb is simple: if it wouldn’t be allowed in a primary school classroom, it’s not allowed on our site. If people feel the need to have a beer or glass of wine with their meal, that’s their decision, they can simply have that meal at a local restaurant and respect our rule. Plenty of good reasonably priced restaurants in the area, all serve alcohol; feel free to support the local economy. 👌
+
+4. Stated preference for **families _with_ children** but also welcoming to:
+* couples _without_ children who are sympathetic to children - e.g: teachers who haven’t yet started a family of their own. For ref: there are **460k teachers** in the UK alone. And **5.2M** across all of Europe see: https://ec.europa.eu/eurostat/web/products-eurostat-news/-/edn-20201005-1 if we just target this group of people there is an _excellent_ niche.
+* retired people whose children have left home but still remember what it’s like to have small children around. e.g: grandparents who love having small children around. 
+
+All of these are huge market segments, it’s just a question of appropriately keyword targeting them with our content.
+The only people we are (indirectly) excluding are those whose prefer “adult only” (no children) resorts and young adults who want to “party”. There are *plenty* of other places/venues that cater for these people. By *specifically* informing people that we don’t, they self-select and filter. 
+
+5. Friendly Pets are very welcome, but must be walked (off-property) and kept clean/tidy. They sleep outside. We can create a small kennel if there is demand. Don’t think many people will be travelling with pets so not worried about this one being over-subscribed. Just want to leave the option open. 
+
+Remember: we only have 24 (eventually 38) beds so not a lot of space. Once demand reaches a sustainable level where we have good word-of-mouth and a waiting list, we can be highly selective with people.
+
+Young adults that want to focus on their health and personal learning/improvement will instantly *get* it. Those who prefer a party house can easily find one. I wager the people wanting a quiet+healthy house will soon outnumber the rest once word spreads how much better it is. 
+
+
+
 
 <hr />
 
-# OLD VERSION 
+# _OLD_ VERSION 
+
+For historical purposes, 
+the older version of the `README.md`
+is kept below:
 
 <hr />
 
