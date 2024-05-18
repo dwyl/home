@@ -1,28 +1,39 @@
-# ⚠️ WARNING: This is "Work-in-Progress"; <br />_Definitely_ Not "Done"! 🚧
+<div align="center">
 
-We have made this repo **`public`** 
-because we feel it keeps us _accountable_
+# ⚠️ WARNING: This is "[Work-in-Progress](https://en.wikipedia.org/wiki/Work_in_process)" <br />_Definitely_ Not "Done"! 🚧
+
+</div>
+
+This **repo `public`** 
+to **keep us _accountable_**
 to ourselves / each other
-and keeps everyone in-the-loop. <br />
+and **everyone in-the-loop**. <br />
 **_Please_ don't read it** if you are
-in _any_ way critical of embryonic ideas
-that are not polished in a PowerPoint Pitch Deck.
+critical of embryonic ideas
+that are not a Polished PowerPoint Pitch Deck.
+Most of the ideas and discussion 
+happens in the 
+[/issues](https://github.com/dwyl/home/issues)
+
 
 <hr />
 
 # 2024 Update
 
-A _lot_ has changed since we first wrote this document.
-The global pandemic and lock-down brought our progress to a complete halt.
+A _lot_ has changed since we first wrote this document. <br />
+The global pandemic and lock-down brought progress to a complete halt. 🛑 <br />
 We were unable to continue with construction
 and then our foreman moved on to a different project
-leaving us with an unfinished exterior building (i.e. building site!)
+leaving us with an unfinished exterior building
+(i.e. building site!)
+We requested numerous quotes from local construction companies
+but none had availability to help us. 
 
 Our first child was born in 2020 👶
 and we were focussed on being parents 
 while working full-time remote jobs
 and now our second child (2022)
-has consumed all our remaining time. 🎉
+has consumed _all_ our remaining time. 🎉
 
 We still have a _lot_ to do 
 before we can open the house to guests
@@ -55,12 +66,12 @@ this is the list:
 If you are not working on one of these tasks,
 you aren't advancing the mission,
 what's worse you are being counter-productive!
-Working on _anything_ `else` 
+Working on _anything_<sup>*</sup> `else`
 that doesn't get us to _paying_ guests is a 
 [distraction](https://github.com/nelsonic/nelsonic.github.io/issues/341#issuecomment-418987232)
 _preventing_ us from achieving our collective goal.
 If you're wasting time on 
-[social media](https://github.com/dwyl/home/issues/29),
+[_anti_-social media](https://github.com/dwyl/home/issues/29),
 you are _passively_ working _against_ our 
 [mission](https://github.com/dwyl/start-here/blob/main/mission.md)!
 If you need to unwind from the day,
@@ -75,7 +86,12 @@ by sugar-coating the truth.
 
 # Don't Wast Your Life.
 
-
+<sup>*</sup>Note: _obviously_ day-to-day 
+[hygiene factors](https://en.wikipedia.org/wiki/Two-factor_theory)
+like personal care and caring for children
+are a _given_ in terms of work that needs to be done.
+But in terms of projects unrelated to opening `@home`,
+don't waste your time on anything `else`!
 
 <br />
 <hr />
@@ -83,19 +99,21 @@ by sugar-coating the truth.
 
 # Braga Plan
 
-This update to the plan aims to answer as many questions as possible.
-We need complete clarity on our goals and the plan to get us there.
+This update to the plan aims 
+to **answer** as many **questions** as possible.
+We need **_complete_ clarity** on our **goals** 
+and the **plan** to get us there.
 If you still have questions, 
 [_please_ open issues](https://github.com/dwyl/home/issues)
-to discuss. 
-If there are no questions I’m going to presume agreement and proceed accordingly.
-We’ve already wasted _far_ too much time with “I don’t know what’s going on”.
-If you don’t understand, ask questions. If you don’t ask questions it’s because you don’t want to.
-
+to discuss.
 
 # Why? 
 
-We have written _several_ iterations of the [business] plan over the years.
+We have written _several_ iterations 
+of the [business] plan over the years,
+yet some aspects remained unclear to key stakeholders.
+This is 
+
 But somehow the key people “don’t know what we are doing”.
 Which means _nothing_ gets done [by them] towards the goal/plan.
 That needs to stop immediately. 
