@@ -18,16 +18,24 @@ happens in the
 
 <hr />
 
-# 2024 Update
+# 2024 Update 
 
-A _lot_ has changed since we first wrote this document. <br />
-The global pandemic and lock-down brought progress to a complete halt. 🛑 <br />
-We were unable to continue with construction
+A _lot_ has changed since 
+[we](https://github.com/dwyl/home/graphs/contributors) 
+first wrote this document. ⏳<br />
+The global pandemic and lock-down 
+brought construction/rennovation progress to a complete halt. 🛑 <br />
+We were unable to continue with construction due to restrictions
 and then our foreman moved on to a different project
 leaving us with an unfinished exterior building
 (i.e. building site!)
 We requested numerous quotes from local construction companies
-but none had availability to help us. 
+but none had availability/willingness to help us. 
+We have made _modest_ progress on the exterior in that time,
+but in construction, anything that is not _finished_
+is still a building site ...
+
+## Family 👨‍👩‍👧‍👦
 
 Our first child was born in 2020 👶
 and we were focussed on being parents 
@@ -39,28 +47,29 @@ We still have a _lot_ to do
 before we can open the house to guests
 this is the list:
 
-# 7 Point Plan
+# 7 Point Plan 7️⃣
 
-1. Finish the Sun Room + Garden: 
+1. ***Finish*** the **Sun Room + Garden**: 
    [home#14](https://github.com/dwyl/home/issues/14)
    This is by _far_ our highest priority task. 
    Without it we cannot open our doors for _any_ activity.
-2. Design + Build Bunk Beds: 
+2. **Design** + **_Build_ Bunk Beds**: 
    [bunk-bed#20](https://github.com/dwyl/bunk-bed/issues/20)
-3. Define Systems: 
+3. **Define `Systems`**: 
    [home#113](https://github.com/dwyl/home/issues/113)
    This involves the creation of _written_ instructions,
    checklists and in some cases videos.
    But it all starts with _writing_ down what needs to be done.
-4. Build Online Application Form: 
+4. **_Build_ Online Application Form**: 
    [fields-demo#2](https://github.com/dwyl/fields-demo/issues/2)
    There are _many_ reasons for creating our own application form
    the most obvious ones are: privacy/security, 
    better UX, analytics and partial capture (improved conversion).
-5. Invite first _friendly_ guests to give us feedback.
+5. **_Invite_ first _friendly_ guests** to give us feedback.
    We are _already_ moving forward with this, they will help us build furniture/bunks.
-6. Iterate on systems, beds & application + feedback forms.
-7. Open to _paying_ guests **ASAP** with the _systems_ in place. 
+6. **Iterate** on Systems, Beds & Application + Feedback Forms.
+7. Open to _paying_ guests **ASAP** 
+   with the _systems_ in place.
 
 
 If you are not working on one of these tasks,
