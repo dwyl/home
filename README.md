@@ -1,19 +1,23 @@
 <div align="center">
 
-# ⚠️ WARNING: This is "[Work-in-Progress](https://en.wikipedia.org/wiki/Work_in_process)" <br />_Definitely_ Not "Done"! 🚧
+# ⚠️ WARNING: This is "[Work-in-Progress](https://en.wikipedia.org/wiki/Work_in_process)" 🚧<br />_Definitely_ Not "Done"!
 
 </div>
 
-This **repo `public`** 
+This **project** is ***`public`*** 
 to **keep us _accountable_**
 to ourselves / each other
 and **everyone in-the-loop**. <br />
 **_Please_ don't read it** if you are
 critical of embryonic ideas
-that are not a Polished PowerPoint Pitch Deck.
+that are not a Polished PowerPoint Pitch Deck. <br />
+If you read through the `README.md` 
+and are curious to know more 
 Most of the ideas and discussion 
 happens in the 
 [/issues](https://github.com/dwyl/home/issues)
+
+
 
 
 <hr />
@@ -42,8 +46,31 @@ and we were focussed on being parents
 while working full-time remote jobs
 and now our second child (2022)
 has consumed _all_ our remaining time. 🎉
+Children are awesome,
+but they demand/deserve attention.
 
-We still have a _lot_ to do 
+We have explored using the Braga House for other purposes
+including transforming it into a mini-school.
+But the numbers don't stack up 
+and we don't think education should be a _for_ profit business.
+
+
+# Goal? 🥅
+
+Our goal hasn't changed since we started. 
+For avoidance of doubt, it's:
+
+Build a **family-friendly _shared_-living house** we **_love_ living** in 🏡<br />
+that attracts like-minded **health-focussed motivated people** <br />
+who want to **make the _most_** of their **lives**.
+
+> **Note**: if you can re-formulate this to be more succinct,
+> please do!
+
+# “A goal without a plan is just a wish.” ~ Antoine de Saint-Exupéry
+
+
+We still have a _lot_ of work to do 
 before we can open the house to guests
 this is the list:
 
@@ -67,9 +94,9 @@ this is the list:
    better UX, analytics and partial capture (improved conversion).
 5. **_Invite_ first _friendly_ guests** to give us feedback.
    We are _already_ moving forward with this, they will help us build furniture/bunks.
-6. **Iterate** on Systems, Beds & Application + Feedback Forms.
-7. Open to _paying_ guests **ASAP** 
-   with the _systems_ in place.
+6. ***Iterate*** on Systems, Beds & Application + Feedback Forms.
+7. ***Open*** to **_Paying_ Guests** **ASAP** 
+   with the _systems_ in place.<sup>**</sup>
 
 
 If you are not working on one of these tasks,
@@ -100,7 +127,8 @@ by sugar-coating the truth.
 like personal care and caring for children
 are a _given_ in terms of work that needs to be done.
 But in terms of projects unrelated to opening `@home`,
-don't waste your time on anything `else`!
+don't waste your time on anything `else`! <br />
+<sup>**</sup>Opening without Systems is chaos so won't happen.
 
 <br />
 <hr />
