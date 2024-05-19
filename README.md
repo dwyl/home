@@ -23,37 +23,45 @@ check the
 
 <hr />
 
-# 2024 Update 
+# 2024 Update
 
 A _lot_ has changed since 
 [we](https://github.com/dwyl/home/graphs/contributors) 
 first wrote this document. ⏳<br />
-The global pandemic and lock-down 
+The global pandemic 🦠 and lock-down 🚫 
 brought construction/rennovation progress to a complete halt. 🛑 <br />
 We were unable to continue with construction due to restrictions
-and then our foreman moved on to a different project
+and then when things re-opened 
+our foreman moved on to a different project
 leaving us with an unfinished exterior building
-(i.e. building site!)
+(i.e. building site!) 🚧 <br />
 We requested numerous quotes from local construction companies
-but none had availability/willingness to help us. 
-We have made _modest_ progress on the exterior in that time,
-but in construction, anything that is not _finished_
-is still a building site ...
+but none had availability/willingness to help us. 🤦‍♀️
+Since then we have made _modest_ progress 
+on the exterior,
+but in construction, 
+anything that is not _finished_
+is still a building site ... 🏗️
 
 ## Family 👨‍👩‍👧‍👦
 
-Our first child was born in 2020 👶
+Our _first_ child was born in 2020 👶
 and we were focussed on being parents 
-while working full-time remote jobs
-and now our second child (2022)
+while working full-time remote jobs. 🧑‍💻 <br />
+Now our _second_ child (2022)
 has consumed _all_ our remaining time. 🎉
 Children are awesome,
-but they demand/deserve attention.
+but they demand/deserve attention & nurture. 🥰 
 
 We have explored using the Braga House for other purposes
 including transforming it into a mini-school.
-But the numbers don't stack up 
-and we don't think education should be a _for_ profit business.
+But the numbers don't stack up; 
+it would make a _huge_ financial loss 
+during the first 3-5 years. 💸🔥
+
+> **Note**: We haven't _given up_ on the idea 
+of running our own childcare,
+read below for more detail! ⬇️
 
 
 # Goal? 🥅
@@ -62,7 +70,7 @@ Our goal has only changed _slightly_ since we started.
 We now _explicitly_ include the words "family-friendly".
 To recap the goal is:
 
-Build a **family-friendly _shared_-living house** we **_love_ living** in 🏡<br />
+Build a **_family_-friendly _shared_-living house** we **_love_ living** in 🏡<br />
 that attracts like-minded **health-focussed motivated people** 🏃‍♀️<br />
 who want to **make the _most_** of their **lives**. ⏳
 
@@ -70,9 +78,10 @@ who want to **make the _most_** of their **lives**. ⏳
 > please do! 🙏
 
 This goal aligns _perfectly_ with the 
-[**`dwyl`** mission](https://github.com/dwyl/start-here/blob/main/mission.md#what-is-dwyls-mission)
+[**`dwyl`** mission](https://github.com/dwyl/start-here/blob/main/mission.md#what-is-dwyls-mission).
 
 
+But as we all know ...
 
 ## “_A goal without a plan is just a wish_.” ~ Antoine de Saint-Exupéry
 
@@ -105,7 +114,7 @@ this is the list:
 7. ***Open*** to **_Paying_ Guests** **ASAP** 
    with the _systems_ in place.<sup>**</sup>
 
-
+<!--
 If you are not working on one of these tasks,
 you aren't advancing the mission,
 what's worse you are being counter-productive!
@@ -141,8 +150,9 @@ the good news is: ***`Systems`*** are where **_everyone_ can help**!
 <br />
 <hr />
 <br />
+-->
 
-# Braga Plan
+# Details 📝
 
 This update to the plan aims 
 to **answer** as many **questions** as possible.
