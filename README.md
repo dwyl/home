@@ -7,15 +7,16 @@
 This **project** is ***`public`*** 
 to **keep us _accountable_**
 to ourselves / each other
-and **everyone in-the-loop**. <br />
+and **_everyone_ in-the-loop**. 💬<br />
 **_Please_ don't read it** if you are
 critical of embryonic ideas
-that are not a Polished PowerPoint Pitch Deck. <br />
-If you read through the `README.md` 
+that are _not_ a Polished 
+[PowerPoint](https://www.amazon.com/Real-Leaders-Dont-Do-Powerpoint/dp/0749942606) 
+Pitch Deck. 💡<br />
+If you read the `README.md` 
 and are curious to know more 
-Most of the ideas and discussion 
-happens in the 
-[/issues](https://github.com/dwyl/home/issues)
+check the 
+[/issues](https://github.com/dwyl/home/issues) 👀
 
 
 
@@ -57,17 +58,23 @@ and we don't think education should be a _for_ profit business.
 
 # Goal? 🥅
 
-Our goal hasn't changed since we started. 
-For avoidance of doubt, it's:
+Our goal has only changed _slightly_ since we started.
+We now _explicitly_ include the words "family-friendly".
+To recap the goal is:
 
 Build a **family-friendly _shared_-living house** we **_love_ living** in 🏡<br />
-that attracts like-minded **health-focussed motivated people** <br />
-who want to **make the _most_** of their **lives**.
+that attracts like-minded **health-focussed motivated people** 🏃‍♀️<br />
+who want to **make the _most_** of their **lives**. ⏳
 
 > **Note**: if you can re-formulate this to be more succinct,
-> please do!
+> please do! 🙏
 
-# “A goal without a plan is just a wish.” ~ Antoine de Saint-Exupéry
+This goal aligns _perfectly_ with the 
+[**`dwyl`** mission](https://github.com/dwyl/start-here/blob/main/mission.md#what-is-dwyls-mission)
+
+
+
+## “_A goal without a plan is just a wish_.” ~ Antoine de Saint-Exupéry
 
 
 We still have a _lot_ of work to do 
@@ -125,10 +132,11 @@ by sugar-coating the truth.
 <sup>*</sup>Note: _obviously_ day-to-day 
 [hygiene factors](https://en.wikipedia.org/wiki/Two-factor_theory)
 like personal care and caring for children
-are a _given_ in terms of work that needs to be done.
+are a _given_ that needs to be done.
 But in terms of projects unrelated to opening `@home`,
 don't waste your time on anything `else`! <br />
-<sup>**</sup>Opening without Systems is chaos so won't happen.
+<sup>**</sup>Opening without ***`Systems`*** is chaos so can't/won't happen;
+the good news is: ***`Systems`*** are where **_everyone_ can help**!
 
 <br />
 <hr />
@@ -149,7 +157,7 @@ to discuss.
 We have written _several_ iterations 
 of the [business] plan over the years,
 yet some aspects remained unclear to key stakeholders.
-This is 
+
 
 But somehow the key people “don’t know what we are doing”.
 Which means _nothing_ gets done [by them] towards the goal/plan.
@@ -158,6 +166,7 @@ We _all_ need to be working to the same goal/plan,
 and moving as fast as we can to get there, before we 
 [run-out of cash!](https://github.com/dwyl/home/issues/244).
 There is no excuse for procrastination due to lack of clarity.
+
 
 ## Context to the Updates 👶
 
@@ -1244,3 +1253,5 @@ https://www.dezeen.com/2017/11/14/one-shared-house-2030-ikea-space10-lab-anton-i
 + History of Co-living:
 https://issuu.com/lisainteriors/docs/design_studio_research
 + https://www.theguardian.com/world/2018/aug/15/happy-together-lonely-baby-boomers-turn-to-co-housing
+
+[![HitCount](https://hits.dwyl.com/dwyl/home.svg)](https://hits.dwyl.com/dwyl/home)

@@ -332,15 +332,17 @@ and feel any "_pain points_" first-hand.
 > The biggest problem with _existing_
 developer-lead for-profit co-living complexes - <br />
 such as "**The Collective**" in London
-which an ex-resident described as
+which an ex-resident described as a
 "***Horrible, horrible place***." <br />
 see: https://news.ycombinator.com/item?id=16911318 - <br />
-is that they are designed by people
-who _don't_ live in the building/community.
+is that they are _designed_ by people
+who _don't live_ in the building/community.
 The people _living_ in the building are Tenants
 and are _powerless_ to _improve_ the building/community
-because the company that owns it cares about one thing only: profit.
-
+because the company that owns it 
+cares about one thing only: **profit**.
+Specifically how they can **_maximize_ revenue**
+while **_minimizing_ re-investment**.
 
 Their lack of empathy is due to the fact
 that they have _never_ done
@@ -354,3 +356,5 @@ Yet, by _definition_ the world
 is _full_ people who do _not_ share your _exact_ point of view.
 Places with only _one_ view point are  
 [fascist dictatorships](https://simple.wikipedia.org/wiki/Fascism) ...
+
+[![HitCount](https://hits.dwyl.com/dwyl/home-why.svg)](https://hits.dwyl.com/dwyl/home-why)
