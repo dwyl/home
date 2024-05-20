@@ -14,7 +14,7 @@ that are _not_ a Polished
 [PowerPoint](https://www.amazon.com/Real-Leaders-Dont-Do-Powerpoint/dp/0749942606) 
 Pitch Deck. 💡<br />
 If you read the `README.md` 
-and are curious to know more 
+and are curious to know more, 
 check the 
 [/issues](https://github.com/dwyl/home/issues) 👀
 
@@ -28,8 +28,11 @@ check the
 A _lot_ has changed since 
 [we](https://github.com/dwyl/home/graphs/contributors) 
 first wrote this document. ⏳<br />
-The global pandemic 🦠 and lock-down 🚫 
-brought construction/rennovation progress to a complete halt. 🛑 <br />
+The global pandemic 
+[🦠](https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory) 
+and lock-down 
+[🚫](https://www.oxfam.org/en/press-releases/ten-richest-men-double-their-fortunes-pandemic-while-incomes-99-percent-humanity) 
+brought construction/renovation progress to a complete halt. 🛑 <br />
 We were unable to continue with construction due to restrictions
 and then when things re-opened 
 our foreman moved on to a different project
@@ -40,7 +43,7 @@ from local construction companies
 but none had availability to help us. 🤦‍♀️ <br />
 We have made _modest_ progress 
 on the exterior 
-with the help of day labourers,
+with the help of day labourers, 👷<br />
 but in construction, 
 anything that is not _finished_
 is still a building site ... 🏗️
@@ -49,17 +52,17 @@ is still a building site ... 🏗️
 
 Our _first_ child was born in 2020 👶
 and we were focussed on being parents 
-while working full-time remote jobs. 🧑‍💻 <br />
+`while` working full-time remote jobs. 🧑‍💻 <br />
 Our _second_ child (2022) 
-consumed _all_ our remaining time. 🎉
+consumed _all_ our remaining time. 🎉 <br />
 Children are awesome,
-but they demand/deserve attention & nurture. 🥰 
+they demand/deserve attention & nurture. 🥰 
 
 We have explored using the Braga House for other purposes
 including transforming it into a mini homeschool. 🏫 <br />
 But the numbers don't stack up; 
 it would make a _huge_ financial loss 
-during the first 3-5 years. 💸🔥
+during the first 3-5 years. 💸🔥📉
 
 > **Note**: We haven't _given up_ on the idea 
 of running our own childcare,
@@ -67,8 +70,8 @@ read below for more detail! ⬇️
 
 # Goal? 🥅
 
-Our goal has only changed _slightly_ since we started. <br />
-We now _explicitly_ include the words "**_family_-friendly**". <br />
+Our goal has only changed _slightly_ since we started; <br />
+we now _explicitly_ include the words "**_family_-friendly**". <br />
 If anything this just **makes it/us _more_ focussed**;
 we aren't trying to make something for "_everyone_".
 
@@ -77,7 +80,7 @@ To recap the goal is:
 Build a **_family_-friendly _shared_-living house** 
 we **_love_ living** in 🏡<br />
 that attracts like-minded **health-focussed motivated people** 🏃‍♀️<br />
-who want to **make the _most_** of their **lives**. ⏳
+who want to **make the _most_** of their **life**. ⏳
 
 > **Note**: if you can re-formulate this to be more succinct,
 > please do! 🙏
@@ -112,16 +115,26 @@ this is the _short/focussed_ list:
    checklists and in some cases videos.
    But it all starts with _writing_ down what needs to be done.
 4. **_Build_ Online Application Form**: 
-   [fields-demo#2](https://github.com/dwyl/fields-demo/issues/2)
+   [fields-demo#2](https://github.com/dwyl/fields-demo/issues/2).
    There are _many_ reasons for creating our own application form
    the most obvious ones are: privacy/security, 
    better UX, analytics and partial capture (improved conversion).
 5. **_Invite_ first _friendly_ guests** to give us feedback.
-   We are _already_ moving forward with this, they will help us build furniture/bunks.
+   We are _already_ moving forward with this, 
+   they will help give us feedback on furniture/bunk bed prototypes.
 6. ***Iterate*** on Systems, Beds & Application + Feedback Forms.
 7. ***Open*** to **_Paying_ Guests** **ASAP** 
-   with the _systems_ in place.<sup>**</sup>
+   with the _systems_ in place.<sup>*</sup>
 
+
+<sup>*</sup>Opening the house to guests
+without ***`Systems`*** is chaos so can't/won't happen;
+the good news is: ***`Systems`*** are where **_everyone_ can help**!
+It's as simple as: observe something is "not right",
+capture it systematically (describe the problem verbally 
+and where relevant include a photo/video), 
+bring it to the attention of the person who you _think_ is responsible
+then _fix_ it systematically while _documenting_ the fix.
 <!--
 If you are not working on one of these tasks,
 you aren't advancing the mission,
@@ -152,15 +165,13 @@ like personal care and caring for children
 are a _given_ that needs to be done.
 But in terms of projects unrelated to opening `@home`,
 don't waste your time on anything `else`! <br />
-<sup>**</sup>Opening without ***`Systems`*** is chaos so can't/won't happen;
-the good news is: ***`Systems`*** are where **_everyone_ can help**!
 
 <br />
 <hr />
 <br />
 -->
 
-# Details 📝
+# _Details_ 📝
 
 This update to the plan aims 
 to **answer** as many **questions** as possible.
@@ -175,9 +186,29 @@ to discuss.
 We have written _several_ iterations 
 of the [business] plan over the years,
 yet some aspects remained unclear to key stakeholders.
+When the message is unclear,
+it is the duty of the creator 
+of that message - _not the receiver_ - to clarify it.
+
+## Family Friendly? 🤷‍♀️
+
+A simple rule-of-thumb is this:
+if it _wouldn't_ be allowed 
+in a kindergarten classroom/school,
+it's _not_ family-friendly.
+
+Examples include: 
+smoking, 
+vaping, 
+drinking alcohol
+or any other non prescription / illegal substances. 
+[Profanity](https://en.wikipedia.org/wiki/Profanity) 
+is discouraged
+as is shouting. 
 
 
 
+<!--
 But somehow the key people “don’t know what we are doing”.
 Which means _nothing_ gets done [by them] towards the goal/plan.
 That needs to stop immediately. 
@@ -196,19 +227,51 @@ and we have _two_ children!! 😮
 And all the delightful pressure/stress that comes with bundles of joy. 😂
 
 We therefore have _several additional_ “***stakeholders***” and requirements for the house.
-
+-->
 
 ## Childcare
 
-Childcare is a challenge all parents face. In our case we live ~400km from our parents/in-laws, so regular grandparent care is not feasible for us the way it is for many other families. Ditto for aunts and uncles. So we are pretty much “on our own”. This is both good, because it forces us to resolve the challenge creatively on our own, and obviously bad because our children spend far too little time with their extended family. 😢
+Childcare is a challenge all parents face. 
+In our case we live ~400km from our parents/in-laws, 
+so regular grandparent care 
+is not feasible for us the way it is for many other families. 
+Ditto for aunts and uncles. 
+So we are pretty much “on our own”. 
+This is both good, because it forces us 
+to resolve the challenge creatively on our own, 
+and obviously bad because our children 
+spend far too little time with their extended family. 😢
 
-I refer to childcare as a “challenge” for the simple reason that if we want to continue working on anything for our company/business, that involves the adults spending decent chunks of uninterrupted focus time at a computer. Computer focus time is not compatible with toddlers that are curious, constantly moving and _loud_.
+I refer to childcare as a “challenge” 
+for the simple reason 
+that if we want to continue working 
+on anything for our company/business, 
+that involves the adults 
+spending decent chunks of uninterrupted focus time at a computer. 
+Computer focus time 
+is not compatible with toddlers that are curious, 
+constantly moving and _loud_.
 
 ## “Traditional” Childcare
 
-I use the quotes around the word “traditional” to emphasise that this is a _very_ recent societal construct of “modern” (post-industrial revolution) society. Much like the “traditions” of Santa Clause, Halloween, or Valentine’s Day, they all serve a very specific _commercial_ purpose beyond their original cultural significance. 
+I use the quotes around the word “traditional” 
+to emphasize that this is a _very_ recent societal construct 
+of “modern” (post-industrial revolution) society. 
+Much like the “traditions” 
+of Santa Clause 🎅 
+Halloween 🎃 
+or Valentine’s Day 🌹❤️
+they all serve a very specific _commercial_ purpose 
+beyond their original cultural significance. 
 
-Taking one’s children to an institution that is professionally run by people outside of one’s family and leaving the children with them for  08:30 - 17:00 each day so that _both_ parents can go to work, is a _very_ recent  - and arguably societally undesirable - phenomena. However because it has existed as a social norm for the past couple of generations, most people don’t question it. 
+Taking one’s children to an institution 
+that is professionally run by people 
+outside of one’s family 
+and leaving the children with them 
+for  08:30 - 17:00 each day s
+o that _both_ parents can go to work, 
+is a _very_ recent - and arguably _societally undesirable_ - phenomena. 
+However because it has existed as a social norm for the past couple of generations, most people don’t question it. 
 The same way _most_ people don’t question burning non-renewable fossil fuels for basic transport, heating or food production. ⛽️🔥😢
 
 Just like we need to 
