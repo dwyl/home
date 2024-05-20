@@ -35,10 +35,12 @@ and then when things re-opened
 our foreman moved on to a different project
 leaving us with an unfinished exterior building
 (i.e. building site!) 🚧 <br />
-We requested numerous quotes from local construction companies
-but none had availability/willingness to help us. 🤦‍♀️
-Since then we have made _modest_ progress 
-on the exterior,
+We requested several quotes 
+from local construction companies
+but none had availability to help us. 🤦‍♀️ <br />
+We have made _modest_ progress 
+on the exterior 
+with the help of day labourers,
 but in construction, 
 anything that is not _finished_
 is still a building site ... 🏗️
@@ -48,13 +50,13 @@ is still a building site ... 🏗️
 Our _first_ child was born in 2020 👶
 and we were focussed on being parents 
 while working full-time remote jobs. 🧑‍💻 <br />
-Now our _second_ child (2022)
-has consumed _all_ our remaining time. 🎉
+Our _second_ child (2022) 
+consumed _all_ our remaining time. 🎉
 Children are awesome,
 but they demand/deserve attention & nurture. 🥰 
 
 We have explored using the Braga House for other purposes
-including transforming it into a mini-school.
+including transforming it into a mini homeschool. 🏫 <br />
 But the numbers don't stack up; 
 it would make a _huge_ financial loss 
 during the first 3-5 years. 💸🔥
@@ -63,14 +65,17 @@ during the first 3-5 years. 💸🔥
 of running our own childcare,
 read below for more detail! ⬇️
 
-
 # Goal? 🥅
 
-Our goal has only changed _slightly_ since we started.
-We now _explicitly_ include the words "family-friendly".
+Our goal has only changed _slightly_ since we started. <br />
+We now _explicitly_ include the words "**_family_-friendly**". <br />
+If anything this just **makes it/us _more_ focussed**;
+we aren't trying to make something for "_everyone_".
+
 To recap the goal is:
 
-Build a **_family_-friendly _shared_-living house** we **_love_ living** in 🏡<br />
+Build a **_family_-friendly _shared_-living house** 
+we **_love_ living** in 🏡<br />
 that attracts like-minded **health-focussed motivated people** 🏃‍♀️<br />
 who want to **make the _most_** of their **lives**. ⏳
 
@@ -81,14 +86,17 @@ This goal aligns _perfectly_ with the
 [**`dwyl`** mission](https://github.com/dwyl/start-here/blob/main/mission.md#what-is-dwyls-mission).
 
 
-But as we all know ...
+as we all know ...
 
-## “_A goal without a plan is just a wish_.” ~ Antoine de Saint-Exupéry
+<div align="center">
 
+## “_A goal without a plan is just a wish_.” <br />~ Antoine de Saint-Exupéry
+
+</div>
 
 We still have a _lot_ of work to do 
 before we can open the house to guests
-this is the list:
+this is the _short/focussed_ list:
 
 # 7 Point Plan 7️⃣
 
@@ -167,6 +175,7 @@ to discuss.
 We have written _several_ iterations 
 of the [business] plan over the years,
 yet some aspects remained unclear to key stakeholders.
+
 
 
 But somehow the key people “don’t know what we are doing”.
