@@ -205,13 +205,17 @@ or any other non prescription / illegal substances.
 
 [Profanity](https://en.wikipedia.org/wiki/Profanity) 
 is discouraged
-as is shouting. 
-Any kind of adult content. 
+as is shouting. <br />
+Any kind of [adult content](https://en.wiktionary.org/wiki/adult_content)
+is 
 
 Bottom line: 
-be nice to everyone. 
+**be nice** to ***everyone***. 
 If you see someone being unkind,
-
+_either_ politely help them understand 
+what they were doing/saying is unkind,
+and/or inform the housemaster 
+of the behaviour. 
 
 
 
@@ -534,7 +538,8 @@ once word spreads how much better it is.
 
 For historical purposes, 
 the older version of the `README.md`
-is kept below:
+is kept below.
+Still relevant for context. 
 
 <hr />
 
