@@ -32,10 +32,10 @@ The global pandemic
 [🦠](https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory) 
 and lock-down 
 [🚫](https://www.oxfam.org/en/press-releases/ten-richest-men-double-their-fortunes-pandemic-while-incomes-99-percent-humanity) 
-brought construction/renovation progress to a complete halt. 🛑 <br />
-We were unable to continue with construction due to restrictions
+brought construction/renovation progress to a halt. 🛑 <br />
+We were unable to continue with construction due to restrictions <br />
 and then when things re-opened 
-our foreman moved on to a different project
+our foreman moved on to a different project <br />
 leaving us with an unfinished exterior building
 (i.e. building site!) 🚧 <br />
 We requested several quotes 
@@ -133,11 +133,15 @@ The good news is: ***`Systems`*** is the area where **_everyone_ can help**! �
 It's as simple as: ***observe*** something is "not right" or "can be better",
 ***capture*** it systematically (describe the problem verbally 
 and where relevant include a photo/video), 
-bring it to the attention of the person who you _think_ is responsible (e.g. Housemaster)
+bring it to the attention of the person who you _think_ is responsible 
+(e.g: Housemaster)
 then _fix_ it systematically while _documenting_ the fix.
+
+<div align="center">
 
 ![batman-help-wanted-cartoon](https://github.com/dwyl/home/assets/194400/a595115d-621e-4667-b7ff-785cb719a4e5)
 
+</div>
 
 <!--
 If you are not working on one of these tasks,
