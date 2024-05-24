@@ -51,8 +51,8 @@ is still a building site ... 🏗️
 ## Family 👨‍👩‍👧‍👦
 
 Our _first_ child was born in 2020 👶
-and we focussed on being parents 
-`while` working full-time remote jobs. 🧑‍💻 <br />
+and we focussed on being parents <br />
+`while` working full-time remote jobs to keep bills paid. 🧑‍💻 <br />
 Our _second_ child (2022) 
 consumed _all_ our remaining time. 🎉 <br />
 Children are awesome,
@@ -72,7 +72,7 @@ read below for more detail! ⬇️
 
 Our goal has only changed _slightly_ since we started; <br />
 we now _explicitly_ include the words "**_family_-friendly**". <br />
-If anything this just **makes it/us _more_ focussed**;
+If anything this just **makes it/us _more_ focussed**; <br />
 we aren't trying to make something for "_everyone_".
 
 To recap the goal is:
@@ -128,13 +128,17 @@ this is the _short/focussed_ list:
 
 
 <sup>*</sup>Opening the house to guests
-without ***`Systems`*** is chaos so can't/won't happen;
-the good news is: ***`Systems`*** are where **_everyone_ can help**!
-It's as simple as: observe something is "not right",
-capture it systematically (describe the problem verbally 
+_without_ ***`Systems`*** is chaos so can't/won't happen. 🙅‍♀️<br />
+The good news is: ***`Systems`*** is the area where **_everyone_ can help**! 🙏<br />
+It's as simple as: ***observe*** something is "not right" or "can be better",
+***capture*** it systematically (describe the problem verbally 
 and where relevant include a photo/video), 
-bring it to the attention of the person who you _think_ is responsible
+bring it to the attention of the person who you _think_ is responsible (e.g. Housemaster)
 then _fix_ it systematically while _documenting_ the fix.
+
+![batman-help-wanted-cartoon](https://github.com/dwyl/home/assets/194400/a595115d-621e-4667-b7ff-785cb719a4e5)
+
+
 <!--
 If you are not working on one of these tasks,
 you aren't advancing the mission,
