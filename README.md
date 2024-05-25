@@ -9,10 +9,10 @@ to **keep us _accountable_**
 to ourselves / each other
 and **_everyone_ in-the-loop**. 💬<br />
 **_Please_ don't read it** if you are
-critical of embryonic ideas
+critical of embryonic ideas 💡
 that are _not_ a Polished 
 [PowerPoint](https://www.amazon.com/Real-Leaders-Dont-Do-Powerpoint/dp/0749942606) 
-Pitch Deck. 💡<br />
+Pitch Deck. 👩‍🏫<br />
 If you read the `README.md` 
 and are curious to know more, 
 check the 
@@ -33,15 +33,15 @@ The global pandemic
 and lock-down 
 [🚫](https://www.oxfam.org/en/press-releases/ten-richest-men-double-their-fortunes-pandemic-while-incomes-99-percent-humanity) 
 brought construction/renovation progress to a halt. 🛑 <br />
-We were unable to continue with construction due to restrictions <br />
+We were unable to continue with construction due to restrictions 🙅‍♀️<br />
 and then when things re-opened 
-our foreman moved on to a different project <br />
+our foreman moved on to a different project 😕<br />
 leaving us with an unfinished exterior building
 (i.e. building site!) 🚧 <br />
 We requested several quotes 
 from local construction companies
 but none had availability to help us. 🤦‍♀️ <br />
-We have made _modest_ progress 
+We have made _decent_ progress 
 on the exterior 
 with the help of day labourers, 👷<br />
 but in construction, 
@@ -51,16 +51,16 @@ is still a building site ... 🏗️
 ## Family 👨‍👩‍👧‍👦
 
 Our _first_ child was born in 2020 👶
-and we focussed on being parents <br />
+and we focussed on being parents 👪<br />
 `while` working full-time remote jobs to keep bills paid. 🧑‍💻 <br />
 Our _second_ child (2022) 
 consumed _all_ our remaining time. 🎉 <br />
 Children are awesome,
 they demand/deserve attention & nurture. 🥰 
 
-We have explored using the Braga House for other purposes
-including transforming it into a mini homeschool. 🏫 <br />
-But the numbers don't stack up; 
+We have explored using the Braga House for other purposes <br />
+including transforming it into a **mini homeschool**. 🏫 <br />
+But, sadly, the numbers don't stack up; 
 it would make a _huge_ financial loss 
 during the first 3-5 years. 💸🔥📉
 
@@ -72,8 +72,8 @@ read below for more detail! ⬇️
 
 Our goal has only changed _slightly_ since we started; <br />
 we now _explicitly_ include the words "**_family_-friendly**". <br />
-If anything this just **makes it/us _more_ focussed**; <br />
-we aren't trying to make something for "_everyone_".
+If anything this just **makes it/us _more_ focussed**; 🎯<br />
+we aren't trying to make something for "_everyone_". 🙅‍♀️ 
 
 To recap the goal is:
 
@@ -86,14 +86,14 @@ who want to **make the _most_** of their **life**. ⏳
 > please do! 🙏
 
 This goal aligns _perfectly_ with the 
-[**`dwyl`** mission](https://github.com/dwyl/start-here/blob/main/mission.md#what-is-dwyls-mission).
-
+[**`dwyl`** mission](https://github.com/dwyl/start-here/blob/main/mission.md#what-is-dwyls-mission). 
+❤️ ✅
 
 as we all know ...
 
 <div align="center">
 
-## “_A goal without a plan is just a wish_.” <br />~ Antoine de Saint-Exupéry
+## “_A goal without a plan is just a wish_.” <br />~ [Antoine de Saint-Exupéry](https://www.goodreads.com/quotes/87476-a-goal-without-a-plan-is-just-a-wish)
 
 </div>
 
@@ -104,38 +104,40 @@ this is the _short/focussed_ list:
 # 7 Point Plan 7️⃣
 
 1. ***Finish*** the **Sun Room + Garden**: 
-   [home#14](https://github.com/dwyl/home/issues/14)
-   This is by _far_ our highest priority task. 
-   Without it we cannot open our doors for _any_ activity.
+   [home#14](https://github.com/dwyl/home/issues/14) 🌱 🪴 🌳 <br />
+   This is by _far_ our highest priority task. <br />
+   Without a _finished_ garden, 
+   we cannot open our doors for _any_ activity. 🛑
+   We need a _lot_ of help with the construction work! 🚧
 2. **Design** + **_Build_ Bunk Beds**: 
-   [bunk-bed#20](https://github.com/dwyl/bunk-bed/issues/20)
+   [bunk-bed#20](https://github.com/dwyl/bunk-bed/issues/20) 🛌
 3. **Define `Systems`**: 
-   [home#113](https://github.com/dwyl/home/issues/113)
+   [home#113](https://github.com/dwyl/home/issues/113) 🕙 <br />
    This involves the creation of _written_ instructions,
    checklists and in some cases videos.
    But it all starts with _writing_ down what needs to be done.
 4. **_Build_ Online Application Form**: 
-   [fields-demo#2](https://github.com/dwyl/fields-demo/issues/2).
+   [fields-demo#2](https://github.com/dwyl/fields-demo/issues/2). 📝 <br />
    There are _many_ reasons for creating our own application form
    the most obvious ones are: privacy/security, 
    better UX, analytics and partial capture (improved conversion).
-5. **_Invite_ first _friendly_ guests** to give us feedback.
+5. **_Invite_ first _friendly_ guests** to give us feedback. 🤗💬
    We are _already_ moving forward with this, 
    they will help give us feedback on furniture/bunk bed prototypes.
-6. ***Iterate*** on Systems, Beds & Application + Feedback Forms.
+6. ***Iterate*** on Systems, Beds & Application + Feedback Forms. ♻️
 7. ***Open*** to **_Paying_ Guests** **ASAP** 
-   with the _systems_ in place.<sup>*</sup>
+   with the _systems_ in place.<sup>*</sup> ⏳ 
 
 
 <sup>*</sup>Opening the house to guests
 _without_ ***`Systems`*** is chaos so can't/won't happen. 🙅‍♀️<br />
 The good news is: ***`Systems`*** is the area where **_everyone_ can help**! 🙏<br />
-It's as simple as: ***observe*** something is "not right" or "can be better",
+It's as simple as: ***observe*** something is "not right" or "can be better", 😕<br />
 ***capture*** it systematically (describe the problem verbally 
-and where relevant include a photo/video), 
+and where relevant include a photo/video), 📝 📷 🎥<br />
 bring it to the attention of the person who you _think_ is responsible 
-(e.g: Housemaster)
-then _fix_ it systematically while _documenting_ the fix.
+(e.g: Housemaster) 👩<br />
+then it will be _fixed_ systematically while _documenting_ the fix. 📝 ✅
 
 <div align="center">
 
@@ -182,12 +184,12 @@ don't waste your time on anything `else`! <br />
 # _Details_ 📝
 
 This update to the plan aims 
-to **answer** as many **questions** as possible.
+to **answer** as many **questions** as possible. ❓<br />
 We need **_complete_ clarity** on our **goals** 
-and the **plan** to get us there.
-If you still have questions, 
-[_please_ open issues](https://github.com/dwyl/home/issues)
-to discuss.
+and the **plan** to get us there. 🗺️<br />
+If you still **have questions**, 
+[**_please_ open issues**](https://github.com/dwyl/home/issues)
+to discuss. 💬
 
 # Why? 
 
@@ -195,7 +197,7 @@ We have written _several_ iterations
 of the [business] plan over the years,
 yet some aspects remained unclear to key stakeholders.
 When the message is unclear,
-it is the duty of the creator 
+it is the duty of the creator/transmitter 
 of that message - _not the receiver_ - to clarify it.
 
 ## Family Friendly? 🤷‍♀️
@@ -215,7 +217,7 @@ or any other non prescription / illegal substances.
 is discouraged
 as is shouting. <br />
 Any kind of [adult content](https://en.wiktionary.org/wiki/adult_content)
-is 
+is **_strictly_ forbidden**. 🚫 4️⃣0️⃣3️⃣
 
 Bottom line: 
 **be nice** to ***everyone***. 
@@ -248,10 +250,154 @@ And all the delightful pressure/stress that comes with bundles of joy. 😂
 We therefore have _several additional_ “***stakeholders***” and requirements for the house.
 -->
 
-## Childcare
+
+
+# Accommodation
+
+**1: Family-friendly short-stay shared accommodation** 
+in the top 2 floors of the house. 
+This includes the 4 large bedrooms 
+and “middle” floor which has the kitchen, 
+dining room and current play room. 
+This is space for **24 beds**. 
+(4 rooms x 3 bunks x beds per bunk) 
+
+Charging €15/night/bunk (market clearing in our city!) 
+and having occupancy of 70% we get: 
+24 x €15 x 365 days x 70% / 12 months 
+= €7665/month
+
+> **Note**: There will be peak months 
+> where occupancy reaches **95%** (June - sept)
+> and low season (Dec - Feb) where it’s only **20-30%** 
+> so it balances out. 
+> We will also encourage longer-term stays 
+> with **30%** discounts 
+> which equates to 70% occupancy. 
+
+
+If the “overheads” for the businesses are shared 
+and thus each only has to cover _half_, 
+then both businesses instantly become (more) profitable/sustainable. 
+Then it’s a question of figuring out the plan 
+to make both coexist 
+and ensure that parents are comfortable having their kids 
+going to play group “next door” to a - carefully curated - co-living/working space.
+
+I think it’s very much a question of *framing*, 
+making it clear that all members of the community 
+are +thoroughly+ background-checked 
+and having a very clear timetable 
+for who has access to what & when. 
+See timetable below.
+
+If we *specifically* market the residence 
+as “family focussed” it’s a niche 
+that *definitely* is not being addressed. 
+
+## What does “family friendly” mean in _practice_?
+
+1. **All visitors must _apply_ to visit/stay** 
+   and submit their identity document ahead of time. 
+   This ensures that we _know_ exactly who is visiting.  
+   We will inform prospective members 
+   that our app uses a background check service 
+   to confirm people’s identity - similar to how a bank does “KYC” - 
+   and if for _any_ reason their identity/background cannot be verified 
+   we let them know with as much detail as we get.
+
+> **Note**: Identity submission is the `law` in `PT`, 
+> all hotels, hostels and guesthouses (etc.) 
+> are required to collect identification for guests 
+> and inform the local police of who is staying where. 
+> Ideally we operate on a **referral** basis 
+> so someone has to be recommended by an _existing_ member (past guest) 
+> like 
+> [Soho House](https://www.sohohouse.com/membership) 
+> in London. 
+> This makes the org a *lot* more sustainable 
+> because we don’t have to waste time with advertising/marketing. 
+> If the person making the referral has to “vouch” for the new member 
+> and receives a small commission 
+> when the referred person makes their _first_ payment 
+> it heavily incentivies good people/behaviour. 
+> In our Ts&Cs we will write that we 
+> “reserve the right to reject an application 
+> that passes identity/background checks for a different reason. 
+> We will provide the reason. We hope _not_ to _need_ to do this. 
+
+2. Focussed on Learning and personal development 
+   not entertainment and distraction. What does *that* mean? 🤷‍♂️ 
+   simple: it means that infinity pool distraction Apps/Sites 
+   that have a proven negative effect on people’s mental health 
+   and suck as much of our time as possible 
+   (such as Facebook, Instagram, SnapChat, TikTok, etc.) 
+   are banned at the network level. 
+   Whereas we have subscriptions to learning platforms like Brilliant.org 
+   available for all to learn STEM 
+   instead of doom scrolling their lives away.
+
+3. Strictly No alcohol, tobacco (or vape, etc) 
+   or drugs/substances 
+   (regardless of their decriminalised status) on premises. No exceptions. 
+   The rule of thumb is simple: 
+   if it wouldn’t be allowed in a primary school classroom, 
+   it’s not allowed on our site. 
+   If people feel the need to have a beer or glass of wine with their meal, 
+   that’s their decision, 
+  simply have that meal at a local restaurant and respect our rule. 
+  Plenty of good reasonably priced restaurants in the area, all serve alcohol; 
+  feel free to support the local economy. 👌
+
+4. Stated preference for **families _with_ children** but also welcoming to:
+* couples _without_ children who are sympathetic to children - 
+  e.g: teachers who haven’t yet started a family of their own. 
+  For ref: there are **460k teachers** in the UK alone. 
+  And **5.2M** across all of Europe see: 
+  https://ec.europa.eu/eurostat/web/products-eurostat-news/-/edn-20201005-1 
+  if we just target this group of people there is an **_excellent_ niche**.
+* retired people whose children have left home 
+  but still remember what it’s like to have small children around. 
+  e.g: grandparents who love having small children around. 
+
+All of these are huge market segments, 
+it’s just a question of appropriately keyword targeting them with our content.
+The only people we are (indirectly) 
+excluding are those whose prefer “adult only” (no children) 
+resorts and young adults who want to “party”. 
+There are *plenty* of other places/venues 
+that cater for these people. 
+By *specifically* informing people 
+that we don’t, they self-select and filter. 
+
+5. Friendly Pets are very welcome, 
+   but must be walked (off-property) and kept clean/tidy. 
+   They sleep outside. 
+   We can create a small kennel if there is demand. 
+   Don’t think many people will be traveling with pets 
+   so not worried about this one being over-subscribed. 
+   Just want to leave the option open. 
+
+Remember: we only have 24 (eventually 38) beds 
+so not a lot of space. 
+Once demand reaches a sustainable level 
+where we have good word-of-mouth and a waiting list, 
+we can be highly selective with people.
+
+Young adults that want to focus 
+on their health and personal learning/improvement 
+will instantly *get* it. 
+Those who prefer a party house can easily find one. 
+I wager the people wanting a quiet+healthy house 
+will soon outnumber the rest 
+once word spreads how much better it is. 
+
+
+# Childcare
 
 Childcare is a challenge all parents face. 
-In our case we live ~400km from our parents/in-laws, 
+In our case we live `~400km` 
+from our parents/in-laws, 
 so regular grandparent care 
 is not feasible for us the way it is for many other families. 
 Ditto for aunts and uncles. 
@@ -298,8 +444,9 @@ burning non-renewable fossil fuels for basic transport,
 heating or food production. ⛽️🔥😢
 
 Just like we need to 
-[#StopBurningStuff](https://m.youtube.com/hashtag/stopburningstuff) 
-We need to get away from the “modern” outsourcing 
+[#StopBurningStuff](https://m.youtube.com/hashtag/stopburningstuff), 
+we need to get away from the “modern” 
+[_outsourcing_](https://en.wikipedia.org/wiki/Outsourcing)
 of parenting that leads to suboptimal outcomes.
 
 The _last_ thing we want 
@@ -364,7 +511,7 @@ We have **space** for **21 children** in a **60m**<sup>2</sup> room
    Anyone using the pool + sauna + spa during the day 
    must _reserve_ a spot using our App. 
    That way everyone knows what who is using which facilities. 
-5. Leisure + Music room is reserved for **2h** each morning during weekdays. 
+5. Leisure + Music room is reserved for **2h** each **morning** during **weekdays**. 
    Ditto for Workshop. 
 6. Basement (“MR Room” -> “Nap Room”) will have 3 (Full-size) Bunk Beds 
    tailored to children taking naps. 
@@ -394,150 +541,6 @@ and still keep the lights on.
 
 This is a much more attractive (market clearing) price 
 and still totally doable in terms of the available space. 💭
-
-
-
-# Accommodation
-
-**1: Family-friendly short-stay shared accommodation** 
-in the top 2 floors of the house. 
-This includes the 4 large bedrooms 
-and “middle” floor which has the kitchen, 
-dining room and current play room. 
-This is space for **24 beds**. 
-(4 rooms x 3 bunks x beds per bunk) 
-
-Charging €15/night/bunk (market clearing in our city!) 
-and having occupancy of 70% we get: 
-24 x €15 x 365 days x 70% / 12 months 
-= €7665/month
-
-> **Note**: There will be peak months 
-> where occupancy reaches **95%** (June - sept)
-> and low season (Dec - Feb) where it’s only **20-30%** 
-> so it balances out. 
-> We will also encourage longer-term stays 
-> with **30%** discounts 
-> which equates to 70% occupancy. 
-
-
-If the “overheads” for the businesses are shared 
-and thus each only has to cover _half_, 
-then both businesses instantly become (more) profitable/sustainable. 
-Then it’s a question of figuring out the plan 
-to make both coexist 
-and ensure that parents are comfortable having their kids 
-going to play group “next door” to a - carefully curated - co-living/working space.
-
-I think it’s very much a question of *framing*, 
-making it clear that all members of the community 
-are +thoroughly+ background-checked 
-and having a very clear timetable 
-for who has access to what & when. 
-See timetable below.
-
-If we *specifically* market the residence 
-as “family focussed” it’s a niche 
-that *definitely* is not being addressed. 
-
-## What does “family friendly” mean?
-
-1. **All visitors must _apply_ to visit/stay** 
-   and submit their identity document ahead of time. 
-   This ensures that we _know_ exactly who is visiting.  
-   We will inform prospective members 
-   that our app uses a background check service 
-   to confirm people’s identity - similar to how a bank does “KYC” - 
-   and if for _any_ reason their identity/background cannot be verified 
-   we let them know with as much detail as we get.
-
-> **Note**: Identity submission is the `law` in `PT`, 
-> all hotels, hostels and guesthouses (etc.) 
-> are required to collect identification for guests 
-> and inform the local police of who is staying where. 
-> Ideally we operate on a **referral** basis 
-> so someone has to be recommended by an _existing_ member (past guest) 
-> like 
-> [Soho House](https://www.sohohouse.com/membership) 
-> in London. 
-> This makes the org a *lot* more sustainable 
-> because we don’t have to waste time with advertising/marketing. 
-> If the person making the referral has to “vouch” for the new member 
-> and receives a small commission 
-> when the referred person makes their _first_ payment 
-> it heavily incentivies good people/behaviour. 
-> In our Ts&Cs we will write that we 
-> “reserve the right to reject an application 
-> that passes identity/background checks for a different reason. 
-> We will provide the reason. We hope _not_ to _need_ to do this. 
-
-1. Focussed on Learning and personal development 
-   not entertainment and distraction. What does *that* mean? 🤷‍♂️ 
-   simple: it means that infinity pool distraction Apps/Sites 
-   that have a proven negative effect on people’s mental health 
-   and suck as much of our time as possible 
-   (such as Facebook, Instagram, SnapChat, TikTok, etc.) 
-   are banned at the network level. 
-   Whereas we have subscriptions to learning platforms like Brilliant.org 
-   available for all to learn STEM 
-   instead of doom scrolling their lives away.
-
-2. Strictly No alcohol, tobacco (or vape, etc) 
-   or drugs/substances 
-   (regardless of their decriminalised status) on premises. No exceptions. 
-   The rule of thumb is simple: 
-   if it wouldn’t be allowed in a primary school classroom, 
-   it’s not allowed on our site. 
-   If people feel the need to have a beer or glass of wine with their meal, 
-   that’s their decision, 
-  simply have that meal at a local restaurant and respect our rule. 
-  Plenty of good reasonably priced restaurants in the area, all serve alcohol; 
-  feel free to support the local economy. 👌
-
-3. Stated preference for **families _with_ children** but also welcoming to:
-* couples _without_ children who are sympathetic to children - 
-  e.g: teachers who haven’t yet started a family of their own. 
-  For ref: there are **460k teachers** in the UK alone. 
-  And **5.2M** across all of Europe see: 
-  https://ec.europa.eu/eurostat/web/products-eurostat-news/-/edn-20201005-1 
-  if we just target this group of people there is an **_excellent_ niche**.
-* retired people whose children have left home 
-  but still remember what it’s like to have small children around. 
-  e.g: grandparents who love having small children around. 
-
-All of these are huge market segments, 
-it’s just a question of appropriately keyword targeting them with our content.
-The only people we are (indirectly) 
-excluding are those whose prefer “adult only” (no children) 
-resorts and young adults who want to “party”. 
-There are *plenty* of other places/venues 
-that cater for these people. 
-By *specifically* informing people 
-that we don’t, they self-select and filter. 
-
-1. Friendly Pets are very welcome, 
-   but must be walked (off-property) and kept clean/tidy. 
-   They sleep outside. 
-   We can create a small kennel if there is demand. 
-   Don’t think many people will be traveling with pets 
-   so not worried about this one being over-subscribed. 
-   Just want to leave the option open. 
-
-Remember: we only have 24 (eventually 38) beds 
-so not a lot of space. 
-Once demand reaches a sustainable level 
-where we have good word-of-mouth and a waiting list, 
-we can be highly selective with people.
-
-Young adults that want to focus 
-on their health and personal learning/improvement 
-will instantly *get* it. 
-Those who prefer a party house can easily find one. 
-I wager the people wanting a quiet+healthy house 
-will soon outnumber the rest 
-once word spreads how much better it is. 
-
-
 
 
 <hr />
