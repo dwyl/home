@@ -202,10 +202,10 @@ of that message - _not the receiver_ - to clarify it.
 
 ## Family Friendly? 🤷‍♀️
 
-A simple rule-of-thumb is:
-if it _wouldn't_ be allowed 
-in a kindergarten classroom/school,
-it's _not_ family-friendly.
+A simple **rule-of-thumb** is:
+if it **_not_ allowed** 
+in a **kindergarten classroom/school**,
+it's **_not_ family-friendly**.
 
 Examples include: 
 smoking, 
@@ -220,7 +220,7 @@ Any kind of [adult content](https://en.wiktionary.org/wiki/adult_content)
 is **_strictly_ forbidden**. 🚫 4️⃣0️⃣3️⃣
 
 Bottom line: 
-**be nice** to ***everyone***. 
+**be nice** to ***everyone***. <br />
 If you see someone being unkind,
 _either_ politely help them understand 
 what they were doing/saying is unkind,
@@ -255,17 +255,19 @@ We therefore have _several additional_ “***stakeholders***” and requirements
 # Accommodation
 
 **1: Family-friendly short-stay shared accommodation** 
-in the top 2 floors of the house. 
-This includes the 4 large bedrooms 
+in the top 2 floors of the house. <br />
+This includes the **4 large bedrooms**
 and “middle” floor which has the kitchen, 
-dining room and current play room. 
-This is space for **24 beds**. 
+dining room and current play room; 
+which will be an _informal_ co-working room
+with both a sofa seating area and 10 ("hot") desks.
+There is space for **24 beds**. 
 (4 rooms x 3 bunks x beds per bunk) 
 
-Charging €15/night/bunk (market clearing in our city!) 
+Charging `€15`/night/bunk (market clearing in our city!) 
 and having occupancy of 70% we get: 
 24 x €15 x 365 days x 70% / 12 months 
-= €7665/month
+= `€7665/month`
 
 > **Note**: There will be peak months 
 > where occupancy reaches **95%** (June - sept)
@@ -286,7 +288,7 @@ going to play group “next door” to a - carefully curated - co-living/working
 
 I think it’s very much a question of *framing*, 
 making it clear that all members of the community 
-are +thoroughly+ background-checked 
+are _thoroughly_ background-checked 
 and having a very clear timetable 
 for who has access to what & when. 
 See timetable below.
@@ -326,7 +328,7 @@ that *definitely* is not being addressed.
 > that passes identity/background checks for a different reason. 
 > We will provide the reason. We hope _not_ to _need_ to do this. 
 
-2. Focussed on Learning and personal development 
+2. **Focussed on learning and personal development** 
    not entertainment and distraction. What does *that* mean? 🤷‍♂️ 
    simple: it means that infinity pool distraction Apps/Sites 
    that have a proven negative effect on people’s mental health 
@@ -337,7 +339,8 @@ that *definitely* is not being addressed.
    available for all to learn STEM 
    instead of doom scrolling their lives away.
 
-3. Strictly No alcohol, tobacco (or vape, etc) 
+3. **_Strictly_ No alcohol**, 
+   tobacco (or vape, etc) 
    or drugs/substances 
    (regardless of their decriminalised status) on premises. No exceptions. 
    The rule of thumb is simple: 
@@ -370,7 +373,7 @@ that cater for these people.
 By *specifically* informing people 
 that we don’t, they self-select and filter. 
 
-5. Friendly Pets are very welcome, 
+5. **_Friendly_ Pets** are very **welcome**, 
    but must be walked (off-property) and kept clean/tidy. 
    They sleep outside. 
    We can create a small kennel if there is demand. 
@@ -466,11 +469,11 @@ the best case scenario was "controlled creativity" in Art Class,
 but the worst-case was 
 
 And I also know that the “fix” is remarkably simple: 
-1. Teachers should be well educated and compensated - like they are Finland.  
+1. Teachers should be well educated and _compensated_ - like they are Finland. 🇫🇮 😍 
 2. They should have access to good resources 
    so they never skip an activity for lack of money. 
    Not the absurdly low budgets 
-   we often see even in fee-paying schools. 
+   we often see even in fee-paying schools!
 3. Learning  cannot be run “for profit”, 
    rather the bottom line is: 
    are children _thriving_? 
@@ -481,15 +484,18 @@ And I also know that the “fix” is remarkably simple:
 ## Can We Run _Two_ Ideas in the *Same* House? 
 ## Spoiler: _Yes_! _Especially_ if they are Complimentary/Symbiotic!
 
-It’s just a question of framing the concept so everyone understands.
-We aren’t building a “school” or a “hostel” there are plenty of those already. Boring! 🥱
-We’re building a **life-long learning community** 
+It’s just a question of framing the concept so everyone understands. <br />
+We aren’t building a “school” or a “hostel” there are plenty of those already. Boring! 🥱 <br />
+We’re building a **life-long learning _community_** 
 that **inspires curiosity & creativity** 
-in **people** of **_all_ ages**. 
+in **people** of **_all_ ages**. <br />
 It starts as young as possible with 
 [Montessori](https://en.m.wikipedia.org/wiki/Montessori_education) /
 [Waldorf](https://en.m.wikipedia.org/wiki/Waldorf_education) 
 principles of self-directed/lead group-based learning in infants.
+Children are lead and cared for by competent/trained/qualified adults.
+Adults visiting the house are carefully filtered
+for those who are 
 
 
 # Montessori Playgroup (“Centro de Actividades”) 
@@ -541,6 +547,53 @@ and still keep the lights on.
 
 This is a much more attractive (market clearing) price 
 and still totally doable in terms of the available space. 💭
+
+# _Sample_ Time Tables
+
+This is a _sample_ timetable for illustrative purposes. 
+Revision/improvement welcome!
+
+## Average Day
+
+
+|  Time | Children | Adults | 
+|---	|---	|---	|
+| 07:00 - 08:30  | Waking up & getting changed  | Wake up / Exercise / Quiet Time   | 
+| 08:30 - 09:00 | Breakfast | Personal Time / Breakfast | 
+| 09:00 - 11:50 | Morning Play/Work Period 	| Morning Quiet Work Time |
+|  11:50 - 12:00 | Pre-lunch hand-wash break  | Finalize work and tidy desk |
+|  12:00 - 12:25 | Children's Lunch | Adults Prepare/buy Lunch |
+|  12:25 - 12:30 | Clear/Clean Dining Room | Stay clear of the cleaning! |
+| 12:30 - 13:00 | Prepare for Nap | Adult's Lunch |     
+| 13:00 - 15:00 | Nap Time (Optional) | Afternoon Work 1  |
+| 15:00 - 17:00 | Afternoon Play/Work | Afternoon Work 2 |
+| 17:00 - 18:30 | Free Time / Sports / Park! | Creative / Work 3 / Admin | 
+| 18:30 - 18:55 | Children/Parent's Dinner | Adults _Prepare_ Dinner |
+| 18:55 - 19:00 | Clear/clean Dining Room | Plate Dinner |
+| 19:00 - 19:30 | Children Bath | Adult's Dinner |
+| 19:30 - 20:00 | Bed-time Story + Sleep! | Clear/clean dining room & Kitchen  | 
+| 20:00 - 21:00 | All Quiet on Top 2 Floors | Quiet Creative / Contemplation |
+| 21:00 - 07:00 | Sleep! | Get as much sleep as possible ... | 
+
+
+## Facility/Room Usage
+
+We have several rooms/facilities in the house 
+and need a clear timetable for usage e.g:
+
+|  Time |  Play Room  |  Library  |  Workshop  |  Secret Garden  |  Pool  |  
+|---	|---	|---	|---	|---	|---	|
+| 07:00 - 08:30  | _Quiet_ Music  |  Quiet Read  | Quiet Work | Kids |  Any  |
+| 08:30 - 09:00 | Louder Music  |  Kids Read  | Noisy Build  | Kids  | Clean  |
+| 09:00 - 11:50 | Kids Music  | Kids Read  | Noisy Build  | Kids  | Anyone  |
+| 12:00 - 13:00 | Adult Music | Clean + Reset  | Mid-Volume Build  | Planting Time  | Adults  |
+| 13:00 - 15:00 | _Quiet_ Music | Quiet Read  | Quiet Build  | Planting / Kids  | Adults (quiet)  |
+| 15:00 - 17:00 | Clean + Reset | Quiet Read  | Kids/Noisy Build  | Kids  | Kids  |
+| 17:00 - 18:30 | Anyone | Quiet Reading  | Noisy Build  | Clean  + Reset | Family |
+| 18:30 - 19:30 | Adult (Noisy) Music | Quiet Read  | Quiet Build  | Yoga / Pilates  | Family |
+| 19:30 - 20:00 | Quiet Music / Film | Quiet Read  | Clean + Reset  | Meditation  | Leisure |
+| 20:00 - 21:00 | Quiet Games / Film | Adult Quiet Read  | Laser + 3D Print!  | Martial Arts  | Triathlon |
+| 21:00 - 07:00 | Quiet Games / Film | Inspiring Reading | Prep Next Day | Closed | Closed |
 
 
 <hr />
