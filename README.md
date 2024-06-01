@@ -311,7 +311,7 @@ that *definitely* is not being addressed.
 > **Note**: Identity submission is the `law` in `PT`, 
 > all hotels, hostels and guesthouses (etc.) 
 > are required to collect identification for guests 
-> and inform the local police of who is staying where. 
+> and inform the local police of who is staying where/when. 
 > Ideally we operate on a **referral** basis 
 > so someone has to be recommended by an _existing_ member (past guest) 
 > like 
@@ -320,13 +320,14 @@ that *definitely* is not being addressed.
 > This makes the org a *lot* more sustainable 
 > because we don’t have to waste time with advertising/marketing. 
 > If the person making the referral has to “vouch” for the new member 
-> and receives a small commission 
+> and receives a small/token commission (e.g: Spotify Voucher)
 > when the referred person makes their _first_ payment 
 > it heavily incentivies good people/behaviour. 
 > In our Ts&Cs we will write that we 
 > “reserve the right to reject an application 
-> that passes identity/background checks for a different reason. 
-> We will provide the reason. We hope _not_ to _need_ to do this. 
+> that does not pass "cultural fit". 
+> We will provide the reason. 
+> We hope _not_ to _need_ to do this. 
 
 2. **Focussed on learning and personal development** 
    not entertainment and distraction. What does *that* mean? 🤷‍♂️ 
@@ -438,25 +439,25 @@ by people outside of one’s family
 and leaving the children with them 
 for  08:30 - 17:00 each day 
 so that _both_ parents can go to work, 
-is a _very_ recent - and arguably _societally undesirable_ - phenomena. 
-However because it has existed as a social norm 
-for the past couple of generations, 
-most people don’t question it. 
+is a _very_ recent - and arguably **_societally undesirable_** - phenomena.
+However, since it has existed as a social norm
+for the past couple of generations,
+most people don’t question it.
 The same way _most_ people don’t question 
 burning non-renewable fossil fuels for basic transport, 
 heating or food production. ⛽️🔥😢
 
 Just like we need to 
 [#StopBurningStuff](https://m.youtube.com/hashtag/stopburningstuff), 
-we need to get away from the “modern” 
+we need to get away from the “modern”
 [_outsourcing_](https://en.wikipedia.org/wiki/Outsourcing)
 of parenting that leads to suboptimal outcomes.
 
-The _last_ thing we want 
+The _last_ thing we want
 is to offload our children to “traditional” childcare
-in the form of a pre-school. 
-As noted by Sir Ken Robinson 
-in the 
+in the form of a pre-school.
+As noted by Sir Ken Robinson
+in the
 [most viewed TED Talk](https://www.ted.com/playlists/171/the_most_popular_ted_talks_of_all_time)
 of _all_ time 
 (by a wide margin!)
@@ -495,20 +496,21 @@ It starts as young as possible with
 principles of self-directed/lead group-based learning in infants.
 Children are lead and cared for by competent/trained/qualified adults.
 Adults visiting the house are carefully filtered
-for those who are 
+for those who are life-long-learners.
 
 
 # Montessori Playgroup (“Centro de Actividades”) 
 
-We have **space** for **21 children** in a **60m**<sup>2</sup> room 
-+ **70m**<sup>2</sup> Garden Space.  
+We have **space** for **21 children** 
+in a **60m**<sup>2</sup> room
++ **120m**<sup>2</sup> Garden Space.  
 + If we operate under the following assumptions:
 
 1. All fixed overhead costs of the co-living space 
-   can be shared with the playgroup. 
+   can be shared with the playgroup. <br />
    Including mortgage, electricity, building/grounds maintenance, 
    full-time cleaner and admin.
-2. The underground garden space is for _exclusive_ use 
+2. The south garden space is for _exclusive_ use 
    of the playgroup during the day 08:00 - 18:00. 
    Other activities (e.g. Yoga, Pilates & Meditation🧘‍♂️) 
    are possible 18:00 - 21:00 and weekends.
@@ -516,12 +518,13 @@ We have **space** for **21 children** in a **60m**<sup>2</sup> room
 4. Basement bathroom is used by playgroup during the day. 
    Anyone using the pool + sauna + spa during the day 
    must _reserve_ a spot using our App. 
-   That way everyone knows what who is using which facilities. 
-5. Leisure + Music room is reserved for **2h** each **morning** during **weekdays**. 
-   Ditto for Workshop. 
+   That way everyone knows _exactly_ who is using which facilities. 
+5. Play ("Leisure") room is reserved 
+   for **`2h`** each **morning** during **weekdays**. 
 6. Basement (“MR Room” -> “Nap Room”) will have 3 (Full-size) Bunk Beds 
    tailored to children taking naps. 
-   It will be called the “Nap Room” and children can use it at any time during the week. 
+   It will be called the “Nap Room” 
+   and children can use it at any time during the week. 
    The 3 full-size bunks (6 beds) will be made available on “busy weekends” 
    (Friday, Saturday & Sunday Night). 
    Guests must checkout by 11:00 Monday Morning.  
@@ -530,19 +533,19 @@ We have **space** for **21 children** in a **60m**<sup>2</sup> room
    It needs to be **_hyper_ organized** to run both businesses. 
    “Authoriszed Persons Only” sign on the door. 
 
-Potential Revenue of PlayGroup: 
-14 children. Parents paying €350/month = €4,900
-21 children. Parents paying €350/month = €7,350
+**_Potential_ Revenue** of `PlayGroup`: <br />
++ 14 children. Parents paying `€350/month = €4,900`
++ 21 children. Parents paying `€350/month = €7,350`
 
-This revenue is _far_ from enough 
-to sustain the _whole_ building 
+This revenue is _far_ from enough
+to sustain the _whole_ building
 as previously noted in our  
 [playgroup calculations spreadsheet](https://github.com/bmhco/private/issues/136). 
 But it means we can afford to pay for two competent + trained people 
 to look after the children and have a good teacher:student ratio. 
 
 With a ratio of 8 children per adult 
-we could bring the price down to €320/month 
+we could bring the price down to `€320/month` 
 and still keep the lights on.
 
 This is a much more attractive (market clearing) price 
@@ -550,39 +553,37 @@ and still totally doable in terms of the available space. 💭
 
 # _Sample_ Time Tables
 
-This is a _sample_ timetable for illustrative purposes. 
+This is a _sample_ timetable for illustrative purposes.
 Revision/improvement welcome!
 
 ## Average Day
 
-
-|  Time | Children | Adults | 
-|---	|---	|---	|
-| 07:00 - 08:30  | Waking up & getting changed  | Wake up / Exercise / Quiet Time   | 
-| 08:30 - 09:00 | Breakfast | Personal Time / Breakfast | 
-| 09:00 - 11:50 | Morning Play/Work Period 	| Morning Quiet Work Time |
-|  11:50 - 12:00 | Pre-lunch hand-wash break  | Finalize work and tidy desk |
-|  12:00 - 12:25 | Children's Lunch | Adults Prepare/buy Lunch |
-|  12:25 - 12:30 | Clear/Clean Dining Room | Stay clear of the cleaning! |
-| 12:30 - 13:00 | Prepare for Nap | Adult's Lunch |     
-| 13:00 - 15:00 | Nap Time (Optional) | Afternoon Work 1  |
-| 15:00 - 17:00 | Afternoon Play/Work | Afternoon Work 2 |
-| 17:00 - 18:30 | Free Time / Sports / Park! | Creative / Work 3 / Admin | 
-| 18:30 - 18:55 | Children/Parent's Dinner | Adults _Prepare_ Dinner |
-| 18:55 - 19:00 | Clear/clean Dining Room | Plate Dinner |
-| 19:00 - 19:30 | Children Bath | Adult's Dinner |
-| 19:30 - 20:00 | Bed-time Story + Sleep! | Clear/clean dining room & Kitchen  | 
-| 20:00 - 21:00 | All Quiet on Top 2 Floors | Quiet Creative / Contemplation |
-| 21:00 - 07:00 | Sleep! | Get as much sleep as possible ... | 
-
+|  Time | Children | Adults |
+|--- |--- |--- |
+| 07:00 - 08:00  | Waking up & get dressed       | Wake up / Exercise / Quiet Time   |
+| 08:00 - 09:00 | Breakfast + quiet play/reading | Personal Time / Breakfast         |
+| 09:00 - 11:50 | Morning Play/Work Period       | Morning Quiet Work Time           |
+| 11:50 - 12:00 | Pre-lunch hand-wash break      | Finalize work and tidy desk       |
+| 12:00 - 12:25 | Children's Lunch               | Adults Prepare/buy Lunch          |
+| 12:25 - 12:30 | Clear/Clean Dining Room        | Stay clear of the cleaning!       |
+| 12:30 - 13:00 | Prepare for Nap                | Adults' Lunch                     |
+| 13:00 - 15:00 | Nap Time (Optional)            | Afternoon Quiet Work 1            |
+| 15:00 - 17:00 | Afternoon Play/Work            | Afternoon Work 2                  |
+| 17:00 - 18:30 | Free Time / Sports / Park!     | Creative / Work 3 / Admin         |
+| 18:30 - 18:55 | Children/Parent's Dinner       | Adults _Prepare_ Dinner           |
+| 18:55 - 19:00 | Clear/clean Dining Room        | Plate Dinner                      |
+| 19:00 - 19:30 | Children Bath                  | Adult's Dinner                    |
+| 19:30 - 20:00 | Bed-time Story + Sleep!        | Clear/clean dining room & Kitchen |
+| 20:00 - 21:00 | All Quiet on Top 2 Floors      | Quiet Creative / Contemplation    |
+| 21:00 - 07:00 | Sleep!                         | Get as much sleep as possible ... |
 
 ## Facility/Room Usage
 
-We have several rooms/facilities in the house 
+We have several rooms/facilities in the house
 and need a clear timetable for usage e.g:
 
-|  Time |  Play Room  |  Library  |  Workshop  |  Secret Garden  |  Pool  |  
-|---	|---	|---	|---	|---	|---	|
+|  Time |  Play Room  |  Library  |  Workshop  |  Garden  |  Pool  |  
+|--- |--- |--- |--- |--- |--- |
 | 07:00 - 08:30  | _Quiet_ Music  |  Quiet Read  | Quiet Work | Kids |  Any  |
 | 08:30 - 09:00 | Louder Music  |  Kids Read  | Noisy Build  | Kids  | Clean  |
 | 09:00 - 11:50 | Kids Music  | Kids Read  | Noisy Build  | Kids  | Anyone  |
