@@ -124,7 +124,8 @@ this is the _short/focussed_ list:
 5. **_Invite_ first _friendly_ guests** to give us feedback. 🤗💬
    We are _already_ moving forward with this, 
    they will help give us feedback on furniture/bunk bed prototypes.
-6. ***Iterate*** on Systems, Beds & Application + Feedback Forms. ♻️
+6. Review, finalise and ***implement** door locking system* and overall house security https://github.com/dwyl/home/issues/282
+7. ***Iterate*** on Systems, Beds & Application + Feedback Forms. ♻️
 7. ***Open*** to **_Paying_ Guests** **ASAP** 
    with the _systems_ in place.<sup>*</sup> ⏳ 
 
