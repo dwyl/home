@@ -471,7 +471,7 @@ the best case scenario was "controlled creativity" in Art Class,
 but the worst-case was 
 
 And I also know that the “fix” is remarkably simple: 
-1. Teachers should be well educated and _compensated_ - like they are Finland. 🇫🇮 😍 
+1. Teachers should be well educated and _compensated_ - like they are in Finland. 🇫🇮 😍 
 2. They should have access to good resources 
    so they never skip an activity for lack of money. 
    Not the absurdly low budgets 
