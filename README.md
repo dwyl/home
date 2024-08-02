@@ -126,7 +126,7 @@ this is the _short/focussed_ list:
    they will help give us feedback on furniture/bunk bed prototypes.
 6. Review, finalise and ***implement** door locking system* and overall house security https://github.com/dwyl/home/issues/282
 7. ***Iterate*** on Systems, Beds & Application + Feedback Forms. ♻️
-7. ***Open*** to **_Paying_ Guests** **ASAP** 
+8. ***Open*** to **_Paying_ Guests** **ASAP** 
    with the _systems_ in place.<sup>*</sup> ⏳ 
 
 
