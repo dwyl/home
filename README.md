@@ -1,18 +1,627 @@
-# WARNING: This is "Work-in-Progress"; _far_ from "Done"! 🚧
+<div align="center">
 
-We have made this repo **`public`** because we feel it keeps us _accountable_
-to each other, and keeps others "in the loop". <br />
+# ⚠️ WARNING: This is "[Work-in-Progress](https://en.wikipedia.org/wiki/Work_in_process)" 🚧<br />_Definitely_ Not "Done"!
+
+</div>
+
+This **project** is ***`public`***
+to **keep us _accountable_**
+to ourselves / each other
+and **_everyone_ in-the-loop**. 💬<br />
 **_Please_ don't read it** if you are
-in _any_ way "critical" of embryonic ideas
-that are not "polished" in a "PowerPoint Pitch Deck".
+critical of embryonic ideas 💡
+that are _not_ a Polished
+[PowerPoint](https://www.amazon.com/Real-Leaders-Dont-Do-Powerpoint/dp/0749942606)
+Pitch Deck. 👩‍🏫<br />
+If you read the `README.md`
+and are curious to know more,
+check the
+[/issues](https://github.com/dwyl/home/issues) 👀
+
+<hr />
+
+# 2024 Update
+
+A _lot_ has changed since
+[we](https://github.com/dwyl/home/graphs/contributors)
+first wrote this document. ⏳<br />
+The global pandemic
+[🦠](https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory)
+and lock-down
+[🚫](https://www.oxfam.org/en/press-releases/ten-richest-men-double-their-fortunes-pandemic-while-incomes-99-percent-humanity) 
+brought construction/renovation progress to a halt. 🛑 <br />
+We were unable to continue with construction due to restrictions 🙅‍♀️<br />
+and then when things re-opened
+our foreman moved on to a different project 😕<br />
+leaving us with an unfinished exterior building
+(i.e. building site!) 🚧 <br />
+We requested several quotes
+from local construction companies
+but none had availability to help us. 🤦‍♀️ <br />
+We have made _decent_ progress
+on the exterior
+with the help of day labourers, 👷<br />
+but in construction,
+anything that is not _finished_
+is still a building site ... 🏗️
+
+## Family 👨‍👩‍👧‍👦
+
+Our _first_ child was born in 2020 👶
+and we focussed on being parents 👪<br />
+`while` working full-time remote jobs to keep bills paid. 🧑‍💻 <br />
+Our _second_ child (2022) 
+consumed _all_ our remaining time. 🎉 <br />
+Children are awesome,
+they demand/deserve attention & nurture. 🥰 
+
+We have explored using the Braga House for other purposes <br />
+including transforming it into a **mini homeschool**. 🏫 <br />
+But, sadly, the numbers don't stack up; 
+it would make a _huge_ financial loss 
+during the first 3-5 years. 💸🔥📉
+
+> **Note**: We haven't _given up_ on the idea 
+of running our own childcare,
+read below for more detail! ⬇️
+
+# Goal? 🥅
+
+Our goal has only changed _slightly_ since we started; <br />
+we now _explicitly_ include the words "**_family_-friendly**". <br />
+If anything this just **makes it/us _more_ focussed**; 🎯<br />
+we aren't trying to make something for "_everyone_". 🙅‍♀️ 
+
+To recap the goal is:
+
+Build a **_family_-friendly _shared_-living house** 
+we **_love_ living** in 🏡<br />
+that attracts like-minded **health-focussed motivated people** 🏃‍♀️<br />
+who want to **make the _most_** of their **life**. ⏳
+
+> **Note**: if you can re-formulate this to be more succinct,
+> please do! 🙏
+
+This goal aligns _perfectly_ with the 
+[**`dwyl`** mission](https://github.com/dwyl/start-here/blob/main/mission.md#what-is-dwyls-mission). 
+❤️ ✅
+
+as we all know ...
+
+<div align="center">
+
+## “_A goal without a plan is just a wish_.” <br />~ [Antoine de Saint-Exupéry](https://www.goodreads.com/quotes/87476-a-goal-without-a-plan-is-just-a-wish)
+
+</div>
+
+We still have a _lot_ of work to do 
+before we can open the house to guests
+this is the _short/focussed_ list:
+
+# 7 Point Plan 7️⃣
+
+1. ***Finish*** the **Sun Room + Garden**: 
+   [home#14](https://github.com/dwyl/home/issues/14) 🌱 🪴 🌳 <br />
+   This is by _far_ our highest priority task. <br />
+   Without a _finished_ garden, 
+   we cannot open our doors for _any_ activity. 🛑
+   We need a _lot_ of help with the construction work! 🚧
+2. **Design** + **_Build_ Bunk Beds**: 
+   [bunk-bed#20](https://github.com/dwyl/bunk-bed/issues/20) 🛌
+3. **Define `Systems`**: 
+   [home#113](https://github.com/dwyl/home/issues/113) 🕙 <br />
+   This involves the creation of _written_ instructions,
+   checklists and in some cases videos.
+   But it all starts with _writing_ down what needs to be done.
+4. **_Build_ Online Application Form**:
+   [fields-demo#2](https://github.com/dwyl/fields-demo/issues/2). 📝 <br />
+   There are _many_ reasons for creating our own application form
+   the most obvious ones are: privacy/security,
+   better UX, analytics and partial capture (improved conversion).
+5. **_Invite_ first _friendly_ guests** to give us feedback. 🤗💬
+   We are _already_ moving forward with this,
+   they will help give us feedback on furniture/bunk bed prototypes.
+6. Review, finalise and **_implement_ door locking system**
+   and overall house security
+   [dwyl/home#282](https://github.com/dwyl/home/issues/282)
+7. ***Iterate*** on Systems, Beds & Application + Feedback Forms. ♻️
+8. ***Open*** to **_Paying_ Guests** **ASAP**
+   with the _systems_ in place.<sup>*</sup> ⏳
+
+
+<sup>*</sup>Opening the house to guests
+_without_ ***`Systems`*** is chaos so can't/won't happen. 🙅‍♀️<br />
+The good news is: ***`Systems`*** is the area where **_everyone_ can help**! 🙏<br />
+It's as simple as: ***observe*** something is "not right" or "can be better", 😕<br />
+***capture*** it systematically (describe the problem verbally
+and where relevant include a photo/video), 📝 📷 🎥<br />
+bring it to the attention of the person who you _think_ is responsible
+(e.g: Housemaster) 👩<br />
+then it will be _fixed_ systematically while _documenting_ the fix. 📝 ✅
+
+<div align="center">
+
+![batman-help-wanted-cartoon](https://github.com/dwyl/home/assets/194400/a595115d-621e-4667-b7ff-785cb719a4e5)
+
+</div>
+
+<!--
+If you are not working on one of these tasks,
+you aren't advancing the mission,
+what's worse you are being counter-productive!
+Working on _anything_<sup>*</sup> `else`
+that doesn't get us to _paying_ guests is a 
+[distraction](https://github.com/nelsonic/nelsonic.github.io/issues/341#issuecomment-418987232)
+_preventing_ us from achieving our collective goal.
+If you're wasting time on 
+[_anti_-social media](https://github.com/dwyl/home/issues/29),
+you are _passively_ working _against_ our 
+[mission](https://github.com/dwyl/start-here/blob/main/mission.md)!
+If you need to unwind from the day,
+read a book, write in your journal, play an instrument, game or exercise!
+Mindlessly/passively consuming other people's "content"
+is _wasting_ your life 
+not _making_ anything yourself.
+
+We _know_ this sounds "harsh".
+But nothing _meaningful_ is achieved 
+by sugar-coating the truth.
+
+# Don't Wast Your Life.
+
+<sup>*</sup>Note: _obviously_ day-to-day 
+[hygiene factors](https://en.wikipedia.org/wiki/Two-factor_theory)
+like personal care and caring for children
+are a _given_ that needs to be done.
+But in terms of projects unrelated to opening `@home`,
+don't waste your time on anything `else`! <br />
+
+<br />
+<hr />
+<br />
+-->
+
+# _Details_ 📝
+
+This update to the plan aims
+to **answer** as many **questions** as possible. ❓<br />
+We need **_complete_ clarity** on our **goals**
+and the **plan** to get us there. 🗺️<br />
+If you still **have questions**,
+[**_please_ open issues**](https://github.com/dwyl/home/issues)
+to discuss. 💬
+
+# Why?
+
+We have written _several_ iterations
+of the [business] plan over the years,
+yet some aspects remained unclear to key stakeholders.
+When the message is unclear,
+it is the duty of the creator/transmitter
+of that message - _not the receiver_ - to clarify it.
+
+## Family Friendly? 🤷‍♀️
+
+A simple **rule-of-thumb** is:
+if it **_not_ allowed**
+in a **kindergarten classroom/school**,
+it's **_not_ family-friendly**.
+
+Examples include:
+smoking,
+vaping,
+drinking alcohol
+or any other non prescription / illegal substances.
+
+[Profanity](https://en.wikipedia.org/wiki/Profanity)
+is discouraged
+as is shouting. <br />
+Any kind of [adult content](https://en.wiktionary.org/wiki/adult_content)
+is **_strictly_ forbidden**. 🚫 4️⃣0️⃣3️⃣
+
+Bottom line:
+**be nice** to ***everyone***. <br />
+If you see someone being unkind,
+_either_ politely help them understand
+what they were doing/saying is unkind,
+and/or inform the housemaster
+of the behaviour.
+
+<!--
+But somehow the key people “don’t know what we are doing”.
+Which means _nothing_ gets done [by them] towards the goal/plan.
+That needs to stop immediately. 
+We _all_ need to be working to the same goal/plan, 
+and moving as fast as we can to get there, before we 
+[run-out of cash!](https://github.com/dwyl/home/issues/244).
+There is no excuse for procrastination due to lack of clarity.
+
+
+## Context to the Updates 👶
+
+In 2018 when ~~we~~ I prepared the _first_ version of the goal/plan for the house,
+we were at a _very_ different stage in our lives; young(ish) and fancy-free!
+Fast forward ***6 years*** - yes the time is _flying_ 
+and we have _two_ children!! 😮
+And all the delightful pressure/stress that comes with bundles of joy. 😂
+
+We therefore have _several additional_ “***stakeholders***” and requirements for the house.
+-->
+
+# Accommodation
+
+**1: Family-friendly short-stay shared accommodation**
+in the top 2 floors of the house. <br />
+This includes the **4 large bedrooms**
+and “middle” floor which has the kitchen,
+dining room and current play room;
+which will be an _informal_ co-working room
+with both a sofa seating area and 10 ("hot") desks.
+There is space for **24 beds**.
+(4 rooms x 3 bunks x beds per bunk)
+
+Charging `€15`/night/bunk (market clearing in our city!)
+and having occupancy of 70% we get:
+24 x €15 x 365 days x 70% / 12 months
+= `€7665/month`
+
+> **Note**: There will be peak months
+> where occupancy reaches **95%** (June - sept)
+> and low season (Dec - Feb) where it’s only **20-30%**
+> so it balances out.
+> We will also encourage longer-term stays
+> with **30%** discounts
+> which equates to 70% occupancy.
+
+If the “overheads” for the businesses are shared
+and thus each only has to cover _half_,
+then both businesses instantly become (more) profitable/sustainable.
+Then it’s a question of figuring out the plan
+to make both coexist
+and ensure that parents are comfortable having their kids
+going to play group “next door”
+to a - carefully curated - co-living/working space.
+
+I think it’s very much a question of _framing_,
+making it clear that all members of the community
+are _thoroughly_ background-checked
+and having a very clear timetable
+for who has access to what & when.
+See timetable below.
+
+If we _specifically_ market the residence
+as “family focussed” it’s a niche
+that _definitely_ is not being addressed.
+
+## What does “family friendly” mean in _practice_?
+
+1. **All visitors must _apply_ to visit/stay**
+   and submit their identity document ahead of time.
+   This ensures that we _know_ exactly who is visiting.  
+   We will inform prospective members
+   that our app uses a background check service
+   to confirm people’s identity - similar to how a bank does “KYC” -
+   and if for _any_ reason their identity/background cannot be verified
+   we let them know with as much detail as we get.
+
+> **Note**: Identity submission is the `law` in `PT`,
+> all hotels, hostels and guesthouses (etc.)
+> are required to collect identification for guests
+> and inform the local police of who is staying where/when.
+> Ideally we operate on a **referral** basis
+> so someone has to be recommended by an _existing_ member (past guest)
+> like
+> [Soho House](https://www.sohohouse.com/membership)
+> in London.
+> This makes the org a _lot_ more sustainable
+> because we don’t have to waste time with advertising/marketing.
+> If the person making the referral has to “vouch” for the new member
+> and receives a small/token commission (e.g: Spotify Voucher)
+> when the referred person makes their _first_ payment
+> it heavily incentivize good people/behaviour.
+> In our Ts&Cs we will write that we
+> “reserve the right to reject an application
+> that does not pass "cultural fit".
+> We will provide the reason.
+> We hope _not_ to _need_ to do this.
+
+2. **Focussed on learning and personal development**
+  not entertainment and distraction. What does _that_ mean? 🤷‍♂️
+  simple: it means that infinity pool distraction Apps/Sites
+  that have a proven negative effect on people’s mental health
+  and suck as much of our time as possible
+  (such as Facebook, Instagram, SnapChat, TikTok, etc.)
+  are banned at the network level.
+  Whereas we have subscriptions to learning platforms like
+  [Brilliant.org](https://github.com/dwyl/product-ux-research/issues/48)
+  available for all to learn STEM
+  instead of doom scrolling their lives away.
+
+3. **_Strictly_ No alcohol**,
+  tobacco (or vape, etc)
+  or drugs/substances
+  (regardless of their decriminalised status) on premises.
+  No exceptions.
+  The **rule of thumb** is simple:
+  if it's **not allowed** in a **primary school** classroom,
+  it’s **not allowed** on **our premises**.
+  If people feel the need to have a beer or glass of wine with their meal,
+  that’s their decision,
+  simply have _that_ meal at a local restaurant and respect our rule.
+  Plenty of good reasonably priced restaurants in the area, all serve alcohol;
+  feel free to support the local economy. 👌
+
+4. Stated preference for **families _with_ children** but also welcoming to:
++ Couples _without_ children who are sympathetic to children -
+  e.g: teachers who haven’t yet started a family of their own.
+  For ref: there are **460k teachers** in the UK alone.
+  And **5.2M** across all of Europe see:
+  [ec.europa.eu/eurostat/edn-20201005-1](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/edn-20201005-1)
+  if we just target this group of people there is an **_excellent_ niche**.
+  > **Note**: I'm not saying we _will_ definitely focus on **Teachers**,
+  just giving an _example_ of a group of people we know well.
++ Retired people whose children have left home
+  but still remember what it’s like to have small children around.
+  e.g: grandparents who love having small children around.
+
+All of these are huge market segments,
+it’s just a question of appropriately keyword targeting them with our content.
+The only people we are (indirectly)
+excluding are those whose prefer “adult only” (no children)
+resorts and young adults who want to “party”.
+There are *plenty* of other places/venues
+that cater for these people.
+By *specifically* informing people
+that we don’t, they self-select and filter.
+
+1. **_Friendly_ Pets** are very **welcome**,
+  but must be walked (off-property) and kept clean/tidy.
+  They sleep outside.
+  We can create a small kennel if there is demand.
+  Don’t think many people will be traveling with pets
+  so not worried about this one being over-subscribed.
+  Just want to leave the option open.
+
+Remember: we only have 24 (eventually 38) beds
+so not a lot of space.
+Once demand reaches a sustainable level
+where we have good word-of-mouth and a waiting list,
+we can be highly selective with people.
+
+Young adults that want to focus
+on their health and personal learning/improvement
+will instantly _get_ it.
+Those who prefer a party house can easily find one.
+I wager the people wanting a quiet+healthy house
+will soon outnumber the rest
+once word spreads how much better it is.
+
+# Childcare
+
+Childcare is a challenge all parents face.
+In our case we live `~400km`
+from our parents/in-laws,
+so regular grandparent care
+is not feasible for us the way it is for many other families.
+Ditto for aunts and uncles.
+So we are pretty much “on our own”.
+This is both good, because it forces us
+to resolve the challenge creatively on our own,
+and obviously bad because our children
+spend far too little time with their extended family. 😢
+
+I refer to childcare as a “challenge”
+for the simple reason
+that if we want to continue working
+on anything for our company/business,
+that involves the adults
+spending decent chunks of uninterrupted focus time at a computer.
+Computer focus time
+is not compatible with toddlers that are curious,
+constantly moving and _loud_.
+
+## “Traditional” Childcare
+
+I use the quotes around the word “traditional”
+to emphasize that this is a _very_ recent societal construct
+of “modern” (post-industrial revolution) society.
+Much like the “tradition”
+of Santa Clause 🎅
+Halloween 🎃
+or Valentine’s Day 🌹❤️
+they all serve a very specific _commercial_ purpose
+beyond their original cultural significance.
+
+Taking one’s children to an institution
+that is professionally run
+by people outside of one’s family
+and leaving the children with them
+for  08:30 - 17:00 each day
+so that _both_ parents can go to work,
+is a _very_ recent - and arguably **_societally undesirable_** - phenomena.
+However, since it has existed as a social norm
+for the past couple of generations,
+most people don’t question it.
+The same way _most_ people don’t question
+burning non-renewable fossil fuels for basic transport,
+heating or food production. ⛽️🔥😢
+
+Just like we need to
+[#StopBurningStuff](https://m.youtube.com/hashtag/stopburningstuff),
+we need to get away from the “modern”
+[_outsourcing_](https://en.wikipedia.org/wiki/Outsourcing)
+of parenting that leads to suboptimal outcomes.
+
+The _last_ thing we want
+is to offload our children to “traditional” childcare
+in the form of a pre-school.
+As noted by Sir Ken Robinson
+in the
+[most viewed TED Talk](https://www.ted.com/playlists/171/the_most_popular_ted_talks_of_all_time)
+of _all_ time
+(by a wide margin!)
+_most_ schools “kill creativity”:
+[ted.com/talks/sir_ken_robinson_do_schools_kill_creativity](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity)
+or
+[youtu.be/iG9CE55wbtY](https://youtu.be/iG9CE55wbtY)
+I know that I felt this at the various schools I attended as a child;
+the best case scenario was "controlled creativity" in Art Class,
+but the worst-case was "_shut-up and memorise this for the test_". 😕
+Even in my favourite lesson, Design and Technology (DT),
+there were always _artificial_ - usually budgetary - limits
+to what we could create in the lessons.
+<!--
+In a fee-paying ("private") school,
+we weren't allowed to build/make anything
+that required purchasing additional materials not on the budget
+this placed an limit on our creativity.
+I often said I would _pay_ for and bring-in the materials,
+but this wasn't allowed; creativity was subtly killed.
+-->
+
+The “fix” is remarkably simple:
+1. Teachers should be well educated and _compensated_ - like they are in Finland. 🇫🇮 😍 
+2. They should have access to good resources
+   so they never skip an activity for lack of money.
+   Not the absurdly low budgets
+   we often see even in fee-paying schools!
+3. Learning  cannot be run “for profit”,
+   rather the bottom line is:
+   are children _thriving_?
+   Schools should be run sustainably
+   and _never_ “Private Equity” financed.
+
+## Can We Run _Two_ Ideas in the *Same* House? <br />
+## Spoiler: _Yes_! _Especially_ if they are Complimentary/Symbiotic!
+
+It’s just a question of framing the concept
+so everyone understands. <br />
+We aren’t building a “school” or a “hostel”
+there are plenty of those already. _Boring_! 🥱 <br />
+We’re building a **life-long learning _community_**
+that **inspires curiosity & creativity**
+in **people** of **_all_ ages**. <br />
+It starts as young as possible with
+[Montessori](https://en.m.wikipedia.org/wiki/Montessori_education) /
+[Waldorf](https://en.m.wikipedia.org/wiki/Waldorf_education)
+principles of self-directed/lead group-based learning in infants.
+Children are lead and cared for by competent/trained/qualified adults.
+Adults visiting the house are carefully filtered
+for those who are life-long-learners.
+
+# Montessori Playgroup (“Centro de Actividades”)
+
+We have **space** for **21 children**
+in a **60m**<sup>2</sup> room
+and **120m**<sup>2</sup> Garden Space.
+
+If we operate under the following assumptions/constraints:
+
+1. All fixed overhead costs of the co-living space
+   can be shared with the playgroup. <br />
+   Including mortgage, electricity, building/grounds maintenance,
+   full-time cleaner and admin.
+2. The south garden space is for _exclusive_ use
+   of the playgroup during the day 08:00 - 18:00.
+   Other activities (e.g. Yoga, Pilates & Meditation🧘‍♂️)
+   are possible 18:00 - 21:00 and weekends.
+3. Ground level _South_ garden is used by playgroup during the day too.
+4. Basement bathroom is used by playgroup during the day.
+   Anyone using the pool + sauna + spa during the day
+   must _reserve_ a spot using our App.
+   That way everyone knows _exactly_ who is using which facilities.
+5. Play ("Leisure") room is reserved
+   for **`2h`** each **morning** during **weekdays**.
+6. Basement (“MR Room” -> “Nap Room”) will have 3 (Full-size) Bunk Beds
+   tailored to children taking naps.
+   It will be called the “Nap Room”
+   and children can use it at any time during the week.
+   The 3 full-size bunks (6 beds) will be made available on “busy weekends”
+   (Friday, Saturday & Sunday Night).
+   Guests must checkout by 11:00 Monday Morning.  
+   The Room is cleaned/reset 11:00 - 12:00 ready for weekday nap times.
+7. The basement office will continue to be the office.
+   It needs to be **_hyper_ organized** to run both businesses.
+   “Authoriszed Persons Only” sign on the door.
+
+**_Potential_ Revenue** of `PlayGroup`: <br />
++ 14 children. Parents paying `€350/month = €4,900`
++ 21 children. Parents paying `€350/month = €7,350`
+
+This revenue is _far_ from enough
+to sustain the _whole_ building
+as previously noted in our  
+[playgroup calculations spreadsheet](https://github.com/bmhco/private/issues/136).
+But it means we can afford to pay for two competent + trained people
+to look after the children and have a good teacher:student ratio.
+
+With a ratio of 8 children per adult
+we could bring the price down to `€320/month`
+and still keep the lights on.
+
+This is a much more attractive (market clearing) price
+and still totally doable in terms of the available space. 💭
+
+# _Sample_ Time Tables
+
+This is a _sample_ timetable for illustrative purposes.
+Revision/improvement welcome!
+
+## Average Day
+
+|  Time | Children | Adults |
+|--- |--- |--- |
+| 07:00 - 08:00  | Waking up & get dressed       | Wake up / Exercise / Quiet Time   |
+| 08:00 - 09:00 | Breakfast + quiet play/reading | Personal Time / Breakfast         |
+| 09:00 - 11:50 | Morning Play/Work Period       | Morning Quiet Work Time           |
+| 11:50 - 12:00 | Pre-lunch hand-wash break      | Finalize work and tidy desk       |
+| 12:00 - 12:25 | Children's Lunch               | Adults Prepare/buy Lunch          |
+| 12:25 - 12:30 | Clear/Clean Dining Room        | Stay clear of the cleaning!       |
+| 12:30 - 13:00 | Prepare for Nap                | Adults' Lunch                     |
+| 13:00 - 15:00 | Nap Time (Optional)            | Afternoon Quiet Work 1            |
+| 15:00 - 17:00 | Afternoon Play/Work            | Afternoon Work 2                  |
+| 17:00 - 18:30 | Free Time / Sports / Park!     | Creative / Work 3 / Admin         |
+| 18:30 - 18:55 | Children/Parent's Dinner       | Adults _Prepare_ Dinner           |
+| 18:55 - 19:00 | Clear/clean Dining Room        | Plate Dinner                      |
+| 19:00 - 19:30 | Children Bath                  | Adult's Dinner                    |
+| 19:30 - 20:00 | Bed-time Story + Sleep!        | Clear/clean dining room & Kitchen |
+| 20:00 - 21:00 | All Quiet on Top 2 Floors      | Quiet Creative / Contemplation    |
+| 21:00 - 07:00 | Sleep!                         | Get as much sleep as possible ... |
+
+## Facility/Room Usage
+
+We have several rooms/facilities in the house
+and need a clear timetable for usage e.g:
+
+|  Time         |  Play Room          |  Library          |  Workshop         |  Garden         |  Pool           |  
+|-------------- |-------------------- |------------------ |------------------ |---------------- |---------------- |
+| 07:00 - 08:30 | _Quiet_ Music       |  Quiet Read       | Quiet Work        | Kids            | Any             |
+| 08:30 - 09:00 | Louder Music        |  Kids Read        | Noisy Build       | Kids            | Clean           |
+| 09:00 - 11:50 | Kids Music          | Kids Read         | Noisy Build       | Kids            | Anyone          |
+| 12:00 - 13:00 | Adult Music         | Clean + Reset     | Mid-Volume Build  | Planting Time   | Adults          |
+| 13:00 - 15:00 | _Quiet_ Music       | Quiet Read        | Quiet Build       | Planting / Kids | Adults (quiet)  |
+| 15:00 - 17:00 | Clean + Reset       | Quiet Read        | Kids/Noisy Build  | Kids            | Kids            |
+| 17:00 - 18:30 | Anyone              | Quiet Reading     | Noisy Build       | Clean  + Reset  | Family          |
+| 18:30 - 19:30 | Adult (Noisy) Music | Quiet Read        | Quiet Build       | Yoga / Pilates  | Family          |
+| 19:30 - 20:00 | Quiet Music / Film  | Quiet Read        | Clean + Reset     | Meditation      | Leisure         |
+| 20:00 - 21:00 | Quiet Games / Film  | Adult Quiet Read  | Laser + 3D Print! | Martial Arts    | Tri (quiet)     |
+| 21:00 - 07:00 | Quiet Games / Film  | Inspiring Reading | Prep Next Day     | Closed          | Closed          |
+
+<hr />
+
+# _OLD_ VERSION
+
+For historical purposes,
+the older version of the `README.md`
+is kept below.
+Still relevant for context.
 
 <hr />
 
 ## _Why_?
 
-
-
-People are often more productive/effective when working from [their own] home:
+People are often more productive/effective 
+when working from [their own] home:
 
 ![working-from-home](https://user-images.githubusercontent.com/194400/43996896-071d1e66-9dc5-11e8-93e2-9a4b3fa000c9.png) <br />
 http://paulgraham.com/opensource.html > Workplaces
@@ -852,7 +1461,7 @@ Sir Ken Robinson makes an entertaining and profoundly moving case
 for creating an education system that nurtures
 (rather than undermines) creativity.
 https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity
-![image](https://user-images.githubusercontent.com/194400/44625443-cd5ca200-a909-11e8-92a3-d50464c07be3.png)
+![do-schools-kill-creativity](https://user-images.githubusercontent.com/194400/44625443-cd5ca200-a909-11e8-92a3-d50464c07be3.png)
 
 Clearly this talk resonates with a _lot_ of people as do his various books.
 
@@ -933,9 +1542,6 @@ but with a Hardware Hacking Lab in the basement, we expect
 at least one of our members to get creative with this.
 
 
-
-
-
 ### Universal Basic Income?
 
 https://basicincome.ycr.org/our-plan
@@ -962,3 +1568,5 @@ https://www.dezeen.com/2017/11/14/one-shared-house-2030-ikea-space10-lab-anton-i
 + History of Co-living:
 https://issuu.com/lisainteriors/docs/design_studio_research
 + https://www.theguardian.com/world/2018/aug/15/happy-together-lonely-baby-boomers-turn-to-co-housing
+
+[![HitCount](https://hits.dwyl.com/dwyl/home.svg)](https://hits.dwyl.com/dwyl/home)
